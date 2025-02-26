@@ -32,3 +32,8 @@ htmlcov/
 # Local development
 *.log
 .DS_Store
+
+
+#Project files
+examples/dataset_v2.json
+pdfs/
