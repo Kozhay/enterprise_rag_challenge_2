@@ -3,3 +3,4 @@ tiktoken
 pymupdf4llm
 openai
 ollama
+litellm

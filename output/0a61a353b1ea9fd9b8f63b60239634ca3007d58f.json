@@ -2,151 +2,179 @@
     "company_name": "0a61a353b1ea9fd9b8f63b60239634ca3007d58f",
     "data_points": [
         {
+            "metric_type": "net profit margin",
+            "value": 0.013,
+            "currency": "OTHER",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 4
+        },
+        {
             "metric_type": "total revenue",
-            "value": 1234567890,
+            "value": 11987100,
             "currency": "USD",
-            "point_in_time_as_iso_date": "2023-10-31",
-            "src_pdf_page": 1
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 4
         },
         {
             "metric_type": "operating margin",
-            "value": 567890123,
-            "currency": null,
-            "point_in_time_as_iso_date": "2022-11-30",
-            "src_pdf_page": 2
+            "value": 0.026,
+            "currency": "OTHER",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 4
         },
         {
-            "metric_type": "sustainability initiatives spending",
-            "value": 0,
-            "currency": "AUD",
+            "metric_type": "net income",
+            "value": 152000000,
+            "currency": "USD",
             "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 11
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 0,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 11
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 12000000000,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 11
+            "src_pdf_page": 12
         },
         {
             "metric_type": "earnings per share (EPS)",
-            "value": 0.152,
-            "currency": "AUD",
+            "value": 21.3,
+            "currency": "OTHER",
             "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 11
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": 0.03,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 11
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 0.33,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 11
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": 0.1764,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 11
+            "src_pdf_page": 61
         },
         {
             "metric_type": "total assets",
-            "value": 50000000,
-            "currency": "AUD",
+            "value": 7461000,
+            "currency": "USD",
             "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 11
+            "src_pdf_page": 62
         },
         {
             "metric_type": "total liabilities",
-            "value": 45000000,
-            "currency": "AUD",
+            "value": 4627000,
+            "currency": "USD",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 62
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 2834000,
+            "currency": "USD",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 62
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 2500000,
+            "currency": "USD",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 12
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 11987100,
+            "currency": "USD",
             "point_in_time_as_iso_date": "2022-06-30",
             "src_pdf_page": 11
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 495400000,
+            "currency": "USD",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 12
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 0.02,
+            "currency": "OTHER",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 4
         },
         {
             "metric_type": "free cash flow",
-            "value": 0,
-            "currency": "AUD",
+            "value": 10450000,
+            "currency": "USD",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 12
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 4627000,
+            "currency": "USD",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 62
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 11987100,
+            "currency": "USD",
             "point_in_time_as_iso_date": "2022-06-30",
             "src_pdf_page": 11
         },
         {
-            "metric_type": "total revenue",
-            "value": 0.2,
+            "metric_type": "net profit margin",
+            "value": 0.013,
+            "currency": "OTHER",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 4
+        },
+        {
+            "metric_type": "total assets",
+            "value": 7461000,
             "currency": "USD",
             "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 17
+            "src_pdf_page": 62
         },
         {
-            "metric_type": "earnings per share (EPS)",
-            "value": 12.0,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-09-28",
-            "src_pdf_page": 17
-        },
-        {
-            "metric_type": "total revenue",
-            "value": -1.2,
+            "metric_type": "total assets",
+            "value": 7461000,
             "currency": "USD",
             "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 17
+            "src_pdf_page": 62
         },
         {
-            "metric_type": "earnings per share (EPS)",
-            "value": 0.12,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-08-31",
-            "src_pdf_page": 17
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 8.1,
+            "metric_type": "total assets",
+            "value": 7461000,
             "currency": "USD",
             "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 17
+            "src_pdf_page": 62
         },
         {
-            "metric_type": "earnings per share (EPS)",
-            "value": 12.0,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-09-28",
-            "src_pdf_page": 17
-        },
-        {
-            "metric_type": "total revenue",
-            "value": -1.2,
-            "currency": "USD",
+            "metric_type": "shareholders' equity",
+            "value": 675425623,
+            "currency": "OTHER",
             "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 17
+            "src_pdf_page": 144
         },
         {
-            "metric_type": "earnings per share (EPS)",
-            "value": 0.12,
-            "currency": "AUD",
-            "point_in_time_as_iso_date": "2022-08-31",
-            "src_pdf_page": 17
+            "metric_type": "market capitalization",
+            "value": 603272583,
+            "currency": "OTHER",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 146
         },
         {
             "metric_type": "total revenue",
-            "value": 8.1,
-            "currency": "USD",
+            "value": 241772057,
+            "currency": "OTHER",
             "point_in_time_as_iso_date": "2022-06-30",
-            "src_pdf_page": 17
+            "src_pdf_page": 146
+        },
+        {
+            "metric_type": "total assets",
+            "value": 1350000000,
+            "currency": "OTHER",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 149
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 680000000,
+            "currency": "OTHER",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 149
+        },
+        {
+            "metric_type": "net income",
+            "value": 220000000,
+            "currency": "OTHER",
+            "point_in_time_as_iso_date": "2022-06-30",
+            "src_pdf_page": 149
         }
     ]
 }

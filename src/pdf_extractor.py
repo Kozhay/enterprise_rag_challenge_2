@@ -7,6 +7,7 @@ import logging
 import re
 import json
 import os
+from litellm import completion
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -143,31 +144,32 @@ def extract_document_content(text):
     
     
 
-    from ollama import chat
     
     messages = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": text},
       ]
     
-    response = chat(
+    response = completion(
+        model='gpt-4o-mini', #"ollama_chat/deepseek-r1:8b",
         messages=messages,
-        model='deepseek-r1:8b', #llama3.1:latest 
-        format=DocumentContent.model_json_schema(),
-    )
-    response_dict = json.loads(response.message.content)
+        response_format=DocumentContent,
+        #api_base="https://ollama-euw1.bwt-chatbwt-l3ke.avossuite.dev/"
+        )
+
+    response_dict = json.loads(response.choices[0].message.content)
     return response_dict
 
 
 
  # Set tokenizer model (e.g., "gpt-4" or "gpt-3.5-turbo")
-TOKENIZER = tiktoken.encoding_for_model("gpt-4")
+TOKENIZER = tiktoken.encoding_for_model("gpt-4o-mini")
 name='0a61a353b1ea9fd9b8f63b60239634ca3007d58f'
 
 pdf_path = f"examples/pdfs/{name}.pdf"
 
 # Parse PDF
-pdf_parsed_texts = parse_pdf(pdf_path, pages=[10, 16], max_tokens=1_000)
+pdf_parsed_texts = parse_pdf(pdf_path, max_tokens=100_000)
 
 # Extract structured data
 structured_datas = []
