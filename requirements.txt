@@ -1,5 +1,5 @@
 pydantic
-click
-pandas
-pdfplumber
 tiktoken
+pymupdf4llm
+openai
+ollama
