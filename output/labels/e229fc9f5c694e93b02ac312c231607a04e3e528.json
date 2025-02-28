@@ -1,0 +1,410 @@
+{
+    "company_name": "Trinity Place Holdings Inc.",
+    "file_name": "e229fc9f5c694e93b02ac312c231607a04e3e528",
+    "data_points": [
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Number of fulfillment centers at year-end",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Private label SKUs in portfolio",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Real Estate",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                24,
+                25
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                24,
+                25
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                24,
+                25
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                24,
+                25
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                24,
+                25
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Private label SKUs in portfolio",
+            "metric_src_pdf_page": [
+                24,
+                25
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                67
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                66,
+                67,
+                68
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                67,
+                68,
+                69
+            ]
+        },
+        {
+            "company_name": "Trinity Place Holdings Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                102,
+                105
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                21
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                21
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                23,
+                24
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                43,
+                44
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                73,
+                77,
+                78
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                75,
+                76,
+                80
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                75,
+                76,
+                78
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                115,
+                116,
+                117,
+                118,
+                119
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                7,
+                12,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                12,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                12,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                12,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                12,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                12,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                25,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                25,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                25,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                25,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                25,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                48
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                48
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                67,
+                68,
+                69
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                68,
+                69,
+                70
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                69,
+                70,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                106,
+                107,
+                108
+            ]
+        }
+    ]
+}

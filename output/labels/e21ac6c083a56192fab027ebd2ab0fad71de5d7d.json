@@ -1,0 +1,1019 @@
+{
+    "company_name": "Emera Inc.",
+    "file_name": "e21ac6c083a56192fab027ebd2ab0fad71de5d7d",
+    "data_points": [
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                4,
+                7
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                3,
+                6,
+                10
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Distribution network length",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                4,
+                10
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                3,
+                6,
+                10
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                6,
+                8
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                6,
+                10
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                34,
+                35,
+                37,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                34,
+                35,
+                37,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                34,
+                35,
+                37,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                34,
+                35,
+                37,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Distribution network length",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                34,
+                35,
+                37,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                34,
+                35,
+                37,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                34,
+                35,
+                37,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                34,
+                35,
+                37,
+                38,
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Emera Incorporated",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                63,
+                75
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                82,
+                90
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                82,
+                89
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                90,
+                91
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                90,
+                91
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                83,
+                85
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                82,
+                89
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                90,
+                91
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Distribution network length",
+            "metric_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                85
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                86
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                87
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven oil reserves (if applicable)",
+            "metric_src_pdf_page": [
+                90
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                86
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                118,
+                119
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                117,
+                126
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                119,
+                128
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                106,
+                125
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                118,
+                129
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Distribution network length",
+            "metric_src_pdf_page": [
+                117,
+                118
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                117,
+                128
+            ]
+        },
+        {
+            "company_name": "Emera",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                118,
+                119
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                132,
+                137,
+                140,
+                143
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                132,
+                143
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                132,
+                143
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                132,
+                143
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "company_name": "Emera Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                137,
+                143
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                2,
+                6
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                8,
+                10
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                6,
+                22
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                5,
+                24
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                10,
+                14
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                12,
+                24
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                7,
+                23
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                10,
+                19
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                8,
+                27
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                3,
+                10
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                6,
+                20
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                31,
+                32,
+                33,
+                35,
+                37,
+                40,
+                41
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                57
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                96,
+                97,
+                98
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                96,
+                97
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                90,
+                91
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                96,
+                97,
+                98
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                89,
+                90,
+                92
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                89,
+                90,
+                91
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                90,
+                91
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                89,
+                90,
+                91
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                89,
+                90,
+                91
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                89,
+                90,
+                91
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                106,
+                126,
+                130
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                111,
+                112,
+                129,
+                131
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                141
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                20,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                10,
+                19
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                10,
+                19
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                10,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                10,
+                19
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                10,
+                20
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                10,
+                20
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                10,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                20,
+                30
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                20,
+                26
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                20,
+                30
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                31,
+                32,
+                33,
+                35,
+                36,
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                31,
+                32,
+                33,
+                35,
+                36,
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                31,
+                32,
+                35,
+                36,
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                31,
+                32,
+                35,
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                75,
+                79
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                75,
+                79
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                75
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                107,
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                108,
+                124
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                108,
+                115,
+                124
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                142
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "company_name": "Syndax Pharmaceuticals, Inc.",
+    "file_name": "e2923f240db86d0096f462f6cb398339d3251b50",
+    "data_points": [
+        {
+            "company_name": "Syndax Pharmaceuticals, Inc.",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                5,
+                6
+            ]
+        },
+        {
+            "company_name": "Syndax Pharmaceuticals, Inc.",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Syndax Pharmaceuticals, Inc.",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                89
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                7
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                66,
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                67
+            ]
+        }
+    ]
+}
