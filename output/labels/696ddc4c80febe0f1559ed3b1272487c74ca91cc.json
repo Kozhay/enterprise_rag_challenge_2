@@ -1,0 +1,293 @@
+{
+    "company_name": "Commerzbank",
+    "file_name": "696ddc4c80febe0f1559ed3b1272487c74ca91cc",
+    "data_points": [
+        {
+            "company_name": "Commerzbank",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                2,
+                75,
+                86,
+                88,
+                160
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                320,
+                290,
+                280,
+                279,
+                278,
+                277,
+                276,
+                275,
+                274,
+                273
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                301,
+                277
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                277
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                277
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                75,
+                86,
+                90
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                320,
+                319,
+                318
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                320,
+                319,
+                318
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                320,
+                319,
+                318
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                320,
+                319,
+                318
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                320,
+                319,
+                318
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                320,
+                319,
+                318
+            ]
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "company_name": "Westwater Resources, Inc.",
+    "file_name": "92d9de8e4db96e0b95a484afcd1c54c6beb62c03",
+    "data_points": [
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Distribution network length",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven oil reserves (if applicable)",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        },
+        {
+            "company_name": "Westwater Resources, Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                8,
+                12
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                17
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                30,
+                31
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                8,
+                12,
+                30
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                44
+            ]
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+{
+    "company_name": "James Halstead plc",
+    "file_name": "71d137454a1524843e1f49b34603438510232919",
+    "data_points": [
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Number of fulfillment centers at year-end",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Private label SKUs in portfolio",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "company_name": "James Halstead plc",
+            "industry": "Retail",
+            "metric_type": "Online order fulfillment capacity (daily)",
+            "metric_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                5,
+                7,
+                9,
+                33
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                7,
+                9,
+                30
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                5,
+                7,
+                9,
+                60
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                5,
+                7,
+                9,
+                60
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                31,
+                39,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "risk management spending",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "customer acquisition spending",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                33,
+                47,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "sustainability initiatives spending",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                33,
+                47,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                31,
+                33,
+                39,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                33,
+                47,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "intangible assets",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "marketing spending",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                31,
+                33,
+                47,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "accounts receivable",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "acquisition costs",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "quick ratio",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "inventory",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                31,
+                33,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                31,
+                33,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "gross margin",
+            "fin_metrics_src_pdf_page": [
+                33,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                30,
+                31,
+                39
+            ]
+        }
+    ]
+}

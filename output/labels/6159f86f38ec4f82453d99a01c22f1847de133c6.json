@@ -1,0 +1,313 @@
+{
+    "company_name": "Senti Biosciences, Inc.",
+    "file_name": "6159f86f38ec4f82453d99a01c22f1847de133c6",
+    "data_points": [
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                130,
+                131,
+                132,
+                140,
+                147,
+                148,
+                150,
+                155,
+                165
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                130,
+                131,
+                140,
+                148,
+                150,
+                157,
+                165
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                291
+            ]
+        },
+        {
+            "company_name": "Senti Biosciences, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                297
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                1,
+                56
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                6,
+                22
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                6,
+                22
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                6,
+                22
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                41,
+                51
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                130,
+                140,
+                161
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                131,
+                140,
+                161
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                286,
+                287,
+                288,
+                289
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                288,
+                291
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                41,
+                51
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                41,
+                51
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                41,
+                51
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                41,
+                51
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                134,
+                136,
+                138
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                134,
+                136,
+                138
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                134,
+                136,
+                138
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                147,
+                148,
+                150
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                300,
+                302
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                299
+            ]
+        }
+    ]
+}

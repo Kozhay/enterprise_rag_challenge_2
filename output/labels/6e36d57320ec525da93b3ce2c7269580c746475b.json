@@ -1,0 +1,301 @@
+{
+    "company_name": "DiaMedica Therapeutics Inc.",
+    "file_name": "6e36d57320ec525da93b3ce2c7269580c746475b",
+    "data_points": [
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                1,
+                3,
+                10,
+                12,
+                44
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                1,
+                10,
+                44
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                1,
+                10,
+                44
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                1,
+                10,
+                12,
+                44
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                1,
+                10,
+                12,
+                44
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                1,
+                10,
+                12,
+                44
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                1,
+                3,
+                10,
+                12,
+                44
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                157,
+                159,
+                162,
+                170
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                159,
+                162,
+                170
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                158,
+                164
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                158,
+                164,
+                170
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                159,
+                177
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                157,
+                158,
+                163
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                157,
+                158,
+                170
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                157,
+                162,
+                170
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                157,
+                162,
+                170
+            ]
+        },
+        {
+            "company_name": "DiaMedica Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                157,
+                159,
+                170
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                3,
+                4,
+                12,
+                90
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                10,
+                11,
+                40,
+                49
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                1,
+                3,
+                10,
+                44
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                158,
+                160
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                158,
+                167
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                162,
+                187
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                1,
+                5,
+                6,
+                92,
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                1,
+                5,
+                10,
+                12,
+                92
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                1,
+                5,
+                10,
+                12,
+                92
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                1,
+                5,
+                10,
+                12,
+                92
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                170,
+                172
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                147,
+                170
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                159,
+                170
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                170
+            ]
+        }
+    ]
+}

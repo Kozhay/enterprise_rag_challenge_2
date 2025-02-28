@@ -1,0 +1,164 @@
+{
+    "company_name": "EPI (HOLDINGS) LIMITED",
+    "file_name": "674a255d82495ef40189645697460801193e5a2d",
+    "data_points": [
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                91,
+                86
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                54,
+                56,
+                57,
+                170
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                93
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                77
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                177
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                177
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "company_name": "EPI (Holdings) Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                60
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                6,
+                84,
+                89,
+                174
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                8,
+                45,
+                49
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                7,
+                10,
+                12
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                86
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                83,
+                153
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                170
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                167
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                177
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                172
+            ]
+        }
+    ]
+}

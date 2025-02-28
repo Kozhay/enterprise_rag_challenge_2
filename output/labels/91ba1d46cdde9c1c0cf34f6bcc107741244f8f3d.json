@@ -1,0 +1,166 @@
+{
+    "company_name": "Nordic American Tankers Limited",
+    "file_name": "91ba1d46cdde9c1c0cf34f6bcc107741244f8f3d",
+    "data_points": [
+        {
+            "company_name": "Nordic American Tankers Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vessels) at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                63
+            ]
+        },
+        {
+            "company_name": "Nordic American Tankers Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vessels) at year-end",
+            "metric_src_pdf_page": [
+                45,
+                48,
+                54
+            ]
+        },
+        {
+            "company_name": "Nordic American Tankers Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Nordic American Tankers Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                63
+            ]
+        },
+        {
+            "company_name": "Nordic American Tankers Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "company_name": "Nordic American Tankers Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                66
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                7,
+                37,
+                92
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                8,
+                65
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                38,
+                66
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                7,
+                8,
+                60
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                73
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                99,
+                101
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                95,
+                100
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                103,
+                105
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                99,
+                102
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                103
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                100,
+                105
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                60,
+                74
+            ]
+        }
+    ]
+}

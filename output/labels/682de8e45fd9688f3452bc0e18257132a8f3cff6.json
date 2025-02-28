@@ -1,0 +1,322 @@
+{
+    "company_name": "Sonic Automotive, Inc.",
+    "file_name": "682de8e45fd9688f3452bc0e18257132a8f3cff6",
+    "data_points": [
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Inventory of finished vehicles at year-end",
+            "metric_src_pdf_page": [
+                61,
+                62
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Number of electric models available",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Number of hybrid models available",
+            "metric_src_pdf_page": [
+                5,
+                61
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "R&D workforce headcount",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Number of EV charging stations in network",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Vehicle production capacity (units/year)",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "End-of-period market share (by units sold)",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Battery production capacity (if applicable)",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Number of electric models available",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Number of hybrid models available",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Inventory of finished vehicles at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                33
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                33
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "R&D workforce headcount",
+            "metric_src_pdf_page": [
+                33
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                118,
+                119,
+                120
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                8,
+                9,
+                10,
+                12,
+                27
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                20,
+                11
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                11,
+                30
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                10,
+                4
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                10,
+                11
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                27,
+                22,
+                3
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                122,
+                123
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                8,
+                10,
+                32,
+                48
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                4,
+                7,
+                10,
+                12,
+                45,
+                57
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                14,
+                38,
+                89,
+                32
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                4,
+                10,
+                58
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                32,
+                8,
+                10
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                7,
+                34,
+                91
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                92,
+                65
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                118,
+                119,
+                120
+            ]
+        }
+    ]
+}

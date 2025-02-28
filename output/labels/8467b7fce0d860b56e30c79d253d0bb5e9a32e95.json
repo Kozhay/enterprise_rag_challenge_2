@@ -1,0 +1,294 @@
+{
+    "company_name": "Bridgewater Bancshares, Inc.",
+    "file_name": "8467b7fce0d860b56e30c79d253d0bb5e9a32e95",
+    "data_points": [
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                2,
+                2,
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                2,
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                2,
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                2,
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                2,
+                4,
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                2,
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                2,
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                2,
+                71
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                71,
+                90
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                106,
+                129
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                117
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                109
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                3,
+                5,
+                4
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                4,
+                6
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                5,
+                6
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                2,
+                7
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                140
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                157
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                2,
+                71,
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                71,
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                71,
+                90
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                71,
+                90
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                71,
+                90
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                106,
+                129
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                140
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                139
+            ]
+        }
+    ]
+}

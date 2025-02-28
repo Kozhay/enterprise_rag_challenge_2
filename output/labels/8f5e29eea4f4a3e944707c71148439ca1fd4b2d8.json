@@ -1,0 +1,231 @@
+{
+    "company_name": "Empire Company Limited",
+    "file_name": "8f5e29eea4f4a3e944707c71148439ca1fd4b2d8",
+    "data_points": [
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Number of company-owned outlets",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Number of franchised outlets",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Food safety certifications (sites certified)",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Brand portfolio size (distinct brands at year-end)",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Number of depots in distribution network",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "SKU count in portfolio",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Raw material supply contracts",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Inventory of raw materials at year-end",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        },
+        {
+            "company_name": "Empire Company Limited",
+            "industry": "Food Retailing",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                0,
+                16
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                6,
+                11,
+                12,
+                17
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                12,
+                22
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                11,
+                25,
+                38
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                18,
+                19,
+                20,
+                22,
+                26,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                24,
+                27,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                22,
+                23,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                18,
+                19,
+                20,
+                22,
+                26,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                18,
+                19,
+                20,
+                21,
+                22,
+                26,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                18,
+                19,
+                20,
+                22,
+                26,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                22,
+                27,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                18,
+                19,
+                20,
+                22,
+                26,
+                41
+            ]
+        }
+    ]
+}

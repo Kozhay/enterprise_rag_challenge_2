@@ -1,0 +1,206 @@
+{
+    "company_name": "Terns Pharmaceuticals, Inc.",
+    "file_name": "79ffb9b8682aa565172233c070a47d944464644c",
+    "data_points": [
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                5,
+                6
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceuticals",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134
+            ]
+        },
+        {
+            "company_name": "Terns Pharmaceuticals, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                6,
+                18,
+                19,
+                27,
+                33
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                2,
+                92
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                5,
+                6
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                5,
+                6,
+                18
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                125,
+                126
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                60,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                60,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                60,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                60,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                60,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                127,
+                129,
+                131,
+                138
+            ]
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "company_name": "SThree plc",
+    "file_name": "67185fca2a09b3c46ee961b2c1ae160dab8b5231",
+    "data_points": [
+        {
+            "company_name": "SThree",
+            "industry": "STEM",
+            "metric_type": "Number of active software licenses",
+            "metric_src_pdf_page": [
+                4,
+                8,
+                9
+            ]
+        },
+        {
+            "company_name": "SThree",
+            "industry": "STEM",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                20,
+                29,
+                28,
+                22
+            ]
+        },
+        {
+            "company_name": "SThree",
+            "industry": "STEM",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                4,
+                36
+            ]
+        },
+        {
+            "company_name": "SThree",
+            "industry": "STEM",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                4,
+                8,
+                9,
+                12
+            ]
+        },
+        {
+            "company_name": "SThree plc",
+            "industry": "Recruitment",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                126,
+                125,
+                120,
+                111,
+                105
+            ]
+        },
+        {
+            "company_name": "SThree plc",
+            "industry": "Recruitment",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                126,
+                125,
+                120,
+                111,
+                105
+            ]
+        },
+        {
+            "company_name": "SThree plc",
+            "industry": "Recruitment",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                126,
+                125
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                8,
+                26,
+                30
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                12,
+                20,
+                14,
+                21
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                10,
+                21,
+                20,
+                84
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                4,
+                7,
+                21,
+                22,
+                26
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                107,
+                108
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                7,
+                108
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                102,
+                106,
+                118,
+                124
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                44,
+                70,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                44,
+                70
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                44,
+                79
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                44,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                39,
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                39,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                98,
+                99,
+                100,
+                101,
+                105,
+                107,
+                126
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                98,
+                99,
+                100,
+                101,
+                105,
+                107,
+                126
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                98,
+                99,
+                100,
+                101,
+                105,
+                107,
+                126
+            ]
+        }
+    ]
+}
