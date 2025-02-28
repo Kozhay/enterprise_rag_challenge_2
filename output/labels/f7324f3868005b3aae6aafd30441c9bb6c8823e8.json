@@ -1,0 +1,181 @@
+{
+    "company_name": "Jefferies Financial Group Inc.",
+    "file_name": "f7324f3868005b3aae6aafd30441c9bb6c8823e8",
+    "data_points": [
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                94,
+                96
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                88,
+                94
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                94,
+                94
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                108,
+                109
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                95,
+                97
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                114,
+                116,
+                118,
+                152
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                152,
+                172,
+                178
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                115,
+                134,
+                184
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                18
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                96,
+                97
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                22
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                20
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                186,
+                206
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                95,
+                95
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                93,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                94,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                22,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                89,
+                90
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                189,
+                191
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                191,
+                192
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                152,
+                179,
+                182
+            ]
+        }
+    ]
+}

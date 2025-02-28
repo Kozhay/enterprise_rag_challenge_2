@@ -1,0 +1,119 @@
+{
+    "company_name": "Integra LifeSciences Holdings Corporation",
+    "file_name": "f85f0ccbbc59f1423d52d44e5ab70e3a01164499",
+    "data_points": [
+        {
+            "company_name": "Integra LifeSciences Holdings Corporation",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                4,
+                62
+            ]
+        },
+        {
+            "company_name": "Integra LifeSciences Holdings Corporation",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                127,
+                128
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                9,
+                49
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                4,
+                5,
+                34
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                4,
+                35
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                166,
+                167
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                62,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                62,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                60,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                60,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                60,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                128,
+                181
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                128,
+                163
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                127,
+                138
+            ]
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "company_name": "Ziff Davis, Inc.",
+    "file_name": "ecabab4934d4b80570c4bb3b8e35b7476694b3fb",
+    "data_points": [
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Number of active software licenses",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Cloud storage capacity (TB)",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Data center capacity (MW)",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Year-end user base",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                113,
+                116
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                116,
+                119
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                116
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                115
+            ]
+        },
+        {
+            "company_name": "Ziff Davis, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                116
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                112,
+                113,
+                121
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                119
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                114,
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                116
+            ]
+        }
+    ]
+}

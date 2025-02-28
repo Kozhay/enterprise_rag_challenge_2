@@ -1,0 +1,121 @@
+{
+    "company_name": "NeoGenomics, Inc.",
+    "file_name": "f9736aa2f56c40b127bced09ce1c8e8cbf7aa0e3",
+    "data_points": [
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                4,
+                7
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                40,
+                106
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                7,
+                41
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                131
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                46,
+                48
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                46,
+                59
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                58,
+                100
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                58,
+                100
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                59,
+                100
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                59,
+                100
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                140,
+                141,
+                142
+            ]
+        }
+    ]
+}
