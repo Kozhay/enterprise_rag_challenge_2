@@ -1,0 +1,38 @@
+{
+    "company_name": "Celldex Therapeutics, Inc.",
+    "file_name": "2cdfd39bbf896b0f6651ebb0fe697cdf8c7ef0e8",
+    "data_points": [
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                50,
+                68
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                50,
+                68
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                5
+            ]
+        }
+    ]
+}

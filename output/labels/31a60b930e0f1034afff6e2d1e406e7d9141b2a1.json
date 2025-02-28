@@ -1,0 +1,48 @@
+{
+    "company_name": "Weis Markets, Inc.",
+    "file_name": "31a60b930e0f1034afff6e2d1e406e7d9141b2a1",
+    "data_points": [
+        {
+            "company_name": "Weis Markets, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "Weis Markets, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Weis Markets, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Weis Markets, Inc.",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                5
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                3,
+                5
+            ]
+        }
+    ]
+}

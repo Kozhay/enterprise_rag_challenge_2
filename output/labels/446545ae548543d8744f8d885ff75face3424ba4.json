@@ -1,0 +1,27 @@
+{
+    "company_name": "Liberty Broadband Corporation",
+    "file_name": "446545ae548543d8744f8d885ff75face3424ba4",
+    "data_points": [],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                4
+            ]
+        }
+    ]
+}

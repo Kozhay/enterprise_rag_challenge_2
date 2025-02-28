@@ -1,0 +1,61 @@
+{
+    "company_name": "Odyssey Gold Limited",
+    "file_name": "0c0faea14d108e1617f2d6d2a7c1aae04eb88fe0",
+    "data_points": [
+        {
+            "company_name": "Odyssey Gold Limited",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase I",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Odyssey Gold Limited",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase II",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Odyssey Gold Limited",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase III",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Odyssey Gold Limited",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Clinical trial sites operating at year-end",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Odyssey Gold Limited",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Inventory of active pharmaceutical ingredients",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                3,
+                4,
+                5
+            ]
+        }
+    ]
+}

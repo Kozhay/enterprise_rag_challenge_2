@@ -1,0 +1,100 @@
+{
+    "company_name": "FNCB Bancorp, Inc.",
+    "file_name": "23b2c590c4887dfb86761730dd7156fe3b216ab7",
+    "data_points": [
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                2,
+                4
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                2,
+                4
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                2,
+                4
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                2,
+                4
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                2,
+                4
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                2,
+                3
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                5
+            ]
+        }
+    ]
+}

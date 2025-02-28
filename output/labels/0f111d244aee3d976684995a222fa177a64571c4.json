@@ -1,0 +1,46 @@
+{
+    "company_name": "NextNav Inc.",
+    "file_name": "0f111d244aee3d976684995a222fa177a64571c4",
+    "data_points": [
+        {
+            "company_name": "NextNav Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "NextNav Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "NextNav Inc.",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                2
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                4
+            ]
+        }
+    ]
+}

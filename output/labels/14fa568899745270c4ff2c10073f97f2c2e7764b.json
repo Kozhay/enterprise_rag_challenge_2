@@ -1,0 +1,69 @@
+{
+    "company_name": "Crombie REIT",
+    "file_name": "14fa568899745270c4ff2c10073f97f2c2e7764b",
+    "data_points": [
+        {
+            "company_name": "Crombie",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Crombie",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Crombie",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Crombie",
+            "industry": "Retail",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Crombie",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "Crombie",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                3
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                4
+            ]
+        }
+    ]
+}

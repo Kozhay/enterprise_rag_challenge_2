@@ -1,0 +1,54 @@
+{
+    "company_name": "Downer EDI Limited",
+    "file_name": "0a61a353b1ea9fd9b8f63b60239634ca3007d58f",
+    "data_points": [
+        {
+            "company_name": "Downer",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Downer",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Downer",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Downer",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                4
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                4
+            ]
+        }
+    ]
+}

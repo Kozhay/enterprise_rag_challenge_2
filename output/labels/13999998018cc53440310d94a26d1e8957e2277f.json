@@ -1,0 +1,49 @@
+{
+    "company_name": "Aurora Innovation, Inc.",
+    "file_name": "13999998018cc53440310d94a26d1e8957e2277f",
+    "data_points": [
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                1,
+                5
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                1,
+                5
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                1,
+                5
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                1,
+                5
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                4,
+                5
+            ]
+        }
+    ]
+}

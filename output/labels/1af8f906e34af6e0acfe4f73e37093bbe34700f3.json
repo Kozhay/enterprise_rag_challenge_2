@@ -1,0 +1,22 @@
+{
+    "company_name": "BetMakers Technology Group Ltd",
+    "file_name": "1af8f906e34af6e0acfe4f73e37093bbe34700f3",
+    "data_points": [
+        {
+            "company_name": "BetMakers Technology Group Ltd",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                1
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                5
+            ]
+        }
+    ]
+}

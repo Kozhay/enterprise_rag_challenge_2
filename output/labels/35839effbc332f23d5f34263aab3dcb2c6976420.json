@@ -1,0 +1,44 @@
+{
+    "company_name": "Blue Apron Holdings, Inc.",
+    "file_name": "35839effbc332f23d5f34263aab3dcb2c6976420",
+    "data_points": [
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of company-owned outlets",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of franchised outlets",
+            "metric_src_pdf_page": [
+                4
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                5
+            ]
+        }
+    ]
+}

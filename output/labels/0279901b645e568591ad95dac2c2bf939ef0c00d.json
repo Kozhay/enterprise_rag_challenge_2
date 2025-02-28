@@ -1,0 +1,50 @@
+{
+    "company_name": "ACRES Commercial Realty Corp.",
+    "file_name": "0279901b645e568591ad95dac2c2bf939ef0c00d",
+    "data_points": [
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                4
+            ]
+        }
+    ]
+}
