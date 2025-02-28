@@ -3,11 +3,66 @@
     "file_name": "4e3efdc544140b872a59e124443a64c34f356911",
     "data_points": [
         {
-            "company_name": "Guaranty Bancshares",
+            "company_name": "Guaranty Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "company_name": "Guaranty Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "company_name": "Guaranty Bancshares, Inc.",
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
-                9,
+                9
+            ]
+        },
+        {
+            "company_name": "Guaranty Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "company_name": "Guaranty Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "company_name": "Guaranty Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Guaranty Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "company_name": "Guaranty Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
                 4
             ]
         }
@@ -16,27 +71,51 @@
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                4,
-                10
+                4
             ]
         },
         {
-            "event_type": "has_regulatory_or_litigation_issues",
+            "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
                 3
             ]
         },
         {
-            "event_type": "mentions_new_risk_factors",
+            "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
                 4
             ]
         },
         {
-            "event_type": "has_guidance_updates",
+            "event_type": "has_strategic_restructuring",
             "events_src_pdf_page": [
-                4,
-                10
+                3
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                9
             ]
         }
     ]

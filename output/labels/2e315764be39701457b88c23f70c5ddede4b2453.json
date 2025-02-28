@@ -3,15 +3,145 @@
     "file_name": "2e315764be39701457b88c23f70c5ddede4b2453",
     "data_points": [
         {
-            "company_name": "Motability Operations Group plc",
+            "company_name": "Motability Operations",
             "industry": "Transport & Logistics",
             "metric_type": "Fleet size (vehicles) at year-end",
             "metric_src_pdf_page": [
                 6,
-                10,
-                12,
-                13,
-                24
+                10
+            ]
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (aircraft) at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vessels) at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (cubic ft.)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (regions served)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (per mile)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Motability Operations",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group Plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                57,
+                58,
+                66,
+                69,
+                74
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                86,
+                87,
+                88,
+                89,
+                90,
+                94,
+                96
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                111,
+                113
             ]
         },
         {
@@ -19,31 +149,312 @@
             "industry": "Transport & Logistics",
             "metric_type": "Number of distribution hubs",
             "metric_src_pdf_page": [
-                6
+                111,
+                113
             ]
         },
         {
             "company_name": "Motability Operations Group plc",
             "industry": "Transport & Logistics",
-            "metric_type": "Fleet size (vessels) at year-end",
+            "metric_type": "Freight volume capacity (TEU)",
             "metric_src_pdf_page": [
-                6
+                111,
+                113
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                111,
+                113
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                111,
+                113
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                111,
+                113
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                129,
+                130,
+                131,
+                135
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                130,
+                131
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                130,
+                131
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_executive_compensation",
+            "event_type": "has_supply_chain_disruptions",
             "events_src_pdf_page": [
-                76,
+                10,
+                31,
+                10,
+                14,
+                26,
+                28
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                25,
+                10,
+                14
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                17,
+                25,
+                10,
+                10,
+                11,
+                12,
+                12
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                74,
+                75
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                49,
+                50,
+                51
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                53,
+                54,
+                55
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                56,
+                57,
+                58
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                106,
+                107
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                106,
+                107
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                138,
+                139
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                139
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                24,
+                10,
+                12
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                77,
                 78
             ]
         },
         {
-            "event_type": "mentions_new_risk_factors",
-            "events_src_pdf_page": [
-                10,
-                37
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                77
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                97,
+                98
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                107,
+                109
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                107,
+                109
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                107,
+                109
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                107,
+                109
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                107,
+                109
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                139,
+                141
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                129,
+                130,
+                131,
+                139,
+                141
             ]
         }
     ]

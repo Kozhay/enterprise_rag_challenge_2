@@ -3,20 +3,46 @@
     "file_name": "12bff07b957b1c8f8cad9d917ca18005720cce9b",
     "data_points": [
         {
-            "company_name": "Mosaic Brands Limited",
+            "company_name": "Mosaic Brands",
             "industry": "Retail",
-            "metric_type": "Number of stores at year-end",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                5,
+                41
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
             "metric_src_pdf_page": [
                 8,
-                10,
-                12,
-                34,
-                40,
-                52,
-                55,
-                62,
-                67,
-                68
+                17,
+                19
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                10
             ]
         },
         {
@@ -24,23 +50,9 @@
             "industry": "Retail",
             "metric_type": "Total store floor area (sqm)",
             "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40
-            ]
-        },
-        {
-            "company_name": "Mosaic Brands Limited",
-            "industry": "Retail",
-            "metric_type": "Total store floor area (sq. ft.)",
-            "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40
+                61,
+                62,
+                63
             ]
         },
         {
@@ -48,25 +60,8 @@
             "industry": "Retail",
             "metric_type": "Value of inventory on hand at year-end",
             "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40,
-                57
-            ]
-        },
-        {
-            "company_name": "Mosaic Brands Limited",
-            "industry": "Retail",
-            "metric_type": "Loyalty program membership at year-end",
-            "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40,
-                43
+                66,
+                67
             ]
         },
         {
@@ -74,27 +69,8 @@
             "industry": "Retail",
             "metric_type": "Online active customer accounts",
             "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40,
-                50,
-                68
-            ]
-        },
-        {
-            "company_name": "Mosaic Brands Limited",
-            "industry": "Retail",
-            "metric_type": "E-commerce active customer accounts",
-            "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40,
-                50,
-                68
+                61,
+                63
             ]
         },
         {
@@ -102,25 +78,8 @@
             "industry": "Retail",
             "metric_type": "Year-end store employee headcount",
             "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40,
-                56,
-                57
-            ]
-        },
-        {
-            "company_name": "Mosaic Brands Limited",
-            "industry": "Retail",
-            "metric_type": "Number of distribution centers at year-end",
-            "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40
+                61,
+                62
             ]
         },
         {
@@ -128,99 +87,214 @@
             "industry": "Retail",
             "metric_type": "Loyalty program membership at year-end",
             "metric_src_pdf_page": [
-                8,
-                10,
-                12,
-                34,
-                40
+                61,
+                62,
+                66
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands Limited",
+            "industry": "Retail",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                61,
+                66
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands Limited",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                61,
+                66
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands Limited",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands Limited",
+            "industry": "Retail",
+            "metric_type": "Private label SKUs in portfolio",
+            "metric_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands Limited",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands Limited",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "company_name": "Mosaic Brands",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                89
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_executive_compensation",
+            "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                40,
-                41,
-                43,
-                45,
-                46
-            ]
-        },
-        {
-            "event_type": "Mentions recent mergers and acquisitions",
-            "events_src_pdf_page": [
-                40,
-                87,
-                96,
-                97
+                12
             ]
         },
         {
             "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
-                36,
-                39,
-                59,
-                60
-            ]
-        },
-        {
-            "event_type": "has_capital_expenditures",
-            "events_src_pdf_page": [
-                40,
-                41,
-                42,
-                67
-            ]
-        },
-        {
-            "event_type": "has_financial_performance_indicators",
-            "events_src_pdf_page": [
                 4,
-                41,
+                36
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                41
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                61,
                 62,
-                64
+                63
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                81,
+                82
             ]
         },
         {
             "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                40,
-                41,
-                41,
-                75
+                90
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                54
             ]
         },
         {
-            "event_type": "has_dividend_policy_changes",
-            "events_src_pdf_page": [
-                40,
-                42
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                54
             ]
         },
         {
-            "event_type": "has_capital_structure_changes",
-            "events_src_pdf_page": [
-                40,
-                42,
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                53
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                74,
+                66,
+                74
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                75,
+                76,
+                63
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                77,
                 88
             ]
         },
         {
-            "event_type": "has_supply_chain_disruptions",
-            "events_src_pdf_page": [
-                6,
-                38,
-                39
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                88
             ]
         },
         {
-            "event_type": "mentions_new_risk_factors",
-            "events_src_pdf_page": [
-                6,
-                39,
-                50
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                74,
+                76
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                74,
+                77
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                93
             ]
         }
     ]

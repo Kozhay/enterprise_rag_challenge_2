@@ -8,8 +8,20 @@
             "metric_type": "Number of drugs on the market (approved)",
             "metric_src_pdf_page": [
                 8,
-                65,
-                72
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
@@ -18,8 +30,20 @@
             "metric_type": "Number of compounds in Phase I",
             "metric_src_pdf_page": [
                 8,
-                65,
-                72
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
@@ -28,8 +52,20 @@
             "metric_type": "Number of compounds in Phase II",
             "metric_src_pdf_page": [
                 8,
-                65,
-                72
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
@@ -38,8 +74,20 @@
             "metric_type": "Number of compounds in Phase III",
             "metric_src_pdf_page": [
                 8,
-                65,
-                72
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
@@ -47,15 +95,21 @@
             "industry": "Pharmaceuticals",
             "metric_type": "Global distribution network (markets served)",
             "metric_src_pdf_page": [
-                17
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Manufacturing capacity (units/year)",
-            "metric_src_pdf_page": [
-                34
+                8,
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
@@ -63,24 +117,43 @@
             "industry": "Pharmaceuticals",
             "metric_type": "Clinical trial sites operating at year-end",
             "metric_src_pdf_page": [
-                17
+                8,
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
             "company_name": "Incyte Corporation",
             "industry": "Pharmaceuticals",
-            "metric_type": "Inventory of active pharmaceutical ingredients",
+            "metric_type": "Pharmacovigilance reports (adverse events logged)",
             "metric_src_pdf_page": [
-                100
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Size of sales force (year-end)",
-            "metric_src_pdf_page": [
-                19,
-                65
+                8,
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
@@ -88,7 +161,65 @@
             "industry": "Pharmaceuticals",
             "metric_type": "Branded product count",
             "metric_src_pdf_page": [
-                19
+                8,
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Generic product count",
+            "metric_src_pdf_page": [
+                8,
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of active pharmaceutical patents",
+            "metric_src_pdf_page": [
+                8,
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
@@ -97,7 +228,9 @@
             "metric_type": "Number of drugs on the market (approved)",
             "metric_src_pdf_page": [
                 109,
-                110
+                110,
+                119,
+                130
             ]
         },
         {
@@ -106,7 +239,8 @@
             "metric_type": "Number of compounds in Phase I",
             "metric_src_pdf_page": [
                 109,
-                110
+                110,
+                113
             ]
         },
         {
@@ -114,26 +248,9 @@
             "industry": "Pharmaceuticals",
             "metric_type": "Number of compounds in Phase II",
             "metric_src_pdf_page": [
-                109,
-                110
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Number of compounds in Phase III",
-            "metric_src_pdf_page": [
-                109,
-                110
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Manufacturing capacity (units/year)",
-            "metric_src_pdf_page": [
-                109,
-                110
+                110,
+                113,
+                119
             ]
         },
         {
@@ -142,25 +259,8 @@
             "metric_type": "Manufacturing capacity (liters/year)",
             "metric_src_pdf_page": [
                 109,
-                110
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Global distribution network (markets served)",
-            "metric_src_pdf_page": [
-                109,
-                110
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Number of active pharmaceutical patents",
-            "metric_src_pdf_page": [
-                109,
-                110
+                110,
+                119
             ]
         },
         {
@@ -169,16 +269,9 @@
             "metric_type": "Clinical trial sites operating at year-end",
             "metric_src_pdf_page": [
                 109,
-                110
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Inventory of active pharmaceutical ingredients",
-            "metric_src_pdf_page": [
-                109,
-                110
+                110,
+                111,
+                112
             ]
         },
         {
@@ -186,8 +279,34 @@
             "industry": "Pharmaceuticals",
             "metric_type": "Size of sales force (year-end)",
             "metric_src_pdf_page": [
-                109,
-                110
+                111,
+                112
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of active pharmaceutical patents",
+            "metric_src_pdf_page": [
+                118
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Global distribution network (markets served)",
+            "metric_src_pdf_page": [
+                110,
+                111
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Inventory of active pharmaceutical ingredients",
+            "metric_src_pdf_page": [
+                112,
+                114
             ]
         },
         {
@@ -195,26 +314,8 @@
             "industry": "Pharmaceuticals",
             "metric_type": "Pharmacovigilance reports (adverse events logged)",
             "metric_src_pdf_page": [
-                109,
-                110
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Branded product count",
-            "metric_src_pdf_page": [
-                109,
-                110
-            ]
-        },
-        {
-            "company_name": "Incyte Corporation",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Generic product count",
-            "metric_src_pdf_page": [
-                109,
-                110
+                111,
+                114
             ]
         }
     ],
@@ -222,69 +323,150 @@
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
+                8,
+                10,
+                12,
+                14,
                 17,
-                69,
-                70
-            ]
-        },
-        {
-            "event_type": "has_rnd_investment_numbers",
-            "events_src_pdf_page": [
-                37,
-                38
-            ]
-        },
-        {
-            "event_type": "has_executive_compensation",
-            "events_src_pdf_page": [
-                56
-            ]
-        },
-        {
-            "event_type": "has_financial_performance_indicators",
-            "events_src_pdf_page": [
-                38,
-                59,
-                60
-            ]
-        },
-        {
-            "event_type": "mentions_new_risk_factors",
-            "events_src_pdf_page": [
-                37,
+                22,
+                25,
+                32,
+                49,
                 51,
-                53
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
             "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                37,
-                55,
-                70
+                8,
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
-            "event_type": "has_regulatory_or_litigation_issues",
+            "event_type": "has_strategic_restructuring",
             "events_src_pdf_page": [
-                38,
-                41,
-                42,
-                43
-            ]
-        },
-        {
-            "event_type": "mentions_new_risk_factors",
-            "events_src_pdf_page": [
-                107,
-                108
+                8,
+                10,
+                12,
+                14,
+                17,
+                22,
+                25,
+                32,
+                49,
+                51,
+                70,
+                72,
+                94,
+                95,
+                97
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                127,
-                130
+                106,
+                107,
+                111,
+                113
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                107,
+                113,
+                115
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                115,
+                117
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                108,
+                110,
+                117
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                111,
+                115
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86,
+                88,
+                89,
+                90,
+                91,
+                92
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                110,
+                111
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                110,
+                111
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                111,
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                117,
+                118
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                110,
+                111,
+                115
             ]
         }
     ]

@@ -7,12 +7,8 @@
             "industry": "Healthcare",
             "metric_type": "Number of healthcare professionals on staff",
             "metric_src_pdf_page": [
-                4,
-                5,
-                6,
-                27,
-                28,
-                65
+                7,
+                8
             ]
         },
         {
@@ -20,18 +16,8 @@
             "industry": "Healthcare",
             "metric_type": "Active patient count (registered patients)",
             "metric_src_pdf_page": [
-                6,
-                27,
-                28
-            ]
-        },
-        {
-            "company_name": "Bionano Genomics, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Outstanding insurance claims (if applicable)",
-            "metric_src_pdf_page": [
-                7,
-                28
+                8,
+                10
             ]
         },
         {
@@ -39,18 +25,34 @@
             "industry": "Healthcare",
             "metric_type": "Healthcare plan memberships (if applicable)",
             "metric_src_pdf_page": [
-                7,
-                28
+                8,
+                10
             ]
         },
         {
             "company_name": "Bionano Genomics, Inc.",
             "industry": "Healthcare",
-            "metric_type": "Number of owned clinics at year-end",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
             "metric_src_pdf_page": [
-                6,
                 7,
-                9,
+                9
+            ]
+        },
+        {
+            "company_name": "Bionano Genomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                8,
+                10
+            ]
+        },
+        {
+            "company_name": "Bionano Genomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                7,
                 10
             ]
         },
@@ -59,34 +61,11 @@
             "industry": "Healthcare",
             "metric_type": "Number of hospital beds at year-end",
             "metric_src_pdf_page": [
+                104,
                 105,
                 106,
                 107,
-                110,
-                113
-            ]
-        },
-        {
-            "company_name": "Bionano Genomics, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Number of healthcare professionals on staff",
-            "metric_src_pdf_page": [
-                106,
-                107,
-                108,
-                110,
-                113
-            ]
-        },
-        {
-            "company_name": "Bionano Genomics, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Outstanding insurance claims (if applicable)",
-            "metric_src_pdf_page": [
-                106,
-                107,
-                110,
-                112
+                108
             ]
         }
     ],
@@ -95,68 +74,89 @@
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
                 8,
-                9,
-                10,
-                12,
-                14,
-                15,
-                16,
-                17
+                10
             ]
         },
         {
             "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
                 6,
-                7,
-                20,
-                21
-            ]
-        },
-        {
-            "event_type": "has_capital_expenditures",
-            "events_src_pdf_page": [
-                14,
-                15,
-                20,
-                21,
-                24
+                8,
+                10
             ]
         },
         {
             "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
                 5,
-                8,
-                9,
-                10,
-                12
+                10
             ]
         },
         {
-            "event_type": "has_leadership_changes",
+            "event_type": "Mentions recent mergers and acquisitions",
             "events_src_pdf_page": [
-                104,
-                106,
-                108,
-                110,
-                113
+                6,
+                8,
+                18
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                110,
-                113,
-                114,
-                115
+                104,
+                105,
+                106,
+                107,
+                108
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                82,
+                84
             ]
         },
         {
-            "event_type": "mentions_new_risk_factors",
-            "events_src_pdf_page": [
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                71,
+                82
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                82,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                86,
+                90
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                82,
+                85
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                109,
                 110,
-                113
+                111,
+                112,
+                113,
+                114,
+                115
             ]
         }
     ]

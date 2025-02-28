@@ -4,23 +4,65 @@
     "data_points": [
         {
             "company_name": "Ocugen, Inc.",
-            "industry": "Biotechnology",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                7,
+                10
+            ]
+        },
+        {
+            "company_name": "Ocugen, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                10,
+                18
+            ]
+        },
+        {
+            "company_name": "Ocugen, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                7,
+                12
+            ]
+        },
+        {
+            "company_name": "Ocugen, Inc.",
+            "industry": "Healthcare",
             "metric_type": "Number of healthcare professionals on staff",
             "metric_src_pdf_page": [
-                1,
-                2,
-                3,
-                4,
                 6
             ]
         },
         {
             "company_name": "Ocugen, Inc.",
             "industry": "Healthcare",
-            "metric_type": "Active patient count (registered patients)",
+            "metric_type": "Number of owned clinics at year-end",
             "metric_src_pdf_page": [
-                99,
-                117
+                28
+            ]
+        },
+        {
+            "company_name": "Ocugen, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                121,
+                122,
+                123
+            ]
+        },
+        {
+            "company_name": "Ocugen, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                110,
+                111,
+                112
             ]
         }
     ],
@@ -28,18 +70,90 @@
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                20,
-                21,
-                23,
-                24
+                7,
+                18,
+                22
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                30,
+                55
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                102
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                121,
-                123,
-                132
+                106,
+                122,
+                130
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                163,
+                171,
+                172
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                97
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                116,
+                117,
+                118
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                117,
+                118,
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                117,
+                118,
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                119,
+                120,
+                121
             ]
         }
     ]

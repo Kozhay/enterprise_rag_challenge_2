@@ -5,11 +5,57 @@
         {
             "company_name": "Aurora Innovation, Inc.",
             "industry": "Technology",
-            "metric_type": "End-of-period market capitalization",
+            "metric_type": "Annual recurring revenue (ARR)",
             "metric_src_pdf_page": [
-                1,
-                3,
-                51
+                5,
+                7,
+                10,
+                12,
+                22
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                5,
+                10,
+                14,
+                22
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                5,
+                10,
+                12,
+                22
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                5,
+                10,
+                12,
+                22
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Number of patents at year-end",
+            "metric_src_pdf_page": [
+                5,
+                10,
+                12,
+                22
             ]
         },
         {
@@ -18,24 +64,116 @@
             "metric_type": "End-of-year total headcount",
             "metric_src_pdf_page": [
                 5,
-                6
+                10,
+                12,
+                22
             ]
         },
         {
             "company_name": "Aurora Innovation, Inc.",
             "industry": "Technology",
-            "metric_type": "Year-end customer base",
+            "metric_type": "Cloud storage capacity (TB)",
             "metric_src_pdf_page": [
-                5
+                5,
+                10,
+                12,
+                22
             ]
         },
         {
-            "company_name": "Aurora Innovation, Inc.",
+            "company_name": "Aurora",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                27,
+                30
+            ]
+        },
+        {
+            "company_name": "Aurora",
+            "industry": "Technology",
+            "metric_type": "Number of patents at year-end",
+            "metric_src_pdf_page": [
+                47,
+                54,
+                55,
+                56
+            ]
+        },
+        {
+            "company_name": "Aurora",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                55,
+                54,
+                49,
+                50
+            ]
+        },
+        {
+            "company_name": "Aurora",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                55,
+                54,
+                56,
+                50
+            ]
+        },
+        {
+            "company_name": "Aurora",
             "industry": "Technology",
             "metric_type": "Total expensed R&D expenditure",
             "metric_src_pdf_page": [
-                5,
-                55
+                55,
+                54,
+                56,
+                50
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Number of patents at year-end",
+            "metric_src_pdf_page": [
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                106,
+                107,
+                108,
+                109
             ]
         },
         {
@@ -43,7 +181,43 @@
             "industry": "Technology",
             "metric_type": "Total capitalized R&D expenditure",
             "metric_src_pdf_page": [
-                5
+                106,
+                107,
+                108,
+                109
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                106,
+                107,
+                108,
+                109
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                106,
+                107,
+                108,
+                109
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                106,
+                107,
+                108,
+                109
             ]
         }
     ],
@@ -51,25 +225,253 @@
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                7,
                 5,
-                6
+                7,
+                10,
+                11,
+                12,
+                20
             ]
         },
         {
-            "event_type": "has_rnd_investment_numbers",
+            "event_type": "Mentions recent mergers and acquisitions",
             "events_src_pdf_page": [
-                28,
+                5,
+                10,
+                14,
+                15,
+                21
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                29,
+                33
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                54,
                 55,
-                36
+                56
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                48,
+                49
             ]
         },
         {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                10,
-                12,
-                102
+                49,
+                56
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                54,
+                49
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                102,
+                103
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                102,
+                103
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                5,
+                18,
+                19,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                5,
+                18,
+                19,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                5,
+                18,
+                19,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                5,
+                18,
+                19,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                5,
+                18,
+                19,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                50,
+                53,
+                55
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                62,
+                55
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                62,
+                55
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                55,
+                56
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                106,
+                107,
+                108,
+                109
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                106,
+                107,
+                108,
+                109
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                106,
+                107,
+                108,
+                109
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                106,
+                107,
+                108,
+                109
             ]
         }
     ]

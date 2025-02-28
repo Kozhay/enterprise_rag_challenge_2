@@ -5,126 +5,97 @@
         {
             "company_name": "Liberty Broadband Corporation",
             "industry": "Telecommunications",
-            "metric_type": "Number of broadband subscribers",
-            "metric_src_pdf_page": [
-                7,
-                20,
-                101
-            ]
-        },
-        {
-            "company_name": "Liberty Broadband Corporation",
-            "industry": "Telecommunications",
-            "metric_type": "Average revenue per user (ARPU) at year-end",
-            "metric_src_pdf_page": [
-                7,
-                20,
-                44
-            ]
-        },
-        {
-            "company_name": "Liberty Broadband Corporation",
-            "industry": "Telecommunications",
             "metric_type": "Mobile subscriber base at year-end",
             "metric_src_pdf_page": [
                 7,
-                20,
-                40
+                8,
+                9,
+                29
             ]
         },
         {
-            "company_name": "Liberty Broadband Corporation",
-            "industry": "Telecommunications",
-            "metric_type": "5G coverage ratio (population %)",
-            "metric_src_pdf_page": [
-                7,
-                22,
-                63
-            ]
-        },
-        {
-            "company_name": "Liberty Broadband Corporation",
+            "company_name": "LIBERTY BROADBAND CORPORATION",
             "industry": "Telecommunications",
             "metric_type": "Network downtime (hours) in final reporting period",
             "metric_src_pdf_page": [
-                7,
-                20,
-                100
-            ]
-        },
-        {
-            "company_name": "Liberty Broadband Corporation",
-            "industry": "Telecommunications",
-            "metric_type": "Mobile coverage area (population %)",
-            "metric_src_pdf_page": [
-                7,
-                20,
-                64
-            ]
-        },
-        {
-            "company_name": "Liberty Broadband Corporation",
-            "industry": "Telecommunications",
-            "metric_type": "Fiber network length (km)",
-            "metric_src_pdf_page": [
-                7,
-                20,
-                105
-            ]
-        },
-        {
-            "company_name": "Liberty Broadband Corporation",
-            "industry": "Telecommunications",
-            "metric_type": "Number of broadband subscribers",
-            "metric_src_pdf_page": [
                 130,
-                132
-            ]
-        },
-        {
-            "company_name": "Liberty Broadband Corporation",
-            "industry": "Telecommunications",
-            "metric_type": "Average revenue per user (ARPU) at year-end",
-            "metric_src_pdf_page": [
+                131,
+                132,
+                134,
+                135,
+                136,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                145,
+                146,
                 158,
                 159
+            ]
+        },
+        {
+            "company_name": "LIBERTY BROADBAND CORPORATION",
+            "industry": "Telecommunications",
+            "metric_type": "Mobile subscriber base at year-end",
+            "metric_src_pdf_page": [
+                132,
+                133
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                3,
-                7,
-                20,
-                74,
-                95
+                14,
+                45,
+                59
             ]
         },
         {
-            "event_type": "has_financial_performance_indicators",
+            "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                7,
-                20,
-                87,
-                114
+                132,
+                136,
+                148,
+                150,
+                153
             ]
         },
         {
-            "event_type": "has_guidance_updates",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                7,
-                20,
-                96,
-                123
+                156,
+                157
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                90,
+                96
             ]
         },
         {
-            "event_type": "has_regulatory_or_litigation_issues",
-            "events_src_pdf_page": [
-                155,
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                130,
+                139,
+                144,
                 156
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                140,
+                141,
+                157
             ]
         }
     ]

@@ -3,32 +3,606 @@
     "file_name": "1bd670f9cdf088266db849722c3aded77a2f4894",
     "data_points": [
         {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "company_name": "OFX",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
             "company_name": "OFX Group Limited",
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
-                80
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
+            ]
+        },
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                96,
+                110,
+                124
             ]
         }
     ],
     "events": [
         {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                6,
+                10
+            ]
+        },
+        {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                52,
-                54,
-                56,
-                62,
-                66,
-                70,
-                72,
-                76
+                12,
+                11
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                8,
+                9
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                7,
+                5
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                4,
+                5
             ]
         },
         {
             "event_type": "mentions_new_risk_factors",
             "events_src_pdf_page": [
-                48
+                6,
+                10
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                40,
+                42
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                11,
+                18
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                3,
+                5
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                69,
+                71
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                52,
+                56,
+                67
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                123
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                109
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                112
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                112
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                113
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                117
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                112
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                123
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                106
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                11,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "gross margin",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                95,
+                120
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                90,
+                127
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                92,
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                101,
+                106
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                113,
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                95,
+                106
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                120,
+                113
             ]
         }
     ]

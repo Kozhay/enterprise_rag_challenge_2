@@ -7,8 +7,55 @@
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
-                6,
-                49
+                6
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                6
             ]
         },
         {
@@ -16,7 +63,287 @@
             "industry": "Financial Services",
             "metric_type": "Total deposits at year-end",
             "metric_src_pdf_page": [
-                11,
+                11
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                40,
+                44,
+                49,
+                50,
+                52
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                40,
+                44,
+                45,
+                49
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                42,
+                43,
+                44
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                46
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                50
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                44,
+                49
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                70,
+                71,
+                72,
+                74,
+                79,
+                80,
+                81,
+                82
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
                 70
             ]
         },
@@ -25,8 +352,9 @@
             "industry": "Financial Services",
             "metric_type": "Loans outstanding at year-end",
             "metric_src_pdf_page": [
-                42,
-                43
+                70,
+                71,
+                74
             ]
         },
         {
@@ -34,7 +362,7 @@
             "industry": "Financial Services",
             "metric_type": "Assets under management (AUM)",
             "metric_src_pdf_page": [
-                49
+                70
             ]
         },
         {
@@ -42,30 +370,231 @@
             "industry": "Financial Services",
             "metric_type": "Non-performing loan ratio (NPL) at year-end",
             "metric_src_pdf_page": [
-                42
+                70,
+                74,
+                78
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                70
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                70
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                70
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                92,
+                93,
+                94,
+                95
             ]
         }
     ],
     "events": [
         {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                15
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                25,
+                26,
+                27,
+                28,
+                29
+            ]
+        },
+        {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                11,
-                48,
+                57
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                44,
                 49
             ]
         },
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                21,
-                25
+                58
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                64,
+                64
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                74,
+                81
             ]
         },
         {
             "event_type": "has_regulatory_or_litigation_issues",
             "events_src_pdf_page": [
-                10,
+                95
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                95
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                87
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                71,
+                75
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                92,
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                92,
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
                 95
             ]
         }

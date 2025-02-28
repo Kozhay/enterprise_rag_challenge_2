@@ -4,25 +4,57 @@
     "data_points": [
         {
             "company_name": "Odyssey Gold Limited",
-            "industry": "Pharmaceuticals",
-            "metric_type": "Manufacturing capacity (units/year)",
+            "industry": "Gold Mining",
+            "metric_type": "Number of compounds in Phase I",
             "metric_src_pdf_page": [
+                3,
+                4,
+                5,
+                6,
+                8,
+                9,
                 12,
-                17,
-                18,
-                26,
-                34
+                20,
+                32
             ]
         },
         {
             "company_name": "Odyssey Gold Limited",
             "industry": "Pharmaceuticals",
-            "metric_type": "Number of active pharmaceutical patents",
+            "metric_type": "Number of drugs on the market (approved)",
             "metric_src_pdf_page": [
-                12,
-                18,
-                31,
-                35
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60
+            ]
+        },
+        {
+            "company_name": "Odyssey Gold Limited",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of drugs on the market (approved)",
+            "metric_src_pdf_page": [
+                65,
+                66
             ]
         }
     ],
@@ -30,16 +62,51 @@
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                21,
-                26,
-                57
+                3,
+                4,
+                20
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                26,
+                26
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
                 66
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                17,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                53
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                65
             ]
         }
     ]

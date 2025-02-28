@@ -7,9 +7,11 @@
             "industry": "Technology",
             "metric_type": "Total capitalized R&D expenditure",
             "metric_src_pdf_page": [
-                20,
+                4,
+                5,
                 6,
-                7
+                7,
+                20
             ]
         },
         {
@@ -17,9 +19,11 @@
             "industry": "Technology",
             "metric_type": "Total expensed R&D expenditure",
             "metric_src_pdf_page": [
-                20,
+                4,
+                5,
+                6,
                 7,
-                22
+                20
             ]
         },
         {
@@ -27,57 +31,154 @@
             "industry": "Technology",
             "metric_type": "End-of-year tech staff headcount",
             "metric_src_pdf_page": [
-                12,
+                4,
+                5,
+                6,
+                7,
+                20
+            ]
+        },
+        {
+            "company_name": "Structural Monitoring Systems Plc",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                6,
+                7,
+                20
+            ]
+        },
+        {
+            "company_name": "Structural Monitoring Systems Plc",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7,
+                20
+            ]
+        },
+        {
+            "company_name": "Structural Monitoring Systems Plc",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                6,
                 7
             ]
         }
     ],
     "events": [
         {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                5,
+                9,
+                12
+            ]
+        },
+        {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
                 14,
-                15
+                15,
+                16,
+                19
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
                 4,
-                5
+                5,
+                6
             ]
         },
         {
-            "event_type": "has_leadership_changes",
+            "event_type": "Mentions recent mergers and acquisitions",
             "events_src_pdf_page": [
+                4,
                 5,
+                6,
                 9
             ]
         },
         {
             "event_type": "has_capital_expenditures",
             "events_src_pdf_page": [
+                4,
+                5,
                 6,
-                7
+                26
             ]
         },
         {
-            "event_type": "has_financial_performance_indicators",
+            "event_type": "has_supply_chain_disruptions",
             "events_src_pdf_page": [
+                4,
+                5,
+                12
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                4,
+                5,
+                6,
+                9
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
                 22,
-                20
+                23
             ]
         },
         {
-            "event_type": "has_regulatory_or_litigation_issues",
-            "events_src_pdf_page": [
-                5
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                22
             ]
         },
         {
-            "event_type": "has_rnd_investment_numbers",
-            "events_src_pdf_page": [
-                20
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                20,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                20,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                25
             ]
         }
     ]

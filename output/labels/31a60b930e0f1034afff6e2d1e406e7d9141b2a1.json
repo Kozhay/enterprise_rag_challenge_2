@@ -16,6 +16,7 @@
             "industry": "Retail",
             "metric_type": "Total store floor area (sq. ft.)",
             "metric_src_pdf_page": [
+                3,
                 4
             ]
         },
@@ -24,7 +25,25 @@
             "industry": "Retail",
             "metric_type": "Value of inventory on hand at year-end",
             "metric_src_pdf_page": [
-                24
+                24,
+                30,
+                33
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                3
             ]
         },
         {
@@ -38,25 +57,25 @@
         {
             "company_name": "WEIS MARKETS, INC.",
             "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
             "metric_type": "Year-end store employee headcount",
             "metric_src_pdf_page": [
                 5
-            ]
-        },
-        {
-            "company_name": "WEIS MARKETS, INC.",
-            "industry": "Retail",
-            "metric_type": "Loyalty program membership at year-end",
-            "metric_src_pdf_page": [
-                11
-            ]
-        },
-        {
-            "company_name": "WEIS MARKETS, INC.",
-            "industry": "Retail",
-            "metric_type": "Online active customer accounts",
-            "metric_src_pdf_page": [
-                13
             ]
         }
     ],
@@ -64,39 +83,57 @@
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                10,
-                11
-            ]
-        },
-        {
-            "event_type": "has_dividend_policy_changes",
-            "events_src_pdf_page": [
-                13
-            ]
-        },
-        {
-            "event_type": "has_rnd_investment_numbers",
-            "events_src_pdf_page": [
-                19
-            ]
-        },
-        {
-            "event_type": "has_guidance_updates",
-            "events_src_pdf_page": [
-                44
+                10
             ]
         },
         {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                11
+                11,
+                45
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                24,
+                25,
+                19
             ]
         },
         {
-            "event_type": "has_capital_expenditures",
-            "events_src_pdf_page": [
-                5,
-                13
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                25,
+                20
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                25,
+                19
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                24,
+                24
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                24
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                24
             ]
         }
     ]

@@ -1,0 +1,548 @@
+{
+    "company_name": "Downer EDI Limited",
+    "file_name": "0a61a353b1ea9fd9b8f63b60239634ca3007d58f",
+    "data_points": [
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                5,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": [
+                5,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                5,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                5,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                5,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                5,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                5,
+                11,
+                27
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                68,
+                69,
+                70,
+                71
+            ]
+        },
+        {
+            "company_name": "Downer EDI",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                111,
+                116
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                126,
+                128
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                25,
+                26,
+                27,
+                28
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                61,
+                62,
+                63,
+                64
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                63,
+                64,
+                70,
+                71
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                93
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                112,
+                113
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                113,
+                114
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                113,
+                114
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                112,
+                117
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                130
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                138,
+                139
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                4,
+                11,
+                22,
+                23,
+                26,
+                30
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                4,
+                11,
+                13,
+                22,
+                26,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                61,
+                63,
+                64,
+                71,
+                78
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                61,
+                63,
+                64,
+                71,
+                75
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                61,
+                63,
+                64,
+                71,
+                75
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                112,
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                112,
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                112,
+                123
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                112,
+                122
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                144,
+                145,
+                146
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                144,
+                145,
+                146
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                144,
+                145,
+                146
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                144,
+                145,
+                146
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                144,
+                145,
+                146
+            ]
+        }
+    ]
+}

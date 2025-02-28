@@ -5,19 +5,36 @@
         {
             "company_name": "Atreca, Inc.",
             "industry": "Healthcare",
-            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_type": "Number of healthcare professionals on staff",
             "metric_src_pdf_page": [
-                22,
-                25
+                7,
+                75
             ]
         },
         {
             "company_name": "Atreca, Inc.",
             "industry": "Healthcare",
-            "metric_type": "Number of healthcare professionals on staff",
+            "metric_type": "Active patient count (registered patients)",
             "metric_src_pdf_page": [
-                22,
-                26
+                7,
+                75
+            ]
+        },
+        {
+            "company_name": "Atreca, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "company_name": "Atreca, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                7,
+                75
             ]
         },
         {
@@ -25,38 +42,276 @@
             "industry": "Healthcare",
             "metric_type": "Number of hospital beds at year-end",
             "metric_src_pdf_page": [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
                 196,
-                197
-            ]
-        },
-        {
-            "company_name": "Atreca, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Number of healthcare professionals on staff",
-            "metric_src_pdf_page": [
-                196,
-                197
+                197,
+                198
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_leadership_changes",
+            "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                117,
-                129
-            ]
-        },
-        {
-            "event_type": "has_layoffs",
-            "events_src_pdf_page": [
-                30,
-                68
+                7,
+                87,
+                92,
+                94,
+                96,
+                107
             ]
         },
         {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                84,
+                85
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                83,
+                84
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                73,
+                76
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                84
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
                 198
             ]
         }

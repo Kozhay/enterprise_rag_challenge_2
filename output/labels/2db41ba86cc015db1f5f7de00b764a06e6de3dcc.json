@@ -5,32 +5,23 @@
         {
             "company_name": "SIG plc",
             "industry": "Construction",
-            "metric_type": "E-commerce active customer accounts",
-            "metric_src_pdf_page": [
-                3,
-                14,
-                18,
-                20,
-                29
-            ]
-        },
-        {
-            "company_name": "SIG plc",
-            "industry": "Construction",
-            "metric_type": "Year-end store employee headcount",
-            "metric_src_pdf_page": [
-                3,
-                20,
-                24
-            ]
-        },
-        {
-            "company_name": "SIG plc",
-            "industry": "Construction",
             "metric_type": "Total store floor area (sqm)",
             "metric_src_pdf_page": [
+                3,
                 10,
-                20
+                26,
+                27
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Construction",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                3,
+                10,
+                26,
+                27
             ]
         },
         {
@@ -39,25 +30,9 @@
             "metric_type": "Value of inventory on hand at year-end",
             "metric_src_pdf_page": [
                 3,
-                22
-            ]
-        },
-        {
-            "company_name": "SIG plc",
-            "industry": "Construction",
-            "metric_type": "Online order fulfillment capacity (daily)",
-            "metric_src_pdf_page": [
                 10,
-                20
-            ]
-        },
-        {
-            "company_name": "SIG plc",
-            "industry": "Construction",
-            "metric_type": "Number of fulfillment centers at year-end",
-            "metric_src_pdf_page": [
-                10,
-                20
+                26,
+                27
             ]
         },
         {
@@ -65,17 +40,21 @@
             "industry": "Construction",
             "metric_type": "Loyalty program membership at year-end",
             "metric_src_pdf_page": [
+                3,
                 10,
-                20
+                26,
+                27
             ]
         },
         {
             "company_name": "SIG plc",
             "industry": "Construction",
-            "metric_type": "Online active customer accounts",
+            "metric_type": "Year-end store employee headcount",
             "metric_src_pdf_page": [
-                19,
-                20
+                3,
+                10,
+                26,
+                27
             ]
         },
         {
@@ -83,54 +62,161 @@
             "industry": "Construction",
             "metric_type": "Private label SKUs in portfolio",
             "metric_src_pdf_page": [
+                3,
                 10,
-                20
+                26,
+                27
             ]
         },
         {
             "company_name": "SIG plc",
             "industry": "Construction",
-            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_type": "Online order fulfillment capacity (daily)",
             "metric_src_pdf_page": [
+                3,
                 10,
-                20
+                26,
+                27
             ]
         },
         {
-            "company_name": "SIG plc",
-            "industry": "Construction",
-            "metric_type": "Number of new store openings (cumulative in year)",
-            "metric_src_pdf_page": [
-                10,
-                20
-            ]
-        },
-        {
-            "company_name": "SIG plc",
-            "industry": "Construction",
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
             "metric_type": "Number of stores at year-end",
             "metric_src_pdf_page": [
-                3,
-                14,
-                20
+                44,
+                45,
+                46,
+                51,
+                64
             ]
         },
         {
-            "company_name": "SIG plc",
-            "industry": "Construction",
-            "metric_type": "Number of distribution centers at year-end",
-            "metric_src_pdf_page": [
-                17,
-                20
-            ]
-        },
-        {
-            "company_name": "SIG plc",
-            "industry": "Construction",
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
             "metric_type": "Total store floor area (sqm)",
             "metric_src_pdf_page": [
-                3,
-                20
+                48,
+                50,
+                58,
+                64
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                46,
+                56
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                53,
+                64
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                45,
+                48,
+                54
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                45,
+                46,
+                51,
+                58
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                49,
+                63
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                65,
+                66
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Building Materials Distribution",
+            "metric_type": "Private label SKUs in portfolio",
+            "metric_src_pdf_page": [
+                62,
+                63,
+                67
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                69
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                90,
+                92,
+                96,
+                104
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Construction and related markets",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                115,
+                116,
+                120
+            ]
+        },
+        {
+            "company_name": "SIG",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                153,
+                154,
+                155,
+                156
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                159,
+                160,
+                161
             ]
         },
         {
@@ -138,10 +224,49 @@
             "industry": "Retail",
             "metric_type": "Total store floor area (sqm)",
             "metric_src_pdf_page": [
-                1,
-                2,
-                3,
-                4
+                159,
+                160,
+                161
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                159,
+                160,
+                161
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                159,
+                160,
+                161
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                159,
+                160,
+                161
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Private label SKUs in portfolio",
+            "metric_src_pdf_page": [
+                159,
+                160,
+                161
             ]
         },
         {
@@ -149,10 +274,58 @@
             "industry": "Retail",
             "metric_type": "Number of new store openings (cumulative in year)",
             "metric_src_pdf_page": [
-                1,
-                2,
-                3,
-                4
+                159,
+                160,
+                161
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                196,
+                197
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                196,
+                197
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                196,
+                197
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                196,
+                197
+            ]
+        },
+        {
+            "company_name": "SIG plc",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                207,
+                208,
+                209,
+                210,
+                213,
+                215
             ]
         }
     ],
@@ -161,41 +334,86 @@
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
                 16,
-                19,
-                71
+                39
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                10,
-                12,
-                14,
-                30
-            ]
-        },
-        {
-            "event_type": "has_regulatory_or_litigation_issues",
-            "events_src_pdf_page": [
-                20,
-                68
-            ]
-        },
-        {
-            "event_type": "has_strategic_restructuring",
-            "events_src_pdf_page": [
-                9,
-                16,
+                13,
                 19
             ]
         },
         {
-            "event_type": "has_capital_expenditures",
+            "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
-                165,
+                44,
+                46,
+                49
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                91,
+                93,
+                104
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                116,
+                119
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                151
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                169,
                 170,
-                182,
-                184
+                171
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                167,
+                168
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                167,
+                168
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                169,
+                170,
+                171
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                196,
+                197
             ]
         },
         {
@@ -206,8 +424,198 @@
             ]
         },
         {
-            "event_type": "has_executive_compensation",
+            "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
+                206
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                3,
+                18,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                3,
+                18,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                3,
+                18,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                3,
+                18,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                3,
+                18,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                3,
+                18,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                64,
+                65,
+                66,
+                67
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                64,
+                65,
+                66,
+                67
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                69
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                104,
+                106,
+                108
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                135,
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                135,
+                136
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                139,
+                150,
+                153,
+                158
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                165,
+                166,
+                167
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                165,
+                166,
+                167
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                165,
+                166,
+                167
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                165,
+                166,
+                167
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                165,
+                166,
+                167
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                165,
+                166,
+                167
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                165,
+                166,
+                167
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                196,
+                197
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                196,
+                197
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                196,
+                197
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                207,
+                208,
                 213
             ]
         }

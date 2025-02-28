@@ -8,9 +8,9 @@
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
                 2,
-                67,
-                60,
-                61
+                4,
+                11,
+                20
             ]
         },
         {
@@ -19,9 +19,9 @@
             "metric_type": "Total deposits at year-end",
             "metric_src_pdf_page": [
                 2,
-                57,
-                60,
-                61
+                4,
+                11,
+                20
             ]
         },
         {
@@ -30,27 +30,9 @@
             "metric_type": "Loans outstanding at year-end",
             "metric_src_pdf_page": [
                 2,
-                57,
-                60,
-                61
-            ]
-        },
-        {
-            "company_name": "FNCB Bancorp, Inc.",
-            "industry": "Financial Services",
-            "metric_type": "Assets under management (AUM)",
-            "metric_src_pdf_page": [
-                2
-            ]
-        },
-        {
-            "company_name": "FNCB Bancorp, Inc.",
-            "industry": "Financial Services",
-            "metric_type": "Non-performing loan ratio (NPL) at year-end",
-            "metric_src_pdf_page": [
-                2,
-                54,
-                44
+                4,
+                11,
+                20
             ]
         },
         {
@@ -59,8 +41,9 @@
             "metric_type": "Tier 1 capital ratio at year-end",
             "metric_src_pdf_page": [
                 2,
-                57,
-                61
+                4,
+                11,
+                20
             ]
         },
         {
@@ -68,15 +51,10 @@
             "industry": "Financial Services",
             "metric_type": "Number of customer accounts at year-end",
             "metric_src_pdf_page": [
-                2
-            ]
-        },
-        {
-            "company_name": "FNCB Bancorp, Inc.",
-            "industry": "Financial Services",
-            "metric_type": "Branch count at year-end",
-            "metric_src_pdf_page": [
-                2
+                2,
+                4,
+                11,
+                20
             ]
         },
         {
@@ -85,7 +63,9 @@
             "metric_type": "End-of-year net interest margin (NIM)",
             "metric_src_pdf_page": [
                 2,
-                38
+                4,
+                11,
+                20
             ]
         },
         {
@@ -94,16 +74,91 @@
             "metric_type": "Return on equity (ROE) at year-end",
             "metric_src_pdf_page": [
                 2,
+                4,
+                11,
+                20
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                22,
+                23,
                 38
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
-            "industry": "Financial Services",
+            "company_name": "FNCB",
+            "industry": "Banking",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                44,
+                57
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Banking",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                39,
+                49
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Banking",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                42,
+                52
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Banking",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                41,
+                43
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Banking",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                39,
+                46
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Banking",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                41,
+                44
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Banking",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                42,
+                64
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Banking",
             "metric_type": "Tier 1 capital ratio at year-end",
             "metric_src_pdf_page": [
-                2,
-                61
+                41,
+                46
             ]
         },
         {
@@ -111,7 +166,236 @@
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
-                127
+                60,
+                61,
+                68,
+                67,
+                72,
+                74,
+                73,
+                67,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                68,
+                67,
+                72,
+                74,
+                73,
+                67,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                68,
+                67,
+                72,
+                74,
+                73,
+                67,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                68,
+                67,
+                72,
+                74,
+                73,
+                67,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                68,
+                67,
+                72,
+                74,
+                73,
+                67,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                68,
+                67,
+                72,
+                74,
+                73,
+                67,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                68,
+                67,
+                72,
+                74,
+                73,
+                67,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                68,
+                67,
+                72,
+                74,
+                73,
+                67,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "FNCB",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                82,
+                83,
+                89,
+                93
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Banking",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                127,
+                108
             ]
         }
     ],
@@ -119,45 +403,97 @@
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                39,
-                31
+                5,
+                6
             ]
         },
         {
-            "event_type": "has_capital_structure_changes",
+            "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                61,
-                64
-            ]
-        },
-        {
-            "event_type": "has_executive_compensation",
-            "events_src_pdf_page": [
-                69,
-                75
+                5
             ]
         },
         {
             "event_type": "has_dividend_policy_changes",
             "events_src_pdf_page": [
-                2,
-                4,
-                68
+                4
             ]
         },
         {
-            "event_type": "has_share_buyback_plans",
+            "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
-                2,
-                4,
-                67
+                5
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                20
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                34
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                44
             ]
         },
         {
             "event_type": "has_regulatory_or_litigation_issues",
             "events_src_pdf_page": [
-                6,
-                84
+                44
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                61,
+                68,
+                70
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                61,
+                70
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                61,
+                68
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                82,
+                93
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                81
             ]
         },
         {
@@ -165,6 +501,184 @@
             "events_src_pdf_page": [
                 107,
                 108
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                107,
+                108
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                107
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                107
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                2,
+                4,
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                2,
+                4,
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                2,
+                4,
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                2,
+                4,
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                41,
+                43
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                42,
+                56
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                61,
+                68,
+                69,
+                70,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                68,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                61,
+                67,
+                68,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                81,
+                82
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                79,
+                78
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                114,
+                117
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                114,
+                115,
+                108
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                127,
+                108
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                114,
+                128
             ]
         }
     ]

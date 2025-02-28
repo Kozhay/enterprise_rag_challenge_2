@@ -7,9 +7,8 @@
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
-                66,
-                72,
-                92
+                12,
+                13
             ]
         },
         {
@@ -17,9 +16,8 @@
             "industry": "Financial Services",
             "metric_type": "Total deposits at year-end",
             "metric_src_pdf_page": [
-                66,
-                72,
-                92
+                12,
+                13
             ]
         },
         {
@@ -27,9 +25,8 @@
             "industry": "Financial Services",
             "metric_type": "Loans outstanding at year-end",
             "metric_src_pdf_page": [
-                66,
-                72,
-                92
+                12,
+                13
             ]
         },
         {
@@ -37,95 +34,8 @@
             "industry": "Financial Services",
             "metric_type": "Assets under management (AUM)",
             "metric_src_pdf_page": [
-                66,
-                72,
-                92
-            ]
-        },
-        {
-            "company_name": "ACRES Commercial Realty Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Tier 1 capital ratio at year-end",
-            "metric_src_pdf_page": [
-                66,
-                72,
-                92
-            ]
-        },
-        {
-            "company_name": "ACRES Commercial Realty Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Return on equity (ROE) at year-end",
-            "metric_src_pdf_page": [
-                66,
-                72,
-                92
-            ]
-        },
-        {
-            "company_name": "ACRES Commercial Realty Corp.",
-            "industry": "Financial Services",
-            "metric_type": "End-of-year net interest margin (NIM)",
-            "metric_src_pdf_page": [
-                66,
-                72,
-                92
-            ]
-        },
-        {
-            "company_name": "ACRES Commercial Realty Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Total assets on balance sheet at year-end",
-            "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
-            ]
-        },
-        {
-            "company_name": "ACRES Commercial Realty Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Total deposits at year-end",
-            "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
-            ]
-        },
-        {
-            "company_name": "ACRES Commercial Realty Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Loans outstanding at year-end",
-            "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
-            ]
-        },
-        {
-            "company_name": "ACRES Commercial Realty Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Assets under management (AUM)",
-            "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
+                12,
+                13
             ]
         },
         {
@@ -133,13 +43,8 @@
             "industry": "Financial Services",
             "metric_type": "Non-performing loan ratio (NPL) at year-end",
             "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
+                12,
+                13
             ]
         },
         {
@@ -147,13 +52,8 @@
             "industry": "Financial Services",
             "metric_type": "Tier 1 capital ratio at year-end",
             "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
+                12,
+                13
             ]
         },
         {
@@ -161,13 +61,8 @@
             "industry": "Financial Services",
             "metric_type": "Number of customer accounts at year-end",
             "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
+                12,
+                13
             ]
         },
         {
@@ -175,13 +70,8 @@
             "industry": "Financial Services",
             "metric_type": "Branch count at year-end",
             "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
+                12,
+                13
             ]
         },
         {
@@ -189,13 +79,8 @@
             "industry": "Financial Services",
             "metric_type": "End-of-year net interest margin (NIM)",
             "metric_src_pdf_page": [
-                116,
-                117,
-                120,
-                121,
-                128,
-                138,
-                141
+                12,
+                13
             ]
         },
         {
@@ -203,13 +88,352 @@
             "industry": "Financial Services",
             "metric_type": "Return on equity (ROE) at year-end",
             "metric_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "company_name": "Exantas Real Estate",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Real Estate Investment Trust",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                56,
+                62
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Real Estate Investment Trust",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                47
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Real Estate Investment Trust",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Real Estate Investment Trust",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                62
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Capital Corp.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                68,
+                70,
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                94,
+                98
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                94,
+                98
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                113,
+                114,
+                115,
                 116,
                 117,
-                120,
-                121,
-                128,
-                138,
-                141
+                118
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                113,
+                114,
+                115,
+                116,
+                117,
+                118
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                114
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                115,
+                116
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                114
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                113
+            ]
+        },
+        {
+            "company_name": "ACRES Commercial Realty Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145
             ]
         }
     ],
@@ -217,88 +441,299 @@
         {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                63,
-                64,
-                65,
-                73,
-                76
-            ]
-        },
-        {
-            "event_type": "has_dividend_policy_changes",
-            "events_src_pdf_page": [
-                63,
-                64,
-                65,
-                73,
-                76
+                6,
+                15
             ]
         },
         {
             "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
-                92,
-                94
-            ]
-        },
-        {
-            "event_type": "has_capital_expenditures",
-            "events_src_pdf_page": [
-                92,
-                94
+                14,
+                19
             ]
         },
         {
             "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                50,
-                65,
-                71,
-                75
-            ]
-        },
-        {
-            "event_type": "has_new_product_launches",
-            "events_src_pdf_page": [
-                63,
-                64,
-                65,
-                73,
-                76
-            ]
-        },
-        {
-            "event_type": "has_capital_structure_changes",
-            "events_src_pdf_page": [
-                94,
-                96
-            ]
-        },
-        {
-            "event_type": "has_leadership_changes",
-            "events_src_pdf_page": [
-                144,
-                145
+                10,
+                28
             ]
         },
         {
             "event_type": "has_capital_expenditures",
             "events_src_pdf_page": [
-                118,
-                128,
-                139
+                30,
+                31
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                48,
+                61
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                124
+                49
             ]
         },
         {
-            "event_type": "has_financial_performance_indicators",
+            "event_type": "has_capital_expenditures",
             "events_src_pdf_page": [
-                123,
+                50
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                48,
+                49
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                74,
+                82
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                71,
+                72,
+                74,
+                75
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                74,
+                79
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                71,
+                80
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                101,
+                109
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                89,
+                94
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                87,
+                90
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                109
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                128,
+                129
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                130
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                132,
+                133,
+                134,
+                135
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                159
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                6,
+                15
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                14,
+                20
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                28,
+                29,
+                30,
+                31
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                60,
+                61
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                56,
+                57
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                56
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                58
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                60,
+                55
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                76,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                77,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                76,
+                80
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                92,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                92,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                92,
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                94,
+                99
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                94,
+                99
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                96,
+                99
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                127
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                127
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                127
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                133,
+                143,
                 144
             ]
         }

@@ -39,7 +39,7 @@
             "industry": "Financial Services",
             "metric_type": "Non-performing loan ratio (NPL) at year-end",
             "metric_src_pdf_page": [
-                11
+                4
             ]
         },
         {
@@ -47,7 +47,7 @@
             "industry": "Financial Services",
             "metric_type": "Tier 1 capital ratio at year-end",
             "metric_src_pdf_page": [
-                11
+                4
             ]
         },
         {
@@ -55,7 +55,7 @@
             "industry": "Financial Services",
             "metric_type": "Number of customer accounts at year-end",
             "metric_src_pdf_page": [
-                3
+                4
             ]
         },
         {
@@ -63,7 +63,7 @@
             "industry": "Financial Services",
             "metric_type": "Branch count at year-end",
             "metric_src_pdf_page": [
-                3
+                4
             ]
         },
         {
@@ -71,7 +71,63 @@
             "industry": "Financial Services",
             "metric_type": "End-of-year net interest margin (NIM)",
             "metric_src_pdf_page": [
-                11
+                4
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                9
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                10
             ]
         },
         {
@@ -81,15 +137,257 @@
             "metric_src_pdf_page": [
                 11
             ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                39
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                39
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                39
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                46
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                47
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                57,
+                58
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                56,
+                57
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                56,
+                57
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                56,
+                58
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                54,
+                56
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                57,
+                58
+            ]
         }
     ],
     "events": [
-        {
-            "event_type": "has_executive_compensation",
-            "events_src_pdf_page": [
-                4
-            ]
-        },
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
@@ -97,9 +395,251 @@
             ]
         },
         {
-            "event_type": "has_dividend_policy_changes",
+            "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
                 4
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                24
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                26
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                42
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                47
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                59,
+                74
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                68
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                81,
+                82,
+                83
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                31
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                31
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                30
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": []
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                31
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                39
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                59,
+                62
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                69,
+                70
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                56,
+                57
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                58,
+                61
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                59,
+                70
             ]
         }
     ]

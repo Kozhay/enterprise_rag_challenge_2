@@ -7,33 +7,139 @@
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
-                4
+                4,
+                21
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                42
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "company_name": "Odyssey Group Holdings, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                4,
+                21
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "has_dividend_policy_changes",
             "events_src_pdf_page": [
-                49
+                46
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                21
             ]
         },
         {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                29
+                1,
+                50
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                4,
+                21
             ]
         },
         {
-            "event_type": "has_leadership_changes",
-            "events_src_pdf_page": [
-                45
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                4,
+                21
             ]
         },
         {
-            "event_type": "has_layoffs",
-            "events_src_pdf_page": [
-                39
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                4,
+                21
             ]
         }
     ]

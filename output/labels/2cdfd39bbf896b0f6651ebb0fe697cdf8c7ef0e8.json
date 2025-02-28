@@ -5,9 +5,214 @@
         {
             "company_name": "Celldex Therapeutics, Inc.",
             "industry": "Biopharmaceutical",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                5,
+                11
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                6,
+                10
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                24,
+                27
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
             "metric_type": "Number of hospital beds at year-end",
             "metric_src_pdf_page": [
-                75
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                49,
+                50,
+                51,
+                52,
+                54,
+                58
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                49,
+                50,
+                51,
+                52,
+                54,
+                58
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                49,
+                50,
+                51,
+                52,
+                54,
+                58
+            ]
+        },
+        {
+            "company_name": "Celldex Therapeutics, Inc.",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85
             ]
         }
     ],
@@ -15,12 +220,190 @@
         {
             "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
+                5,
+                6,
+                10,
+                9
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                6,
+                10
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                6,
+                10
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                22,
+                23
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                22
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
                 54,
                 56,
+                58
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                66,
+                67,
+                68,
+                69,
                 70,
+                71,
+                72,
+                73,
+                74,
                 75,
                 76,
-                87
+                77
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                95,
+                97,
+                99,
+                101,
+                109
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                2,
+                5
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                5,
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                24,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                24,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                24,
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                48,
+                49,
+                50,
+                54
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                54,
+                56
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                75,
+                76,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84
             ]
         }
     ]

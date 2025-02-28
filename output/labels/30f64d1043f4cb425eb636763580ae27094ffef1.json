@@ -7,77 +7,404 @@
             "industry": "Retail",
             "metric_type": "Total store floor area (sqm)",
             "metric_src_pdf_page": [
-                66,
-                68
+                15,
+                16,
+                18
             ]
         },
         {
             "company_name": "1-800-FLOWERS.COM, INC.",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
             "industry": "Retail",
             "metric_type": "Total store floor area (sq. ft.)",
             "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
+            "industry": "Retail",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
+            "industry": "Retail",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                34,
+                36
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                65,
                 66,
                 68
             ]
         },
         {
-            "company_name": "1-800-FLOWERS.COM, INC.",
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
             "industry": "Retail",
             "metric_type": "Value of inventory on hand at year-end",
             "metric_src_pdf_page": [
-                68
+                65,
+                66,
+                72,
+                74
             ]
         },
         {
-            "company_name": "1-800-FLOWERS.COM, INC.",
-            "industry": "Retail",
-            "metric_type": "Year-end store employee headcount",
-            "metric_src_pdf_page": [
-                31,
-                68
-            ]
-        },
-        {
-            "company_name": "1-800-FLOWERS.COM, INC.",
-            "industry": "Retail",
-            "metric_type": "Number of new store openings (cumulative in year)",
-            "metric_src_pdf_page": [
-                68
-            ]
-        },
-        {
-            "company_name": "1-800-FLOWERS.COM, INC.",
+            "company_name": "1-800-FLOWERS.COM, Inc.",
             "industry": "Retail",
             "metric_type": "Number of distribution centers at year-end",
             "metric_src_pdf_page": [
+                65,
+                66,
                 68
             ]
         },
         {
-            "company_name": "1-800-FLOWERS.COM, INC.",
+            "company_name": "1-800-FLOWERS.COM, Inc.",
             "industry": "Retail",
             "metric_type": "Number of fulfillment centers at year-end",
             "metric_src_pdf_page": [
+                65,
+                66,
                 68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Private label SKUs in portfolio",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Online order fulfillment capacity (daily)",
+            "metric_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "1-800-FLOWERS.COM, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                89
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                22,
-                35,
-                41,
-                44
+                3,
+                4,
+                17
             ]
         },
         {
-            "event_type": "has_guidance_updates",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
+                38,
+                39,
+                40
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                76,
+                77,
+                78,
+                79
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                80
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                3,
+                5,
+                9,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                34,
+                38,
+                41,
+                42,
+                46,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                39,
+                40,
+                41,
+                43,
+                46,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
                 34,
                 36,
-                38
+                41,
+                46,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                34,
+                36,
+                41,
+                46,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                34,
+                36,
+                41,
+                46,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                34,
+                41,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                34,
+                41,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                66,
+                67,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                85
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                89
             ]
         }
     ]
