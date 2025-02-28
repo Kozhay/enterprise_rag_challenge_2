@@ -1,0 +1,236 @@
+{
+    "company_name": "Duni Group",
+    "file_name": "e7a45fed0d7ebfd13a524e7fcc443318bac654e2",
+    "data_points": [
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                17,
+                35,
+                61
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                6,
+                19,
+                60
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                17,
+                19
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of depots in distribution network",
+            "metric_src_pdf_page": [
+                17
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                70
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                123,
+                124,
+                125,
+                126,
+                139,
+                141,
+                150
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                123,
+                124,
+                125,
+                126,
+                139,
+                141,
+                150
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                123,
+                124,
+                125,
+                126,
+                139,
+                140,
+                150
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Food safety certifications (sites certified)",
+            "metric_src_pdf_page": [
+                123,
+                124,
+                125,
+                126,
+                139,
+                141,
+                150
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Brand portfolio size (distinct brands at year-end)",
+            "metric_src_pdf_page": [
+                123,
+                124,
+                125,
+                126,
+                139,
+                140,
+                150
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                8,
+                9,
+                10,
+                35,
+                47,
+                48
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                2,
+                10,
+                43,
+                71,
+                72
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                30,
+                72
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                9,
+                10,
+                74
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                143
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                91,
+                92,
+                93
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                72,
+                85
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                72,
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                91
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                138,
+                150
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                138,
+                150
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                138,
+                150
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                138,
+                150
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                138,
+                150
+            ]
+        }
+    ]
+}
