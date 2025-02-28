@@ -1,0 +1,708 @@
+{
+    "company_name": "RWE AG",
+    "file_name": "cc0fc5888b99758100a7ff024863fc4337b6b3c5",
+    "data_points": [
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                3,
+                20,
+                21,
+                22,
+                23,
+                27
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                3,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                27
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                3,
+                21
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                3,
+                21
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                46,
+                48
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                49,
+                50
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                56
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                49,
+                51,
+                52
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                49,
+                50
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                50
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                50
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                82,
+                83,
+                88
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                128,
+                127,
+                126,
+                125,
+                124,
+                123,
+                122
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                128,
+                127,
+                126,
+                125,
+                124,
+                123,
+                122
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                128,
+                127,
+                126,
+                125,
+                124,
+                123,
+                122
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                128,
+                127,
+                126,
+                125,
+                124,
+                123,
+                122
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                149,
+                150
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                149,
+                150
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                149,
+                150
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                149,
+                150
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                200,
+                201,
+                202,
+                203,
+                204,
+                205
+            ]
+        },
+        {
+            "company_name": "RWE AG",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                200,
+                201
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230
+            ]
+        },
+        {
+            "company_name": "RWE",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254
+            ]
+        },
+        {
+            "company_name": "RWE Aktiengesellschaft",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                283,
+                283
+            ]
+        },
+        {
+            "company_name": "RWE Aktiengesellschaft",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                283,
+                283
+            ]
+        },
+        {
+            "company_name": "RWE Aktiengesellschaft",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                283,
+                283
+            ]
+        },
+        {
+            "company_name": "RWE Aktiengesellschaft",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                283,
+                283
+            ]
+        },
+        {
+            "company_name": "RWE Aktiengesellschaft",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                283,
+                283
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                9,
+                12,
+                25
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                9,
+                10,
+                16,
+                26
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                9,
+                20
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                7,
+                11,
+                20
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                3,
+                4,
+                5,
+                20,
+                21,
+                23
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                7,
+                20
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                20,
+                21
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                38,
+                39,
+                40,
+                41,
+                42
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                53,
+                54,
+                55
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                56,
+                63,
+                64
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                69,
+                71,
+                74,
+                76,
+                77,
+                81
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                128,
+                129,
+                139
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                149
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                149
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                163
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                173,
+                179,
+                182,
+                190,
+                191,
+                193
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                196
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                197
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                206
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                208
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                207,
+                208
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                190,
+                191,
+                192
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                195
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                223,
+                224,
+                225,
+                226,
+                227,
+                228
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                246,
+                247,
+                248
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                261,
+                266,
+                267,
+                268,
+                270
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                285
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                261
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                283
+            ]
+        }
+    ]
+}

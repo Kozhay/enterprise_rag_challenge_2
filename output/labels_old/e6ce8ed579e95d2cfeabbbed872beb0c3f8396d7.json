@@ -1,0 +1,641 @@
+{
+    "company_name": "Suncorp Group",
+    "file_name": "e6ce8ed579e95d2cfeabbbed872beb0c3f8396d7",
+    "data_points": [
+        {
+            "company_name": "Suncorp Group",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                5,
+                5,
+                5,
+                5,
+                5,
+                6,
+                7,
+                7,
+                11
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                46,
+                52,
+                53,
+                54,
+                56,
+                57
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                52,
+                53,
+                56
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                52,
+                53
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                46,
+                52,
+                56
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                52,
+                53
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                52,
+                53
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                52,
+                56
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                52,
+                56
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                52,
+                56
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81,
+                101
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                148,
+                149
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                147,
+                148
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                146,
+                148
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                138,
+                140
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                149,
+                150
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                146,
+                147
+            ]
+        },
+        {
+            "company_name": "Suncorp",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                150,
+                151
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                167,
+                168
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                167,
+                170
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                167,
+                169
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                167
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                166
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        },
+        {
+            "company_name": "Suncorp Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                194,
+                195
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                6,
+                9,
+                30
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                4,
+                10,
+                11,
+                8
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                36,
+                37
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                4,
+                11
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                73,
+                74,
+                75,
+                76,
+                77
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                54,
+                55,
+                56
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                52,
+                54,
+                55,
+                57
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                52,
+                53,
+                54,
+                56
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                48,
+                49,
+                50,
+                54,
+                55
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                88,
+                89,
+                92,
+                93
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                79,
+                81
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                82,
+                83
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                82,
+                83
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                110,
+                112
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                118
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                127,
+                129
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                151,
+                152
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                151,
+                152
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                151,
+                154
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                174,
+                177
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                180
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                181
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                183
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                182
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                181,
+                175
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                176
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                201
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "company_name": "OFX Group Limited",
+    "file_name": "1bd670f9cdf088266db849722c3aded77a2f4894",
+    "data_points": [
+        {
+            "company_name": "OFX Group Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                80
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                52,
+                54,
+                56,
+                62,
+                66,
+                70,
+                72,
+                76
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                48
+            ]
+        }
+    ]
+}

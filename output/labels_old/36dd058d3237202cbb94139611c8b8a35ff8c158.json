@@ -1,0 +1,46 @@
+{
+    "company_name": "Ocugen, Inc.",
+    "file_name": "36dd058d3237202cbb94139611c8b8a35ff8c158",
+    "data_points": [
+        {
+            "company_name": "Ocugen, Inc.",
+            "industry": "Biotechnology",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                3,
+                4,
+                6
+            ]
+        },
+        {
+            "company_name": "Ocugen, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                99,
+                117
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                20,
+                21,
+                23,
+                24
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                121,
+                123,
+                132
+            ]
+        }
+    ]
+}

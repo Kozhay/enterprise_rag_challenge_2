@@ -1,0 +1,96 @@
+{
+    "company_name": "Rectifier Technologies Ltd",
+    "file_name": "3bb894b4201667baf60b0b2c8a47109fa2357acb",
+    "data_points": [
+        {
+            "company_name": "Rectifier Technologies Ltd",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                4,
+                16,
+                31
+            ]
+        },
+        {
+            "company_name": "Rectifier Technologies Ltd",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                16,
+                17
+            ]
+        },
+        {
+            "company_name": "Rectifier Technologies Ltd",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                11,
+                18,
+                21
+            ]
+        },
+        {
+            "company_name": "Rectifier Technologies Ltd",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                1,
+                16,
+                17
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                6,
+                12,
+                26
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                11,
+                31
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                34
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                34
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                19,
+                33
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                4,
+                10,
+                16
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                5
+            ]
+        }
+    ]
+}

@@ -1,0 +1,558 @@
+{
+    "company_name": "Duni Group",
+    "file_name": "e7a45fed0d7ebfd13a524e7fcc443318bac654e2",
+    "data_points": [
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                4,
+                8,
+                20
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                4,
+                8
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of company-owned outlets",
+            "metric_src_pdf_page": [
+                4,
+                8
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of franchised outlets",
+            "metric_src_pdf_page": [
+                4,
+                8
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "SKU count in portfolio",
+            "metric_src_pdf_page": [
+                4,
+                8
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Inventory of raw materials at year-end",
+            "metric_src_pdf_page": [
+                4,
+                8
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                4,
+                18,
+                26
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Food safety certifications (sites certified)",
+            "metric_src_pdf_page": [
+                4,
+                8
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Brand portfolio size (distinct brands at year-end)",
+            "metric_src_pdf_page": [
+                4,
+                8
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                4,
+                8,
+                20
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of depots in distribution network",
+            "metric_src_pdf_page": [
+                4,
+                8
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                35,
+                36,
+                39,
+                40
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                59,
+                60,
+                61,
+                62,
+                64,
+                65,
+                71
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Inventory of raw materials at year-end",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                60,
+                62
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Food safety certifications (sites certified)",
+            "metric_src_pdf_page": [
+                59,
+                70,
+                73
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                61,
+                62
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of company-owned outlets",
+            "metric_src_pdf_page": [
+                62,
+                67
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Inventory of raw materials at year-end",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of company-owned outlets",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of franchised outlets",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Raw material supply contracts",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "SKU count in portfolio",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Brand portfolio size (distinct brands at year-end)",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                101,
+                102,
+                103
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                123,
+                124,
+                125
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                125,
+                126
+            ]
+        },
+        {
+            "company_name": "Duni Group",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                123,
+                134
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                142
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of company-owned outlets",
+            "metric_src_pdf_page": [
+                142
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                142
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Inventory of raw materials at year-end",
+            "metric_src_pdf_page": [
+                142
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "SKU count in portfolio",
+            "metric_src_pdf_page": [
+                142
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                142
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Food safety certifications (sites certified)",
+            "metric_src_pdf_page": [
+                142
+            ]
+        },
+        {
+            "company_name": "Duni AB",
+            "industry": "Food & Beverage",
+            "metric_type": "Brand portfolio size (distinct brands at year-end)",
+            "metric_src_pdf_page": [
+                142
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                21,
+                27,
+                28,
+                16
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                22,
+                23,
+                29
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                10,
+                9
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                18,
+                9
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                35,
+                36
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                57,
+                70,
+                71
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                70,
+                72
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                70,
+                71
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                70,
+                71,
+                72
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                74,
+                75
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                75,
+                76,
+                81,
+                82
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                76,
+                77
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                76,
+                79
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                106,
+                107,
+                108
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                105,
+                106
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                119,
+                120,
+                123,
+                134
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                138
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                120,
+                123
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                151
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                151
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                151
+            ]
+        }
+    ]
+}

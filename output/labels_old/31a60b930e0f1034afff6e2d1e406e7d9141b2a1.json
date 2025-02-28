@@ -1,0 +1,103 @@
+{
+    "company_name": "Weis Markets, Inc.",
+    "file_name": "31a60b930e0f1034afff6e2d1e406e7d9141b2a1",
+    "data_points": [
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                24
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "WEIS MARKETS, INC.",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                13
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                10,
+                11
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                13
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                5,
+                13
+            ]
+        }
+    ]
+}

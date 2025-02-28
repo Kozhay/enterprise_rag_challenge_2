@@ -1,0 +1,290 @@
+{
+    "company_name": "RumbleOn, Inc.",
+    "file_name": "e7f655f43bc2abf6216519187d9fc907e9224937",
+    "data_points": [
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                3,
+                7,
+                17,
+                19
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                7,
+                9,
+                17
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                7,
+                17
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                35,
+                39,
+                38,
+                37,
+                36,
+                35,
+                40
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "Number of patents at year-end",
+            "metric_src_pdf_page": [
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                68
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Cloud storage capacity (TB)",
+            "metric_src_pdf_page": [
+                68
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Year-end user base",
+            "metric_src_pdf_page": [
+                68
+            ]
+        },
+        {
+            "company_name": "RumbleOn",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                70,
+                71,
+                72,
+                73,
+                74
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                88,
+                89,
+                90,
+                91
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                90,
+                91,
+                94
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                91,
+                92
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                104,
+                105,
+                106,
+                120,
+                129
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                104,
+                105,
+                106,
+                120,
+                129
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                105,
+                106,
+                120,
+                121,
+                129
+            ]
+        },
+        {
+            "company_name": "RumbleOn, Inc.",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                120,
+                121,
+                129
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                8,
+                12,
+                18,
+                22
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                8,
+                12,
+                20,
+                26
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                27,
+                28,
+                29,
+                31,
+                36
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                71,
+                81,
+                82,
+                83
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                88,
+                91
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                90,
+                91,
+                94
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                90,
+                93,
+                99
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                90,
+                94
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                117,
+                119
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                120,
+                121
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                106,
+                127,
+                128
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                132,
+                139
+            ]
+        }
+    ]
+}

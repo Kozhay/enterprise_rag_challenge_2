@@ -1,0 +1,78 @@
+{
+    "company_name": "Aptevo Therapeutics Inc.",
+    "file_name": "0981826b4b43a88920f3e01c71ae73539bab84cc",
+    "data_points": [
+        {
+            "company_name": "Aptevo Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                8,
+                10,
+                73
+            ]
+        },
+        {
+            "company_name": "Aptevo Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                8,
+                10,
+                73
+            ]
+        },
+        {
+            "company_name": "Aptevo Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                8,
+                10,
+                73
+            ]
+        },
+        {
+            "company_name": "Aptevo Therapeutics Inc.",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                8,
+                10,
+                27
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                4,
+                9,
+                67,
+                73
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                4,
+                67,
+                70,
+                74,
+                75
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                6,
+                23,
+                40,
+                52,
+                54,
+                57
+            ]
+        }
+    ]
+}

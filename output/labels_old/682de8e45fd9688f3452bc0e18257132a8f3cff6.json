@@ -1,0 +1,501 @@
+{
+    "company_name": "Sonic Automotive, Inc.",
+    "file_name": "682de8e45fd9688f3452bc0e18257132a8f3cff6",
+    "data_points": [
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Number of electric models available",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Number of hybrid models available",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "End-of-period market share (by units sold)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Vehicle production capacity (units/year)",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "R&D workforce headcount",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Inventory of finished vehicles at year-end",
+            "metric_src_pdf_page": [
+                4,
+                9
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Battery production capacity (if applicable)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                33,
+                37
+            ]
+        },
+        {
+            "company_name": "Automotive Company",
+            "industry": "Automotive",
+            "metric_type": "Inventory of finished vehicles at year-end",
+            "metric_src_pdf_page": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "End-of-period market share (by units sold)",
+            "metric_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Number of electric models available",
+            "metric_src_pdf_page": [
+                93
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "End-of-period market share (by units sold)",
+            "metric_src_pdf_page": [
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Inventory of finished vehicles at year-end",
+            "metric_src_pdf_page": [
+                118,
+                119
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                118
+            ]
+        },
+        {
+            "company_name": "Sonic Automotive, Inc.",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                118
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                3,
+                8
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                5,
+                9
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                13,
+                15
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                11,
+                13
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                13,
+                15
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                25,
+                29,
+                33
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                93
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                116,
+                121
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                122
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                4,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                4,
+                20
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                21,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                21,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                21,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                40,
+                41
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                92
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                118,
+                120,
+                123
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                120
+            ]
+        }
+    ]
+}

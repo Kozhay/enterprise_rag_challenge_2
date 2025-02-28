@@ -1,0 +1,123 @@
+{
+    "company_name": "Peako Limited",
+    "file_name": "105688726e097505beef4934896193ac51295037",
+    "data_points": [
+        {
+            "company_name": "Peako Limited",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                4,
+                6,
+                24,
+                39
+            ]
+        },
+        {
+            "company_name": "Peako Limited",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                6,
+                24
+            ]
+        },
+        {
+            "company_name": "Peako Limited",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                21,
+                24
+            ]
+        },
+        {
+            "company_name": "Peako Limited",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                21,
+                24
+            ]
+        },
+        {
+            "company_name": "Peako Limited",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                33
+            ]
+        },
+        {
+            "company_name": "Peako Limited",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                33
+            ]
+        },
+        {
+            "company_name": "Peako Limited",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                33
+            ]
+        },
+        {
+            "company_name": "Peako Limited",
+            "industry": "Technology",
+            "metric_type": "Year-end user base",
+            "metric_src_pdf_page": [
+                33
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                21,
+                22
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                24,
+                46
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                33
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                24
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                24,
+                26
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "company_name": "Benjamin Hornigold Ltd",
+    "file_name": "e2850fff8d9dee77f3a6520d0b1aba46adddc2c0",
+    "data_points": [
+        {
+            "company_name": "Benjamin Hornigold Ltd",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                16
+            ]
+        },
+        {
+            "company_name": "Benjamin Hornigold Ltd",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                16
+            ]
+        },
+        {
+            "company_name": "Benjamin Hornigold Ltd",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "company_name": "Benjamin Hornigold Ltd",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "company_name": "Benjamin Hornigold Ltd",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                15
+            ]
+        },
+        {
+            "company_name": "Benjamin Hornigold Ltd",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "company_name": "Benjamin Hornigold Ltd",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                42
+            ]
+        },
+        {
+            "company_name": "Benjamin Hornigold Ltd",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                42
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                4,
+                7,
+                15
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                40
+            ]
+        }
+    ]
+}

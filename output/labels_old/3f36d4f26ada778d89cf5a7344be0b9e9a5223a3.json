@@ -1,0 +1,249 @@
+{
+    "company_name": "Origin Bancorp, Inc.",
+    "file_name": "3f36d4f26ada778d89cf5a7344be0b9e9a5223a3",
+    "data_points": [
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                109
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                109
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                109
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                169,
+                238
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                169,
+                237
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                169,
+                215
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                215,
+                237
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                161,
+                169
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                183,
+                169
+            ]
+        },
+        {
+            "company_name": "Origin Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                169,
+                153
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                3,
+                7,
+                11,
+                27,
+                36
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                3,
+                5,
+                6,
+                37
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                6,
+                59
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                60,
+                62
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                139,
+                163
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                173,
+                200
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                160,
+                231
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                151,
+                153
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                156,
+                244
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                140,
+                175
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                250,
+                261
+            ]
+        }
+    ]
+}

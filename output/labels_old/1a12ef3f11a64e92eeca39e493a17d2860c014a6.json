@@ -1,0 +1,73 @@
+{
+    "company_name": "Medallion Financial Corp.",
+    "file_name": "1a12ef3f11a64e92eeca39e493a17d2860c014a6",
+    "data_points": [
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                6,
+                49
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                11,
+                70
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                42,
+                43
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "company_name": "Medallion Financial Corp.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                42
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                11,
+                48,
+                49
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                21,
+                25
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                10,
+                95
+            ]
+        }
+    ]
+}

@@ -1,0 +1,648 @@
+{
+    "company_name": "Aptiv PLC",
+    "file_name": "957f31e694198a1695d14aa512a972ab6f3c55b5",
+    "data_points": [
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                9,
+                10
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Number of electric models available",
+            "metric_src_pdf_page": [
+                2,
+                10
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Number of hybrid models available",
+            "metric_src_pdf_page": [
+                9,
+                10
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                9,
+                11
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                9,
+                10
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "End-of-period market share (by units sold)",
+            "metric_src_pdf_page": [
+                9,
+                10
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Vehicle production capacity (units/year)",
+            "metric_src_pdf_page": [
+                9,
+                10
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "R&D workforce headcount",
+            "metric_src_pdf_page": [
+                9,
+                10
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Inventory of finished vehicles at year-end",
+            "metric_src_pdf_page": [
+                9,
+                10
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "Number of electric models available",
+            "metric_src_pdf_page": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "R&D workforce headcount",
+            "metric_src_pdf_page": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                42
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "Number of EV charging stations in network",
+            "metric_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "R&D workforce headcount",
+            "metric_src_pdf_page": [
+                42
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "End-of-period market share (by units sold)",
+            "metric_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "Battery production capacity (if applicable)",
+            "metric_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "R&D workforce headcount",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Vehicle production capacity (units/year)",
+            "metric_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Number of electric models available",
+            "metric_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Number of hybrid models available",
+            "metric_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Battery production capacity (if applicable)",
+            "metric_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Global dealership network size",
+            "metric_src_pdf_page": [
+                83
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "End-of-period market share (by units sold)",
+            "metric_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Number of EV charging stations in network",
+            "metric_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Year-end fleet average CO₂ emissions",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "Inventory of finished vehicles at year-end",
+            "metric_src_pdf_page": [
+                78
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "End-of-period market share (by units sold)",
+            "metric_src_pdf_page": [
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119
+            ]
+        },
+        {
+            "company_name": "Aptiv",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136
+            ]
+        },
+        {
+            "company_name": "Aptiv PLC",
+            "industry": "Automotive",
+            "metric_type": "End-of-year automotive patent portfolio",
+            "metric_src_pdf_page": [
+                141
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                2,
+                3,
+                8,
+                12,
+                14,
+                15,
+                17
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                18,
+                19
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                53
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                53
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                41
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                68,
+                69,
+                70
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                87
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                87
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                86
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                79
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                87
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                79
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                83
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                87
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                85
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                150
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                151
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                150
+            ]
+        }
+    ]
+}

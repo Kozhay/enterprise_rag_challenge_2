@@ -1,0 +1,46 @@
+{
+    "company_name": "Odyssey Gold Limited",
+    "file_name": "0c0faea14d108e1617f2d6d2a7c1aae04eb88fe0",
+    "data_points": [
+        {
+            "company_name": "Odyssey Gold Limited",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Manufacturing capacity (units/year)",
+            "metric_src_pdf_page": [
+                12,
+                17,
+                18,
+                26,
+                34
+            ]
+        },
+        {
+            "company_name": "Odyssey Gold Limited",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of active pharmaceutical patents",
+            "metric_src_pdf_page": [
+                12,
+                18,
+                31,
+                35
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                21,
+                26,
+                57
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                26,
+                66
+            ]
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "company_name": "Franklin Covey Co.",
+    "file_name": "e30ece688caf7602b734bbbcf39559b4acdb2739",
+    "data_points": [
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of streaming platform subscribers",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of online platform subscribers",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Broadcast coverage area (population reach)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Advertising inventory at year-end",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of active licensing deals",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Size of film/TV content library (hours)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Size of film/TV content library (titles)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Social media follower count (all platforms)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Year-end box office market share (if applicable)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of production facilities",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "In-house production capacity (titles/year)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Headcount for creative roles",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Headcount for production roles",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of streaming platform subscribers",
+            "metric_src_pdf_page": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                48,
+                49,
+                57
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of active licensing deals",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of streaming platform subscribers",
+            "metric_src_pdf_page": [
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Advertising inventory at year-end",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                115,
+                120
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of production facilities",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                114,
+                115,
+                123
+            ]
+        },
+        {
+            "company_name": "Franklin Covey Co.",
+            "industry": "Media & Entertainment",
+            "metric_type": "Number of streaming platform subscribers",
+            "metric_src_pdf_page": [
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                11,
+                12,
+                33
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                15,
+                16,
+                30
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                15,
+                16,
+                30
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                11,
+                12
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                15,
+                16,
+                30
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                12,
+                15
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                4,
+                5,
+                11,
+                12
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                70
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                90,
+                91,
+                92,
+                93,
+                95
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                113,
+                124
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                122,
+                123
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                139,
+                156,
+                157,
+                158,
+                159
+            ]
+        }
+    ]
+}

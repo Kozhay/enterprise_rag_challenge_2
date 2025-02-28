@@ -1,0 +1,226 @@
+{
+    "company_name": "AA Limited",
+    "file_name": "aa781901e117281bfee6f8e4bea6fc9c9bada62e",
+    "data_points": [
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (aircraft) at year-end",
+            "metric_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                21,
+                22
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                21
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                21
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                21
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                21
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                21
+            ]
+        },
+        {
+            "company_name": "AA Ltd",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                48,
+                49
+            ]
+        },
+        {
+            "company_name": "AA Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                49,
+                50,
+                51,
+                52
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                12,
+                18
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                12,
+                20
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                28,
+                29
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                28,
+                29
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                46,
+                47
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                38,
+                57
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                38,
+                57
+            ]
+        }
+    ]
+}

@@ -1,0 +1,484 @@
+{
+    "company_name": "Downer EDI Limited",
+    "file_name": "0a61a353b1ea9fd9b8f63b60239634ca3007d58f",
+    "data_points": [
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                15
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vessels) at year-end",
+            "metric_src_pdf_page": [
+                11,
+                12,
+                17
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                5,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": [
+                5,
+                15,
+                21
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (cubic ft.)",
+            "metric_src_pdf_page": [
+                4,
+                11,
+                12
+            ]
+        },
+        {
+            "company_name": "Downer EDI",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35
+            ]
+        },
+        {
+            "company_name": "Downer EDI",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35
+            ]
+        },
+        {
+            "company_name": "Downer EDI",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                68,
+                69,
+                70
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                68,
+                69
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                85,
+                86,
+                87
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                85,
+                89
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                85,
+                90
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                126,
+                130
+            ]
+        },
+        {
+            "company_name": "Downer EDI Limited",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                136,
+                137
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                6,
+                8,
+                7,
+                9
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                18,
+                20,
+                22
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                4,
+                11,
+                22
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                30,
+                20,
+                72
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                25,
+                26
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                14,
+                19
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                13,
+                26,
+                28
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                59,
+                60
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                65,
+                66
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                91,
+                92
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                91,
+                93
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                126,
+                130
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                126,
+                128
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                126,
+                128
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                138,
+                139
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                11,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                11,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                11,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                11,
+                14,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                11,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                12,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                40,
+                41,
+                42
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                61,
+                69,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                61,
+                62
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                64,
+                80
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                96,
+                97
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                96,
+                100
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                98,
+                99
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                112,
+                118
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                112,
+                120
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                112,
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                144,
+                145
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "company_name": "FNCB Bancorp, Inc.",
+    "file_name": "23b2c590c4887dfb86761730dd7156fe3b216ab7",
+    "data_points": [
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                2,
+                67,
+                60,
+                61
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                2,
+                57,
+                60,
+                61
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                2,
+                57,
+                60,
+                61
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                2,
+                54,
+                44
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                2,
+                57,
+                61
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                2,
+                38
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                2,
+                38
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                2,
+                61
+            ]
+        },
+        {
+            "company_name": "FNCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                127
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                39,
+                31
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                61,
+                64
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                69,
+                75
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                2,
+                4,
+                68
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                2,
+                4,
+                67
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                6,
+                84
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                107,
+                108
+            ]
+        }
+    ]
+}
