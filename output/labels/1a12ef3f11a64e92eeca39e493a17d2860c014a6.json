@@ -7,7 +7,8 @@
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
-                53
+                6,
+                49
             ]
         },
         {
@@ -15,7 +16,8 @@
             "industry": "Financial Services",
             "metric_type": "Total deposits at year-end",
             "metric_src_pdf_page": [
-                53
+                11,
+                70
             ]
         },
         {
@@ -23,7 +25,8 @@
             "industry": "Financial Services",
             "metric_type": "Loans outstanding at year-end",
             "metric_src_pdf_page": [
-                53
+                42,
+                43
             ]
         },
         {
@@ -31,7 +34,7 @@
             "industry": "Financial Services",
             "metric_type": "Assets under management (AUM)",
             "metric_src_pdf_page": [
-                53
+                49
             ]
         },
         {
@@ -39,55 +42,31 @@
             "industry": "Financial Services",
             "metric_type": "Non-performing loan ratio (NPL) at year-end",
             "metric_src_pdf_page": [
-                53
-            ]
-        },
-        {
-            "company_name": "Medallion Financial Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Tier 1 capital ratio at year-end",
-            "metric_src_pdf_page": [
-                53
-            ]
-        },
-        {
-            "company_name": "Medallion Financial Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Number of customer accounts at year-end",
-            "metric_src_pdf_page": [
-                53
-            ]
-        },
-        {
-            "company_name": "Medallion Financial Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Branch count at year-end",
-            "metric_src_pdf_page": [
-                53
-            ]
-        },
-        {
-            "company_name": "Medallion Financial Corp.",
-            "industry": "Financial Services",
-            "metric_type": "End-of-year net interest margin (NIM)",
-            "metric_src_pdf_page": [
-                53
-            ]
-        },
-        {
-            "company_name": "Medallion Financial Corp.",
-            "industry": "Financial Services",
-            "metric_type": "Return on equity (ROE) at year-end",
-            "metric_src_pdf_page": [
-                53
+                42
             ]
         }
     ],
     "events": [
         {
-            "event_type": "mentions_new_risk_factors",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                5
+                11,
+                48,
+                49
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                21,
+                25
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                10,
+                95
             ]
         }
     ]

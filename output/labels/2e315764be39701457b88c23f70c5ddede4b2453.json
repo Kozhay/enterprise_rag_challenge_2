@@ -3,29 +3,47 @@
     "file_name": "2e315764be39701457b88c23f70c5ddede4b2453",
     "data_points": [
         {
-            "company_name": "Motability Operations",
+            "company_name": "Motability Operations Group plc",
             "industry": "Transport & Logistics",
             "metric_type": "Fleet size (vehicles) at year-end",
             "metric_src_pdf_page": [
-                2,
-                5
+                6,
+                10,
+                12,
+                13,
+                24
             ]
         },
         {
-            "company_name": "Motability Operations",
+            "company_name": "Motability Operations Group plc",
             "industry": "Transport & Logistics",
             "metric_type": "Number of distribution hubs",
             "metric_src_pdf_page": [
-                5
+                6
+            ]
+        },
+        {
+            "company_name": "Motability Operations Group plc",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vessels) at year-end",
+            "metric_src_pdf_page": [
+                6
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                2,
-                5
+                76,
+                78
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                10,
+                37
             ]
         }
     ]

@@ -8,7 +8,8 @@
             "metric_type": "End-of-period market capitalization",
             "metric_src_pdf_page": [
                 1,
-                5
+                3,
+                51
             ]
         },
         {
@@ -16,33 +17,59 @@
             "industry": "Technology",
             "metric_type": "End-of-year total headcount",
             "metric_src_pdf_page": [
-                1,
+                5,
+                6
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
                 5
             ]
         },
         {
             "company_name": "Aurora Innovation, Inc.",
             "industry": "Technology",
-            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_type": "Total expensed R&D expenditure",
             "metric_src_pdf_page": [
-                1,
+                5,
+                55
+            ]
+        },
+        {
+            "company_name": "Aurora Innovation, Inc.",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
                 5
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_leadership_changes",
+            "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                1,
-                5
+                7,
+                5,
+                6
             ]
         },
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
-                4,
-                5
+                28,
+                55,
+                36
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                10,
+                12,
+                102
             ]
         }
     ]

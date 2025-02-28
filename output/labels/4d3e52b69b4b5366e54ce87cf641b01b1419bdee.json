@@ -7,8 +7,151 @@
             "industry": "Pharmaceuticals",
             "metric_type": "Number of drugs on the market (approved)",
             "metric_src_pdf_page": [
-                67,
-                79
+                8,
+                65,
+                72
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase I",
+            "metric_src_pdf_page": [
+                8,
+                65,
+                72
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase II",
+            "metric_src_pdf_page": [
+                8,
+                65,
+                72
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase III",
+            "metric_src_pdf_page": [
+                8,
+                65,
+                72
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Global distribution network (markets served)",
+            "metric_src_pdf_page": [
+                17
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Manufacturing capacity (units/year)",
+            "metric_src_pdf_page": [
+                34
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Clinical trial sites operating at year-end",
+            "metric_src_pdf_page": [
+                17
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Inventory of active pharmaceutical ingredients",
+            "metric_src_pdf_page": [
+                100
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Size of sales force (year-end)",
+            "metric_src_pdf_page": [
+                19,
+                65
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Branded product count",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of drugs on the market (approved)",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase I",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase II",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase III",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Manufacturing capacity (units/year)",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Manufacturing capacity (liters/year)",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Global distribution network (markets served)",
+            "metric_src_pdf_page": [
+                109,
+                110
             ]
         },
         {
@@ -16,17 +159,132 @@
             "industry": "Pharmaceuticals",
             "metric_type": "Number of active pharmaceutical patents",
             "metric_src_pdf_page": [
-                67,
-                79
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Clinical trial sites operating at year-end",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Inventory of active pharmaceutical ingredients",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Size of sales force (year-end)",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Pharmacovigilance reports (adverse events logged)",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Branded product count",
+            "metric_src_pdf_page": [
+                109,
+                110
+            ]
+        },
+        {
+            "company_name": "Incyte Corporation",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Generic product count",
+            "metric_src_pdf_page": [
+                109,
+                110
             ]
         }
     ],
     "events": [
         {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                17,
+                69,
+                70
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                37,
+                38
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                56
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                38,
+                59,
+                60
+            ]
+        },
+        {
             "event_type": "mentions_new_risk_factors",
             "events_src_pdf_page": [
-                4,
-                5
+                37,
+                51,
+                53
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                37,
+                55,
+                70
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                38,
+                41,
+                42,
+                43
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                107,
+                108
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                127,
+                130
             ]
         }
     ]

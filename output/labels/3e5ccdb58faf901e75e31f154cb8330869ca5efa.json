@@ -7,8 +7,9 @@
             "industry": "Technology",
             "metric_type": "Total capitalized R&D expenditure",
             "metric_src_pdf_page": [
-                4,
-                5
+                20,
+                6,
+                7
             ]
         },
         {
@@ -16,82 +17,67 @@
             "industry": "Technology",
             "metric_type": "Total expensed R&D expenditure",
             "metric_src_pdf_page": [
-                4,
-                5
+                20,
+                7,
+                22
             ]
         },
         {
             "company_name": "Structural Monitoring Systems Plc",
             "industry": "Technology",
-            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_type": "End-of-year tech staff headcount",
             "metric_src_pdf_page": [
-                4,
-                5
-            ]
-        },
-        {
-            "company_name": "Structural Monitoring Systems Plc",
-            "industry": "Technology",
-            "metric_type": "End-of-year total headcount",
-            "metric_src_pdf_page": [
-                4,
-                5
-            ]
-        },
-        {
-            "company_name": "Structural Monitoring Systems Plc",
-            "industry": "Technology",
-            "metric_type": "Year-end customer base",
-            "metric_src_pdf_page": [
-                4,
-                5
+                12,
+                7
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_leadership_changes",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                5
-            ]
-        },
-        {
-            "event_type": "mentions_new_risk_factors",
-            "events_src_pdf_page": [
-                4,
-                5
-            ]
-        },
-        {
-            "event_type": "has_rnd_investment_numbers",
-            "events_src_pdf_page": [
-                4,
-                5
+                14,
+                15
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                4
-            ]
-        },
-        {
-            "event_type": "has_financial_performance_indicators",
-            "events_src_pdf_page": [
                 4,
                 5
             ]
         },
         {
-            "event_type": "has_strategic_restructuring",
+            "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                5
+                5,
+                9
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                22,
+                20
             ]
         },
         {
             "event_type": "has_regulatory_or_litigation_issues",
             "events_src_pdf_page": [
                 5
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                20
             ]
         }
     ]

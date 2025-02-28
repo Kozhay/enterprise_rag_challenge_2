@@ -3,66 +3,181 @@
     "file_name": "14fa568899745270c4ff2c10073f97f2c2e7764b",
     "data_points": [
         {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Private label SKUs in portfolio",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
+            "company_name": "Crombie Real Estate Investment Trust",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                11,
+                37,
+                39,
+                45,
+                60,
+                90
+            ]
+        },
+        {
             "company_name": "Crombie",
             "industry": "Retail",
             "metric_type": "Total store floor area (sq. ft.)",
             "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Crombie",
-            "industry": "Retail",
-            "metric_type": "Number of stores at year-end",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Crombie",
-            "industry": "Retail",
-            "metric_type": "Number of new store openings (cumulative in year)",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Crombie",
-            "industry": "Retail",
-            "metric_type": "Number of distribution centers at year-end",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Crombie",
-            "industry": "Retail",
-            "metric_type": "Online active customer accounts",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Crombie",
-            "industry": "Retail",
-            "metric_type": "Loyalty program membership at year-end",
-            "metric_src_pdf_page": [
-                3
+                131
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_leadership_changes",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
                 4,
-                5
+                5,
+                6,
+                8,
+                9
             ]
         },
         {
-            "event_type": "has_strategic_restructuring",
+            "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                4
+                4,
+                6,
+                8,
+                9
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                19,
+                33,
+                41,
+                58,
+                90,
+                91
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                4,
+                6,
+                8,
+                9
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                133
             ]
         }
     ]

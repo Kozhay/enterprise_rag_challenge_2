@@ -1,26 +1,130 @@
 {
     "company_name": "Liberty Broadband Corporation",
     "file_name": "446545ae548543d8744f8d885ff75face3424ba4",
-    "data_points": [],
+    "data_points": [
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "Number of broadband subscribers",
+            "metric_src_pdf_page": [
+                7,
+                20,
+                101
+            ]
+        },
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "Average revenue per user (ARPU) at year-end",
+            "metric_src_pdf_page": [
+                7,
+                20,
+                44
+            ]
+        },
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "Mobile subscriber base at year-end",
+            "metric_src_pdf_page": [
+                7,
+                20,
+                40
+            ]
+        },
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "5G coverage ratio (population %)",
+            "metric_src_pdf_page": [
+                7,
+                22,
+                63
+            ]
+        },
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "Network downtime (hours) in final reporting period",
+            "metric_src_pdf_page": [
+                7,
+                20,
+                100
+            ]
+        },
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "Mobile coverage area (population %)",
+            "metric_src_pdf_page": [
+                7,
+                20,
+                64
+            ]
+        },
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "Fiber network length (km)",
+            "metric_src_pdf_page": [
+                7,
+                20,
+                105
+            ]
+        },
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "Number of broadband subscribers",
+            "metric_src_pdf_page": [
+                130,
+                132
+            ]
+        },
+        {
+            "company_name": "Liberty Broadband Corporation",
+            "industry": "Telecommunications",
+            "metric_type": "Average revenue per user (ARPU) at year-end",
+            "metric_src_pdf_page": [
+                158,
+                159
+            ]
+        }
+    ],
     "events": [
         {
-            "event_type": "has_leadership_changes",
+            "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
                 3,
-                4,
-                5
+                7,
+                20,
+                74,
+                95
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                7,
+                20,
+                87,
+                114
             ]
         },
         {
             "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                4
+                7,
+                20,
+                96,
+                123
             ]
         },
         {
-            "event_type": "has_dividend_policy_changes",
+            "event_type": "has_regulatory_or_litigation_issues",
             "events_src_pdf_page": [
-                4
+                155,
+                156
             ]
         }
     ]

@@ -1,0 +1,207 @@
+{
+    "company_name": "Incitec Pivot Limited",
+    "file_name": "6529fba868216a923407fb0d4e15a811a8e89ebc",
+    "data_points": [
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                6,
+                20,
+                107
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                6,
+                107,
+                21
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                6,
+                20,
+                107
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                6,
+                20
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                20,
+                107
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                6,
+                20
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                20,
+                47
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                20,
+                107,
+                21
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                131
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                131
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                131
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                131
+            ]
+        },
+        {
+            "company_name": "Incitec Pivot Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                131
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                15,
+                18,
+                63,
+                64
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                15,
+                9,
+                14,
+                16
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                9,
+                10,
+                48
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                15,
+                18,
+                16
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                14,
+                15,
+                18
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                16,
+                18
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                14,
+                18
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                122,
+                130
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                121,
+                122
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                122
+            ]
+        }
+    ]
+}

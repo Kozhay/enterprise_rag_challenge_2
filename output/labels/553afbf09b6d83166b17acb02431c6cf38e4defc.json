@@ -1,0 +1,61 @@
+{
+    "company_name": "INMUNE BIO INC.",
+    "file_name": "553afbf09b6d83166b17acb02431c6cf38e4defc",
+    "data_points": [
+        {
+            "company_name": "INMUNE BIO INC.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                1,
+                4,
+                7,
+                10,
+                36,
+                45,
+                50,
+                52,
+                61
+            ]
+        },
+        {
+            "company_name": "INMUNE BIO INC.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                3,
+                4,
+                7,
+                11,
+                12,
+                16,
+                19,
+                23,
+                42
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                3,
+                4,
+                8,
+                11,
+                47,
+                53,
+                56
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                10,
+                26,
+                46
+            ]
+        }
+    ]
+}

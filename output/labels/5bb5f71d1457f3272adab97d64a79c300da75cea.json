@@ -1,0 +1,502 @@
+{
+    "company_name": "AstraZeneca",
+    "file_name": "5bb5f71d1457f3272adab97d64a79c300da75cea",
+    "data_points": [
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of drugs on the market (approved)",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase I",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase II",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase III",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Global distribution network (markets served)",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of active pharmaceutical patents",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Clinical trial sites operating at year-end",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Inventory of active pharmaceutical ingredients",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Size of sales force (year-end)",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Pharmacovigilance reports (adverse events logged)",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Branded product count",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Generic product count",
+            "metric_src_pdf_page": [
+                9,
+                11,
+                62
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of drugs on the market (approved)",
+            "metric_src_pdf_page": [
+                156,
+                140,
+                141,
+                160,
+                161,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase I",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase II",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase III",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Manufacturing capacity (units/year)",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Manufacturing capacity (liters/year)",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Global distribution network (markets served)",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of active pharmaceutical patents",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Clinical trial sites operating at year-end",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Inventory of active pharmaceutical ingredients",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Size of sales force (year-end)",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Pharmacovigilance reports (adverse events logged)",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Branded product count",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Generic product count",
+            "metric_src_pdf_page": [
+                156,
+                174
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of drugs on the market (approved)",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase I",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase II",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of compounds in Phase III",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Manufacturing capacity (units/year)",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Manufacturing capacity (liters/year)",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Global distribution network (markets served)",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Number of active pharmaceutical patents",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Clinical trial sites operating at year-end",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Inventory of active pharmaceutical ingredients",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Size of sales force (year-end)",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Pharmacovigilance reports (adverse events logged)",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Branded product count",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        },
+        {
+            "company_name": "AstraZeneca PLC",
+            "industry": "Pharmaceuticals",
+            "metric_type": "Generic product count",
+            "metric_src_pdf_page": [
+                213,
+                214
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                8,
+                9,
+                65
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                10,
+                9,
+                62
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                8,
+                9,
+                12
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                10,
+                9,
+                11
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                186,
+                176,
+                118
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                156,
+                184,
+                187
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                159,
+                186
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                200,
+                214
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                201,
+                202
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                204,
+                205
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                206,
+                207
+            ]
+        }
+    ]
+}

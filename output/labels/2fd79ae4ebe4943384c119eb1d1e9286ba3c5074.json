@@ -21,25 +21,9 @@
         {
             "company_name": "BCB Bancorp, Inc.",
             "industry": "Financial Services",
-            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_type": "Loans outstanding at year-end",
             "metric_src_pdf_page": [
-                4
-            ]
-        },
-        {
-            "company_name": "BCB Bancorp, Inc.",
-            "industry": "Financial Services",
-            "metric_type": "End-of-year net interest margin (NIM)",
-            "metric_src_pdf_page": [
-                4
-            ]
-        },
-        {
-            "company_name": "BCB Bancorp, Inc.",
-            "industry": "Financial Services",
-            "metric_type": "End-of-year net interest margin (NIM)",
-            "metric_src_pdf_page": [
-                4
+                3
             ]
         },
         {
@@ -47,21 +31,67 @@
             "industry": "Financial Services",
             "metric_type": "Assets under management (AUM)",
             "metric_src_pdf_page": [
-                4
+                3
             ]
         },
         {
             "company_name": "BCB Bancorp, Inc.",
             "industry": "Financial Services",
-            "metric_type": "Loans outstanding at year-end",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
             "metric_src_pdf_page": [
                 3
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "BCB Bancorp, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                11
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_capital_expenditures",
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
                 4
             ]

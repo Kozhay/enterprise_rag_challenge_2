@@ -1,70 +1,68 @@
 {
-    "company_name": "FNCB Bancorp, Inc.",
-    "file_name": "23b2c590c4887dfb86761730dd7156fe3b216ab7",
+    "company_name": "Commerzbank",
+    "file_name": "696ddc4c80febe0f1559ed3b1272487c74ca91cc",
     "data_points": [
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
                 2,
-                67,
-                60,
-                61
+                86,
+                88,
+                202,
+                236,
+                240,
+                270
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Total deposits at year-end",
             "metric_src_pdf_page": [
                 2,
-                57,
-                60,
-                61
+                240,
+                270
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Loans outstanding at year-end",
             "metric_src_pdf_page": [
                 2,
-                57,
-                60,
-                61
+                202,
+                203
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Assets under management (AUM)",
             "metric_src_pdf_page": [
-                2
+                58
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Non-performing loan ratio (NPL) at year-end",
             "metric_src_pdf_page": [
-                2,
-                54,
-                44
+                266
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Tier 1 capital ratio at year-end",
             "metric_src_pdf_page": [
                 2,
-                57,
-                61
+                268
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Number of customer accounts at year-end",
             "metric_src_pdf_page": [
@@ -72,7 +70,7 @@
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Branch count at year-end",
             "metric_src_pdf_page": [
@@ -80,38 +78,68 @@
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "End-of-year net interest margin (NIM)",
             "metric_src_pdf_page": [
-                2,
-                38
+                2
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank",
             "industry": "Financial Services",
             "metric_type": "Return on equity (ROE) at year-end",
             "metric_src_pdf_page": [
                 2,
-                38
+                266
             ]
         },
         {
-            "company_name": "FNCB Bancorp, Inc.",
-            "industry": "Financial Services",
-            "metric_type": "Tier 1 capital ratio at year-end",
-            "metric_src_pdf_page": [
-                2,
-                61
-            ]
-        },
-        {
-            "company_name": "FNCB Bancorp, Inc.",
+            "company_name": "Commerzbank Aktiengesellschaft",
             "industry": "Financial Services",
             "metric_type": "Total assets on balance sheet at year-end",
             "metric_src_pdf_page": [
-                127
+                320
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                320
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                320
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                320
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                320
+            ]
+        },
+        {
+            "company_name": "Commerzbank Aktiengesellschaft",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                320
             ]
         }
     ],
@@ -119,52 +147,66 @@
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                39,
-                31
-            ]
-        },
-        {
-            "event_type": "has_capital_structure_changes",
-            "events_src_pdf_page": [
-                61,
-                64
+                80
             ]
         },
         {
             "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                69,
+                271
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                257
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
                 75
             ]
         },
         {
             "event_type": "has_dividend_policy_changes",
             "events_src_pdf_page": [
-                2,
-                4,
-                68
+                75
             ]
         },
         {
-            "event_type": "has_share_buyback_plans",
+            "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                2,
-                4,
-                67
+                24,
+                81
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                80,
+                75
             ]
         },
         {
             "event_type": "has_regulatory_or_litigation_issues",
             "events_src_pdf_page": [
-                6,
-                84
+                300
             ]
         },
         {
-            "event_type": "has_dividend_policy_changes",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                107,
-                108
+                275,
+                277,
+                278,
+                279
             ]
         }
     ]

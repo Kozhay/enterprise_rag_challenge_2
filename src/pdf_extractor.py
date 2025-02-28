@@ -176,7 +176,7 @@ def main():
             pages_to_parse = list(range(0, 5))  # End number is exclusive
             logging.info(f"Pages to parse: {pages_to_parse}")
 
-            pdf_parsed_texts = parse_pdf(pdf_path, pages=pages_to_parse, max_tokens=100_000)
+            pdf_parsed_texts = parse_pdf(pdf_path, max_tokens=100_000)
             logging.info(f"Parsed {len(pdf_parsed_texts)} pages from the PDF.")
 
             # Extract structured data

@@ -159,35 +159,29 @@ def answer_the_question(text, question, comment, file_name, kind):
 
 
 TOKENIZER = tiktoken.encoding_for_model("gpt-4o-mini")
-file_name='0279901b645e568591ad95dac2c2bf939ef0c00d'
-company_name = "ACRES Commercial Realty Corp"
-major_industry = "Financial Services"
-pdf_path = f"examples/pdfs/{file_name}.pdf"
-
-questions = [{
-    "text": "Did ACRES Commercial Realty Corp. outline any new ESG initiatives in the annual report? If there is no mention, return False.",
-    "kind": "boolean"
-  }]
 
 
-lables_json_file_path = f"output/labels/_{file_name}.json"  # Replace with your actual JSON file path
-labeled_pages_list = extract_pdf_pages_for_answer(lables_json_file_path)
+with open("updated_questions.json", "r") as f:
+    questions = json.load(f)
 
 
 for question in questions:
+    file_name = question['file_name']
     question_text = question['text']
     question_kind = question['kind']
+    
+    logging.info(f'Start answer: {question_text}')
+
+    lables_json_file_path = f"output/labels/{file_name}.json"  # Replace with your actual JSON file path
+    labeled_pages_list = extract_pdf_pages_for_answer(lables_json_file_path)
     labels_for_the_questions = check_labels(question=question_text, labels=labeled_pages_list, file_name=file_name)
     pages = labels_for_the_questions['pages']
     comment = labels_for_the_questions['comment']
     logging.info(f'Pages for context: {pages}. Comment - {comment}')
+    
+    logging.info(f'Answering: {question_text}')
+    
+    pdf_path = f"examples/pdfs/{file_name}.pdf"
     pdf_parsed_texts = parse_pdf(pdf_path=pdf_path, pages=pages, max_tokens=100_000)
     answer = answer_the_question(text=pdf_parsed_texts, question=question_text, comment=comment, kind=question_kind, file_name=file_name)
     print(answer)
-
-
-
-# structured_datas = []
-# for pdf_text in pdf_parsed_texts:
-#     extracted = answered_document_content(pdf_text['text'], industry_type=major_industry)
-#     structured_datas.append(extracted)

@@ -7,7 +7,19 @@
             "industry": "Food & Beverage",
             "metric_type": "Number of manufacturing plants",
             "metric_src_pdf_page": [
-                4
+                9,
+                10,
+                12
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                9,
+                10,
+                12
             ]
         },
         {
@@ -15,7 +27,19 @@
             "industry": "Food & Beverage",
             "metric_type": "Number of company-owned outlets",
             "metric_src_pdf_page": [
-                4
+                9,
+                10,
+                12
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                9,
+                10,
+                12
             ]
         },
         {
@@ -23,21 +47,172 @@
             "industry": "Food & Beverage",
             "metric_type": "Number of franchised outlets",
             "metric_src_pdf_page": [
-                4
+                9,
+                10,
+                12
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Brand portfolio size (distinct brands at year-end)",
+            "metric_src_pdf_page": [
+                9,
+                10,
+                12
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                9,
+                10,
+                12
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Food safety certifications (sites certified)",
+            "metric_src_pdf_page": [
+                9,
+                10,
+                12
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Inventory of raw materials at year-end",
+            "metric_src_pdf_page": [
+                22,
+                23,
+                28
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Raw material supply contracts",
+            "metric_src_pdf_page": [
+                22,
+                23,
+                28
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                105,
+                106,
+                107
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                109,
+                110,
+                111
+            ]
+        },
+        {
+            "company_name": "Blue Apron Holdings, Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                113,
+                114,
+                115
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_regulatory_or_litigation_issues",
+            "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                5
+                24
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                24
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                14
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                14
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                20
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                19
             ]
         },
         {
             "event_type": "has_supply_chain_disruptions",
             "events_src_pdf_page": [
-                5
+                21
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                136,
+                139
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                167,
+                168
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                137,
+                140
             ]
         }
     ]
