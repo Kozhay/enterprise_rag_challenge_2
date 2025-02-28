@@ -1,0 +1,424 @@
+{
+    "company_name": "abrdn Japan Investment Trust plc",
+    "file_name": "d5ad1d288230072e3f6654bb6182d76f8af2ba0a",
+    "data_points": [
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "abrdn Japan Investment Trust plc",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                85,
+                96
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                10,
+                12
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                10,
+                16
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                6,
+                21
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                10,
+                12,
+                21
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                44,
+                47
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                51,
+                52
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                44,
+                47
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                44,
+                43
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                73,
+                100
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                104
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                23,
+                7
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                7,
+                23
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                7,
+                23
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                23,
+                7
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                23
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                71,
+                73
+            ]
+        }
+    ]
+}

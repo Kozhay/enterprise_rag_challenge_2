@@ -1,0 +1,355 @@
+{
+    "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+    "file_name": "b947c33b370d8a3251ef9c36ce7d71e8d16f4f8e",
+    "data_points": [
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                6,
+                10
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                6,
+                10
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "E-commerce active customer accounts",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sq. ft.)",
+            "metric_src_pdf_page": [
+                25,
+                26,
+                27,
+                37
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Value of inventory on hand at year-end",
+            "metric_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Online active customer accounts",
+            "metric_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of new store openings (cumulative in year)",
+            "metric_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of distribution centers at year-end",
+            "metric_src_pdf_page": [
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Number of stores at year-end",
+            "metric_src_pdf_page": [
+                78,
+                79
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Total store floor area (sqm)",
+            "metric_src_pdf_page": [
+                78,
+                79
+            ]
+        },
+        {
+            "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+            "industry": "Retail",
+            "metric_type": "Loyalty program membership at year-end",
+            "metric_src_pdf_page": [
+                78,
+                79
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                6,
+                14
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                6,
+                16
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                53,
+                54,
+                55,
+                56
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                73,
+                74
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                14,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                14,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                20,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                20,
+                22
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                20
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                38,
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                38,
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                38,
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                78,
+                79
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                78,
+                79
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                78,
+                79
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                78,
+                79
+            ]
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "company_name": "MGM Resorts International",
+    "file_name": "e117005fc313bf0d49429d34bc8e1ef64de54898",
+    "data_points": [
+        {
+            "company_name": "MGM Resorts International",
+            "industry": "Hospitality",
+            "metric_type": "Year-end occupancy rate",
+            "metric_src_pdf_page": [
+                2,
+                23
+            ]
+        },
+        {
+            "company_name": "MGM Resorts International",
+            "industry": "Hospitality",
+            "metric_type": "Total number of rooms available",
+            "metric_src_pdf_page": [
+                34,
+                41
+            ]
+        },
+        {
+            "company_name": "Hospitality Company",
+            "industry": "Hospitality",
+            "metric_type": "Total number of rooms available",
+            "metric_src_pdf_page": [
+                81,
+                84,
+                89,
+                98
+            ]
+        },
+        {
+            "company_name": "Hospitality Company",
+            "industry": "Hospitality",
+            "metric_type": "Year-end occupancy rate",
+            "metric_src_pdf_page": [
+                84,
+                89,
+                98
+            ]
+        },
+        {
+            "company_name": "MGM Resorts International",
+            "industry": "Hospitality",
+            "metric_type": "Total number of rooms available",
+            "metric_src_pdf_page": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "MGM Resorts International",
+            "industry": "Hospitality",
+            "metric_type": "Year-end occupancy rate",
+            "metric_src_pdf_page": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "MGM Resorts International",
+            "industry": "Hospitality",
+            "metric_type": "Average daily rate (ADR) at final period",
+            "metric_src_pdf_page": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "MGM Resorts International",
+            "industry": "Hospitality",
+            "metric_type": "Revenue per available room (RevPAR) at final period",
+            "metric_src_pdf_page": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                81,
+                82,
+                84,
+                85,
+                87
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                119
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                21,
+                30
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                37,
+                41,
+                42
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                39,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "gross margin",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                63,
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                81,
+                82,
+                83,
+                84,
+                85,
+                89,
+                91
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1507 @@
+{
+    "company_name": "Beazley plc",
+    "file_name": "c5fc5890205fe5326d690fc017f7153fb09924e4",
+    "data_points": [
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                4,
+                10,
+                14
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                14
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                47,
+                49,
+                52
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                47,
+                49,
+                52
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                47,
+                49,
+                52
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                47,
+                49,
+                52
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                80,
+                82,
+                84,
+                96
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100,
+                101,
+                116,
+                117
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                164,
+                165
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                170,
+                173,
+                179,
+                186,
+                188
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                170,
+                173,
+                179,
+                186,
+                188
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                170,
+                173,
+                179,
+                186,
+                188
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                170,
+                173,
+                179,
+                186,
+                188
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                171,
+                176,
+                178
+            ]
+        },
+        {
+            "company_name": "Beazley Group plc",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                189,
+                190,
+                193,
+                194
+            ]
+        },
+        {
+            "company_name": "Beazley Group plc",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                198,
+                203,
+                216
+            ]
+        },
+        {
+            "company_name": "Beazley Group plc",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                196,
+                207
+            ]
+        },
+        {
+            "company_name": "Beazley Group plc",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                199,
+                213
+            ]
+        },
+        {
+            "company_name": "Beazley Group plc",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                215,
+                218
+            ]
+        },
+        {
+            "company_name": "Beazley Group plc",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                190,
+                191
+            ]
+        },
+        {
+            "company_name": "Beazley Group plc",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                191,
+                210
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        },
+        {
+            "company_name": "Beazley plc",
+            "industry": "Insurance",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                235
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                12,
+                14
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                14
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                4,
+                5,
+                10
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                11,
+                12,
+                29,
+                30
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                39,
+                38,
+                37
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                54,
+                53
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                42,
+                41
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                52,
+                50
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                76,
+                77
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                80,
+                81,
+                85,
+                91
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                79,
+                90,
+                94,
+                96
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                81,
+                84,
+                90,
+                92
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                103,
+                106,
+                109
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                99,
+                100,
+                101,
+                102
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                143,
+                144
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                144
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                143
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                143
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                143
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                145
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                144
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                144,
+                146
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                167,
+                168
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                171,
+                172
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                180
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                191,
+                210
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                192,
+                204
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                193,
+                214
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                194,
+                196
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                224
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                4,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                4,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                4,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                4,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                47,
+                49,
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                47,
+                49,
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                47,
+                49,
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                47,
+                49,
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                62
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                62
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                63
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                86,
+                94,
+                98
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                86,
+                94,
+                98
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                86,
+                94,
+                98
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                86,
+                94,
+                98
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                86,
+                94,
+                98
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                115,
+                116
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                115,
+                116
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                119,
+                120,
+                121
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                160
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                160
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                160
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                160
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                160
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                175,
+                176
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                174,
+                175
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                170,
+                171,
+                172,
+                184
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                172,
+                173
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                190,
+                206
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                191,
+                199
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                190,
+                198
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                234
+            ]
+        }
+    ]
+}

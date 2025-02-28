@@ -1,0 +1,809 @@
+{
+    "company_name": "NuCana plc",
+    "file_name": "9b7fdb871fc4d4a8babc25448257ae0b81a6442d",
+    "data_points": [
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                10,
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "company_name": "Company XYZ",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                24,
+                25,
+                26,
+                27,
+                28
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Pharmaceutical",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                62,
+                63
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Biotechnology",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                109,
+                110,
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                124
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                124
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                124
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                124
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                110,
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                110,
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                109,
+                110,
+                113
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                124
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                152,
+                153,
+                154,
+                156,
+                158,
+                159,
+                163,
+                164,
+                171,
+                180
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                186,
+                187,
+                188
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                188,
+                189,
+                198
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                191,
+                192
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                187,
+                188,
+                198
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                187,
+                198
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                25,
+                26,
+                27,
+                28,
+                33
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                64,
+                66,
+                68,
+                70,
+                72,
+                74,
+                76,
+                78,
+                80
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                102
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                110,
+                111,
+                113
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                109,
+                112,
+                115
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                109,
+                110,
+                111
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                131,
+                133
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                156,
+                157,
+                180
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                201,
+                218
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                194,
+                215
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                189,
+                197
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                26,
+                27,
+                38,
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                26,
+                27,
+                38,
+                40
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                54
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                64,
+                66,
+                68,
+                70,
+                72,
+                74,
+                76,
+                78,
+                80
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                103,
+                104,
+                105
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                109,
+                110,
+                111,
+                115,
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                109,
+                110,
+                111,
+                115,
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                109,
+                110,
+                111,
+                115,
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                109,
+                110,
+                111,
+                115,
+                119
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                109,
+                110,
+                111,
+                115
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                136,
+                137
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                136,
+                137
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                140,
+                145
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                166,
+                170,
+                184
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                190,
+                198
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                197,
+                218
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                198,
+                217
+            ]
+        }
+    ]
+}

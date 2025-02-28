@@ -1,0 +1,519 @@
+{
+    "company_name": "Kelly Partners Group Holdings Limited",
+    "file_name": "c8af22dbedd95ee719273792e5964ab8bbba17b2",
+    "data_points": [
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                29,
+                30
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                6,
+                9
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                5,
+                9
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                6,
+                8
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                5,
+                6,
+                8,
+                9
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                68,
+                78,
+                85
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                66,
+                67,
+                77
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                85
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                70,
+                71,
+                76,
+                79
+            ]
+        },
+        {
+            "company_name": "Kelly Partners Group Holdings Limited",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                90,
+                91,
+                92
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                10,
+                14
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                10,
+                14
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                10,
+                14
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                10,
+                14
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                14,
+                15
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                14,
+                15
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                14,
+                15
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                40
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                27,
+                28
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                27,
+                28
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                27,
+                28
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                27,
+                28
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                27,
+                28
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                27,
+                28
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                68,
+                70,
+                76
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                66,
+                71,
+                83
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                84,
+                76,
+                90
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                40,
+                85
+            ]
+        }
+    ]
+}

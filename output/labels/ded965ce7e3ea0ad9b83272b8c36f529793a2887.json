@@ -1,0 +1,1356 @@
+{
+    "company_name": "Playtech plc",
+    "file_name": "ded965ce7e3ea0ad9b83272b8c36f529793a2887",
+    "data_points": [
+        {
+            "company_name": "Playtech",
+            "industry": "Online Gambling",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                12,
+                24
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Online Gambling",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                12,
+                24
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Online Gambling",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                6,
+                8,
+                20
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Online Gambling",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                12
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Online Gambling",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                5,
+                20
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Online Gambling",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                12
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Online Gambling",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                12
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Online Gambling",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                4,
+                5,
+                12,
+                24
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                34
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                63
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                63
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                63
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Number of active software licenses",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Data center capacity (MW)",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Cloud storage capacity (TB)",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Year-end user base",
+            "metric_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Cloud storage capacity (TB)",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Number of active software licenses",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Data center capacity (MW)",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Data center capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Number of patents at year-end",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Year-end user base",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                144
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Number of active software licenses",
+            "metric_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                177,
+                186
+            ]
+        },
+        {
+            "company_name": "Playtech",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Year-end user base",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Number of active software licenses",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Data center capacity (MW)",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Data center capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        },
+        {
+            "company_name": "Playtech plc",
+            "industry": "Technology",
+            "metric_type": "Cloud storage capacity (TB)",
+            "metric_src_pdf_page": [
+                215,
+                228
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                8,
+                20,
+                24
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                4,
+                21,
+                22
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                4,
+                8,
+                9
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                21,
+                24
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                9,
+                10
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                8,
+                9,
+                20
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                4,
+                22
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                4,
+                21
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                4,
+                22
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                33
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                80,
+                81,
+                84
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                63,
+                64,
+                65,
+                66,
+                67
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                72,
+                73
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                77,
+                78
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                96,
+                97
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                86
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                87,
+                88
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                113,
+                114,
+                115,
+                116,
+                117
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                130,
+                135
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                151,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                177
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                178
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                178
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                205,
+                206
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                217,
+                228
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                217,
+                228
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                217,
+                228
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                217,
+                228
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                4,
+                18,
+                20
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                4,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                4,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                4,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                4,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                4,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                34,
+                35,
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                80,
+                84
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "gross margin",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                85,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                146,
+                147,
+                148,
+                149,
+                150
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                146,
+                147,
+                148,
+                149,
+                150
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                148,
+                149
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                148,
+                149
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                151,
+                152,
+                153,
+                154,
+                157,
+                158,
+                159,
+                160
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                170,
+                171,
+                172,
+                173,
+                174,
+                175
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                215,
+                217,
+                220,
+                228
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                215,
+                217,
+                220,
+                228
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                215,
+                217,
+                220,
+                228
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                215,
+                217,
+                220,
+                228
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                215,
+                217,
+                220,
+                228
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                215,
+                217,
+                220,
+                228
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                215,
+                217,
+                220,
+                228
+            ]
+        }
+    ]
+}

@@ -1,0 +1,901 @@
+{
+    "company_name": "Alcoa Corporation",
+    "file_name": "9af0a7f8db3954c3e74851c8c1807a09ece8ef00",
+    "data_points": [
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                8,
+                23
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                8,
+                11
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                8,
+                18
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                17
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                21,
+                22
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                8,
+                11
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Distribution network length",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Aluminum",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                66,
+                67,
+                69
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                71,
+                72,
+                73,
+                75,
+                76,
+                87
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Distribution network length",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven oil reserves (if applicable)",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                119,
+                120,
+                135
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                117,
+                120
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                119,
+                130,
+                136
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ]
+        },
+        {
+            "company_name": "Alcoa Corporation",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                7,
+                13
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                12,
+                14
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                6,
+                12
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                6,
+                22
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                6
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                30,
+                31
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                30,
+                31,
+                32,
+                33
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                30,
+                31
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                56,
+                57,
+                60,
+                61,
+                62,
+                64,
+                66
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                56,
+                57,
+                60,
+                61,
+                62,
+                63
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                56,
+                57,
+                60,
+                61,
+                62,
+                63
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                56,
+                57,
+                60,
+                61,
+                62,
+                63
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                73,
+                74
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                94,
+                95,
+                96,
+                112
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                97,
+                98,
+                99,
+                100
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                134
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                121
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                138
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                138,
+                139
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                138,
+                139
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                138
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                138
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                8,
+                9,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                8,
+                9,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                8,
+                17
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                13,
+                17
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                9,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                39,
+                40,
+                41,
+                42,
+                43
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                64,
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                64,
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                64,
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                64,
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                64,
+                66,
+                68
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                71,
+                73,
+                84,
+                85,
+                86,
+                87
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                100,
+                101,
+                102,
+                103
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                100,
+                101,
+                102,
+                103
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                110,
+                111
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                100,
+                101
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                125
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                137,
+                138
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                137,
+                138
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                137,
+                138
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                137,
+                138
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                137,
+                138
+            ]
+        }
+    ]
+}
