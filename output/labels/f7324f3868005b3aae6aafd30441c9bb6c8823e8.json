@@ -1,0 +1,591 @@
+{
+    "company_name": "Jefferies Financial Group Inc.",
+    "file_name": "f7324f3868005b3aae6aafd30441c9bb6c8823e8",
+    "data_points": [
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                3,
+                12,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                3,
+                12,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                3,
+                12,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                3,
+                16,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                3,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                3,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                3,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                3,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                3,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                3,
+                10
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                94,
+                95,
+                96,
+                98,
+                99,
+                100,
+                101,
+                102,
+                106,
+                108
+            ]
+        },
+        {
+            "company_name": "Company A",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                110,
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "company_name": "Company A",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                110,
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "company_name": "Company A",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                110,
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "company_name": "Jefferies LLC",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                150,
+                151,
+                152,
+                153,
+                156,
+                160
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                180,
+                181
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                191
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                190
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                186
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                189
+            ]
+        },
+        {
+            "company_name": "Jefferies Financial Group Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                191
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                20
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                12,
+                14
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                3,
+                10
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                46
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                58
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                74,
+                75,
+                86,
+                87
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                95,
+                97,
+                99,
+                100,
+                101
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                110,
+                113,
+                115,
+                116
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                160
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                169,
+                171,
+                173,
+                177
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                186
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                190
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                194
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                192
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                206
+            ]
+        }
+    ]
+}

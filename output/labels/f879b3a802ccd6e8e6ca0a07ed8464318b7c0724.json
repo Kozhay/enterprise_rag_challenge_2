@@ -1,0 +1,149 @@
+{
+    "company_name": "Elixir Energy Limited",
+    "file_name": "f879b3a802ccd6e8e6ca0a07ed8464318b7c0724",
+    "data_points": [
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                38,
+                49,
+                60,
+                61
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                38,
+                60,
+                61
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                49,
+                50
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                38,
+                56
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                6,
+                8,
+                15
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                8,
+                10
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                39,
+                43,
+                60,
+                61
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                46,
+                48
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                39,
+                52,
+                55
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                39,
+                60
+            ]
+        }
+    ]
+}

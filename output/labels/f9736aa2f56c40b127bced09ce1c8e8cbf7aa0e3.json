@@ -1,0 +1,362 @@
+{
+    "company_name": "NeoGenomics, Inc.",
+    "file_name": "f9736aa2f56c40b127bced09ce1c8e8cbf7aa0e3",
+    "data_points": [
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "company_name": "NeoGenomics",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                36,
+                37
+            ]
+        },
+        {
+            "company_name": "NeoGenomics",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                36,
+                37
+            ]
+        },
+        {
+            "company_name": "NeoGenomics",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                36,
+                37
+            ]
+        },
+        {
+            "company_name": "NeoGenomics",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                36,
+                37
+            ]
+        },
+        {
+            "company_name": "NeoGenomics",
+            "industry": "Healthcare",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                36,
+                37
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                44,
+                46,
+                50,
+                58,
+                59
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                44,
+                46,
+                50,
+                58,
+                59
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                44,
+                46,
+                50,
+                58,
+                59
+            ]
+        },
+        {
+            "company_name": "N/A",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                68,
+                69,
+                70,
+                71,
+                72
+            ]
+        },
+        {
+            "company_name": "N/A",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                70,
+                71,
+                72,
+                73,
+                74
+            ]
+        },
+        {
+            "company_name": "N/A",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73,
+                74,
+                75,
+                76
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                131,
+                138
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                131,
+                139
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                131,
+                140
+            ]
+        },
+        {
+            "company_name": "NeoGenomics, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                131,
+                141
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                20
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                12
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                16
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                23,
+                24,
+                40
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                24
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                40
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                24
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                43,
+                44,
+                45
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                64,
+                65
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                50,
+                48
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                42,
+                43
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                69,
+                70,
+                71,
+                72
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                72,
+                73,
+                74,
+                75,
+                76
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                91,
+                97,
+                98,
+                106
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                131,
+                132
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                132,
+                140
+            ]
+        }
+    ]
+}
