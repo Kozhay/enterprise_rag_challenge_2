@@ -21,6 +21,14 @@
         {
             "company_name": "Elixir Energy Limited",
             "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
             "metric_type": "Percentage of renewable energy capacity",
             "metric_src_pdf_page": [
                 8
@@ -30,14 +38,6 @@
             "company_name": "Elixir Energy Limited",
             "industry": "Energy and Utilities",
             "metric_type": "Total number of customers connected",
-            "metric_src_pdf_page": [
-                8
-            ]
-        },
-        {
-            "company_name": "Elixir Energy Limited",
-            "industry": "Energy and Utilities",
-            "metric_type": "Pipeline network length",
             "metric_src_pdf_page": [
                 8
             ]
@@ -61,28 +61,30 @@
         {
             "company_name": "Elixir Energy Limited",
             "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                37,
+                38,
+                39,
+                42,
+                48,
+                53,
+                60
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
             "metric_type": "Total power generation capacity (MW)",
             "metric_src_pdf_page": [
-                38,
-                49,
                 60,
-                61
+                59
             ]
         },
         {
             "company_name": "Elixir Energy Limited",
             "industry": "Energy and Utilities",
-            "metric_type": "Total number of customers connected",
-            "metric_src_pdf_page": [
-                38,
-                60,
-                61
-            ]
-        },
-        {
-            "company_name": "Elixir Energy Limited",
-            "industry": "Energy and Utilities",
-            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_type": "Number of facilities at year-end",
             "metric_src_pdf_page": [
                 49,
                 50
@@ -91,58 +93,96 @@
         {
             "company_name": "Elixir Energy Limited",
             "industry": "Energy and Utilities",
-            "metric_type": "Pipeline network length",
+            "metric_type": "Total number of customers connected",
             "metric_src_pdf_page": [
                 38,
-                56
+                52
+            ]
+        },
+        {
+            "company_name": "Elixir Energy Limited",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven oil reserves (if applicable)",
+            "metric_src_pdf_page": [
+                37,
+                38,
+                43,
+                45
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "has_executive_compensation",
             "events_src_pdf_page": [
-                6,
-                8,
-                15
-            ]
-        },
-        {
-            "event_type": "has_rnd_investment_numbers",
-            "events_src_pdf_page": [
-                8,
-                10
+                9,
+                10,
+                21,
+                22
             ]
         },
         {
             "event_type": "has_capital_expenditures",
             "events_src_pdf_page": [
-                39,
-                43,
-                60,
-                61
+                6,
+                11,
+                13,
+                27
             ]
         },
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "has_financial_performance_indicators",
             "events_src_pdf_page": [
-                46,
-                48
+                29,
+                30,
+                31
             ]
         },
         {
-            "event_type": "has_rnd_investment_numbers",
+            "event_type": "mentions_new_risk_factors",
             "events_src_pdf_page": [
-                39,
-                52,
-                55
+                2,
+                4,
+                8,
+                9,
+                28
             ]
         },
         {
             "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                39,
-                60
+                7,
+                28
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                14,
+                32
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                21,
+                25
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                40,
+                50,
+                51
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                52,
+                55,
+                57
             ]
         }
     ]
