@@ -1,0 +1,431 @@
+{
+    "company_name": "Albany International Corp.",
+    "file_name": "da663e46fbf02ec8a90b3f3c1079ef4c9f7907e1",
+    "data_points": [
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of employees with security clearance",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Facilities footprint (number of sites)",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (value) at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (units) at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of defense contracts active",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of government contracts active",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "R&D spending on advanced programs",
+            "metric_src_pdf_page": [
+                16
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Production capacity (aircraft/year)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Production capacity (units/year)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Military products in service (units)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Defense products in service (units)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (value) at year-end",
+            "metric_src_pdf_page": [
+                38,
+                39
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Production capacity (units/year)",
+            "metric_src_pdf_page": [
+                32
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "R&D spending on advanced programs",
+            "metric_src_pdf_page": [
+                39
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of government contracts active",
+            "metric_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Military products in service (units)",
+            "metric_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (value) at year-end",
+            "metric_src_pdf_page": [
+                60,
+                75
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Production capacity (units/year)",
+            "metric_src_pdf_page": [
+                56,
+                60
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of defense contracts active",
+            "metric_src_pdf_page": [
+                57,
+                75
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "R&D spending on advanced programs",
+            "metric_src_pdf_page": [
+                58,
+                63
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Defense products in service (units)",
+            "metric_src_pdf_page": [
+                74,
+                75
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Military products in service (units)",
+            "metric_src_pdf_page": [
+                57,
+                72
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Facilities footprint (number of sites)",
+            "metric_src_pdf_page": [
+                61,
+                62
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Facilities footprint (sq. ft.)",
+            "metric_src_pdf_page": [
+                75,
+                76
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of defense contracts active",
+            "metric_src_pdf_page": [
+                81,
+                83
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "R&D spending on advanced programs",
+            "metric_src_pdf_page": [
+                84
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of employees with security clearance",
+            "metric_src_pdf_page": [
+                81
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Production capacity (units/year)",
+            "metric_src_pdf_page": [
+                83
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Defense products in service (units)",
+            "metric_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Facilities footprint (sq. ft.)",
+            "metric_src_pdf_page": [
+                86
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Facilities footprint (number of sites)",
+            "metric_src_pdf_page": [
+                86
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Military products in service (units)",
+            "metric_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "company_name": "Albany International Corp.",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Year-end patent portfolio (aerospace tech)",
+            "metric_src_pdf_page": [
+                94
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                4,
+                25
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                4,
+                25
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                20,
+                28
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                39,
+                48
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                33,
+                34,
+                32
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                35,
+                36,
+                37
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                35,
+                36,
+                44
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                33,
+                34,
+                44
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                37,
+                37
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                56,
+                76
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                60,
+                72
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                61,
+                76
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                61,
+                68
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                57,
+                74
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                72,
+                73
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                75,
+                79
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                89,
+                90
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                99
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                104,
+                105
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                79,
+                80
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                118
+            ]
+        }
+    ]
+}

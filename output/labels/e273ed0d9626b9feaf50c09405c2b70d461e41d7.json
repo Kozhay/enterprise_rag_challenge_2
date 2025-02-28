@@ -1,0 +1,444 @@
+{
+    "company_name": "Toshiba Corporation",
+    "file_name": "e273ed0d9626b9feaf50c09405c2b70d461e41d7",
+    "data_points": [
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Year-end user base",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Cloud storage capacity (TB)",
+            "metric_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                44,
+                46,
+                60
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                44,
+                46
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                60
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                46,
+                60
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "Data center capacity (MW)",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                46
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                46
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                46,
+                60
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                46,
+                60
+            ]
+        },
+        {
+            "company_name": "Toshiba",
+            "industry": "Technology",
+            "metric_type": "Number of patents at year-end",
+            "metric_src_pdf_page": [
+                38,
+                40,
+                42,
+                46
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68,
+                79
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Total expensed R&D expenditure",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68,
+                79
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "End-of-year tech staff headcount",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68,
+                79
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "End-of-year total headcount",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68,
+                79
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68,
+                79
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Total intangible assets (IP valuation)",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68,
+                79
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Year-end customer base",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68,
+                79
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "Year-end user base",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68,
+                79
+            ]
+        },
+        {
+            "company_name": "Toshiba Corporation",
+            "industry": "Technology",
+            "metric_type": "End-of-period market capitalization",
+            "metric_src_pdf_page": [
+                63,
+                64,
+                68
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                10,
+                11,
+                4
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                10,
+                37
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                36
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                26,
+                27,
+                12,
+                14
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                16,
+                17
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                15
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                10
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                39,
+                41,
+                45,
+                47,
+                49,
+                53,
+                58
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                39,
+                41,
+                45,
+                47,
+                49,
+                53,
+                58
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                39,
+                41,
+                45,
+                47,
+                49,
+                58
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                41,
+                45,
+                58
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                58,
+                59,
+                60
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                65,
+                66,
+                68
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                64,
+                67,
+                75,
+                83
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                64,
+                68
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                83
+            ]
+        }
+    ]
+}
