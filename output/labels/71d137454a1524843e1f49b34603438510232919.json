@@ -1,0 +1,23 @@
+{
+    "company_name": "James Halstead plc",
+    "file_name": "71d137454a1524843e1f49b34603438510232919",
+    "data_points": [
+        {
+            "company_name": "James Halstead",
+            "industry": "Retail",
+            "metric_type": "Year-end store employee headcount",
+            "metric_src_pdf_page": [
+                5
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                5,
+                73
+            ]
+        }
+    ]
+}

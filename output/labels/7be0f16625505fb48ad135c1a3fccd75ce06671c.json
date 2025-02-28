@@ -1,0 +1,386 @@
+{
+    "company_name": "Insperity, Inc.",
+    "file_name": "7be0f16625505fb48ad135c1a3fccd75ce06671c",
+    "data_points": [
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                1,
+                2,
+                4,
+                5,
+                11,
+                13,
+                18
+            ]
+        },
+        {
+            "company_name": "Insperity",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                46
+            ]
+        },
+        {
+            "company_name": "Insperity",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                46
+            ]
+        },
+        {
+            "company_name": "Insperity",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                46
+            ]
+        },
+        {
+            "company_name": "Insperity",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                46
+            ]
+        },
+        {
+            "company_name": "Insperity",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                46
+            ]
+        },
+        {
+            "company_name": "Insperity",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                46
+            ]
+        },
+        {
+            "company_name": "Insperity",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                46
+            ]
+        },
+        {
+            "company_name": "Insperity",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                46
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                77
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                74
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                74
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                68
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                69
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                74
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                86,
+                89,
+                94
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                86,
+                90,
+                91
+            ]
+        },
+        {
+            "company_name": "Insperity, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                90,
+                94
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                19,
+                20,
+                23
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                20,
+                23
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                37
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                39,
+                40
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                74,
+                75,
+                76,
+                79
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                91
+            ]
+        }
+    ]
+}

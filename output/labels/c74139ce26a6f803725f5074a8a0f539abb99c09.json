@@ -1,0 +1,1905 @@
+{
+    "company_name": "Poste Italiane",
+    "file_name": "c74139ce26a6f803725f5074a8a0f539abb99c09",
+    "data_points": [
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "POSTE ITALIANE",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                46,
+                47,
+                48,
+                50,
+                51,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                46,
+                47,
+                50,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                48,
+                66,
+                72
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                50,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                48,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": [
+                50,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                50,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                46,
+                48,
+                50,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                50,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                50,
+                66
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                90,
+                93
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                89,
+                97
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                95,
+                105
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                102,
+                110
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                120,
+                121,
+                122,
+                136
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                120,
+                121,
+                122,
+                136
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                120,
+                121,
+                122,
+                136
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                120,
+                121,
+                122,
+                136
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                166,
+                170,
+                178
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                166,
+                170,
+                178
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                166,
+                170,
+                178
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                170,
+                182,
+                194
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                166,
+                170
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                196,
+                197,
+                200
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                202,
+                203
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                198,
+                199,
+                200
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                202,
+                210,
+                226
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                209,
+                210
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                198,
+                199,
+                218
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                217,
+                224
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                236,
+                237,
+                235,
+                234,
+                233,
+                232,
+                231,
+                230
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                270,
+                271,
+                272
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                289,
+                290,
+                292,
+                293,
+                294,
+                297,
+                299,
+                300,
+                306
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                316
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                316
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                316
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                316
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                319
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                324
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                349,
+                350
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                350,
+                351
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                419,
+                421,
+                423,
+                424,
+                425,
+                426
+            ]
+        },
+        {
+            "company_name": "Poste Vita SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                449,
+                450,
+                451,
+                452
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (regions served)",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (cubic ft.)",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (aircraft) at year-end",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vessels) at year-end",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                512,
+                513
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                546,
+                547
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                548,
+                549
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                553,
+                554
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                555,
+                556
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                563,
+                564
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                567,
+                568
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                577,
+                582
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                579,
+                583
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                578,
+                586
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                585,
+                590
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                606,
+                607,
+                608,
+                609,
+                610,
+                611,
+                612
+            ]
+        },
+        {
+            "company_name": "Poste Italiane",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                667,
+                668
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                685,
+                688,
+                692,
+                705
+            ]
+        },
+        {
+            "company_name": "Poste Italiane Group",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                713,
+                734
+            ]
+        },
+        {
+            "company_name": "Poste Italiane Group",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (aircraft) at year-end",
+            "metric_src_pdf_page": [
+                717,
+                734
+            ]
+        },
+        {
+            "company_name": "Poste Italiane Group",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                714,
+                740
+            ]
+        },
+        {
+            "company_name": "Poste Italiane Group",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": [
+                735,
+                740
+            ]
+        },
+        {
+            "company_name": "Poste Italiane Group",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                716,
+                740
+            ]
+        },
+        {
+            "company_name": "Poste Italiane Group",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                715,
+                740
+            ]
+        },
+        {
+            "company_name": "Poste Italiane Group",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                720,
+                740
+            ]
+        },
+        {
+            "company_name": "Poste Italiane Group",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                718,
+                740
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                746,
+                747,
+                748,
+                749,
+                750,
+                751,
+                752,
+                753,
+                754,
+                755,
+                756,
+                757,
+                758,
+                759,
+                760,
+                761,
+                762,
+                763,
+                764,
+                765,
+                766,
+                767,
+                768,
+                769,
+                770,
+                771,
+                772
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                786,
+                787
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                786
+            ]
+        },
+        {
+            "company_name": "Poste Italiane SpA",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": [
+                789
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                810,
+                812,
+                814,
+                820,
+                831
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                818,
+                837
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                814,
+                837
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                855,
+                856,
+                859,
+                860,
+                861
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                860,
+                861,
+                862,
+                863
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                862,
+                863,
+                864,
+                865
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                874,
+                875,
+                876,
+                877,
+                878,
+                879,
+                880,
+                881,
+                882,
+                883,
+                884,
+                885,
+                886,
+                887,
+                888
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                886,
+                887,
+                888,
+                889,
+                890,
+                891,
+                892,
+                893,
+                894,
+                895
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                896,
+                897,
+                898,
+                899,
+                912,
+                913
+            ]
+        },
+        {
+            "company_name": "BancoPosta RFC",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                896,
+                899,
+                900,
+                901,
+                910
+            ]
+        },
+        {
+            "company_name": "Poste Italiane S.p.A.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                941,
+                942,
+                943,
+                944,
+                945,
+                946,
+                947,
+                948,
+                949,
+                950,
+                951,
+                952,
+                953,
+                954,
+                955,
+                956,
+                957,
+                958,
+                959,
+                960,
+                961,
+                962,
+                963,
+                964,
+                965,
+                966,
+                967,
+                968,
+                969,
+                970,
+                971,
+                972,
+                973,
+                974,
+                975,
+                976,
+                977,
+                978
+            ]
+        },
+        {
+            "company_name": "Poste Italiane S.p.A.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                1016,
+                1019,
+                1021,
+                1023,
+                1025,
+                1030,
+                1037,
+                1038
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                75,
+                76
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                50,
+                54,
+                80,
+                81
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                56,
+                58,
+                59,
+                60,
+                61,
+                84
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                75,
+                76,
+                78
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                74
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                128,
+                134
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                128,
+                134,
+                136
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                128,
+                131,
+                132,
+                134
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                134
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                169,
+                176,
+                182
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                191,
+                194
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                174,
+                187,
+                189
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                193
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                217
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                225
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                206,
+                227
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                225
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                244,
+                245,
+                249,
+                250
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                265,
+                271
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                263,
+                264,
+                265,
+                266,
+                270,
+                271
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                262,
+                265,
+                266,
+                270,
+                271,
+                272
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                296,
+                307,
+                312
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                302
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                306
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                313,
+                316
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                315,
+                318
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                324,
+                335
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                325,
+                331
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                312,
+                328
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                327,
+                340
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                341,
+                342,
+                343,
+                345,
+                348,
+                352,
+                360
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                366,
+                367,
+                371,
+                376,
+                379,
+                380,
+                381,
+                382,
+                384,
+                392
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                413,
+                414,
+                415
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                434,
+                435
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                434,
+                435
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                449,
+                450,
+                453,
+                454
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                492,
+                493,
+                494,
+                498,
+                504,
+                511
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                535,
+                536
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                535,
+                537
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                535,
+                536
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                535,
+                536
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                537,
+                538
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                572
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                571
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                578,
+                590
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                575,
+                596
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                640,
+                639,
+                638
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                649
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                649,
+                660
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                700
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                724,
+                740
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                747,
+                740
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                766,
+                767,
+                768,
+                769,
+                770,
+                771,
+                772
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                763,
+                764,
+                765,
+                766,
+                767,
+                768,
+                769,
+                770
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                792
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                806
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                815,
+                831,
+                837
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                811,
+                835
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                838,
+                839,
+                840,
+                841,
+                842
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                838,
+                839,
+                840,
+                841,
+                842,
+                843
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                850,
+                851,
+                852,
+                853,
+                854
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                860,
+                861,
+                862,
+                863,
+                864
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                865,
+                866,
+                867,
+                868,
+                869
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                876,
+                877,
+                878,
+                879,
+                880,
+                881,
+                882,
+                883,
+                884,
+                885,
+                886
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                917,
+                921
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                927,
+                929
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                945,
+                956,
+                977
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                914,
+                916,
+                940,
+                989,
+                1014
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                1026,
+                1031
+            ]
+        }
+    ]
+}

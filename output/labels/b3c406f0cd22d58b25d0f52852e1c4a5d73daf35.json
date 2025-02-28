@@ -1,0 +1,447 @@
+{
+    "company_name": "Tellurian Inc.",
+    "file_name": "b3c406f0cd22d58b25d0f52852e1c4a5d73daf35",
+    "data_points": [
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of facilities at year-end",
+            "metric_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                8,
+                9
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                8,
+                9
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                8,
+                9
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Year-end weighted average cost of energy production",
+            "metric_src_pdf_page": [
+                8,
+                9
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Transmission network length",
+            "metric_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                40,
+                41,
+                42
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                40,
+                41,
+                42,
+                43
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total power generation capacity (MW)",
+            "metric_src_pdf_page": [
+                50,
+                51,
+                52,
+                54,
+                58,
+                70,
+                72,
+                74
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Number of power plants at year-end",
+            "metric_src_pdf_page": [
+                50,
+                52,
+                54,
+                58,
+                70,
+                74
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Percentage of renewable energy capacity",
+            "metric_src_pdf_page": [
+                50,
+                52,
+                54,
+                58,
+                70,
+                74
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                50,
+                54,
+                58,
+                70,
+                72,
+                74
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Total number of customers connected",
+            "metric_src_pdf_page": [
+                50,
+                51,
+                58,
+                70,
+                72,
+                74
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Refinery throughput capacity",
+            "metric_src_pdf_page": [
+                50,
+                51,
+                52,
+                58,
+                70,
+                72,
+                74
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Pipeline network length",
+            "metric_src_pdf_page": [
+                50,
+                54,
+                58,
+                70,
+                72,
+                74
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Greenhouse gas emissions intensity (CO₂/MWh)",
+            "metric_src_pdf_page": [
+                50,
+                52,
+                54,
+                58,
+                70,
+                74
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                97
+            ]
+        },
+        {
+            "company_name": "Tellurian Inc.",
+            "industry": "Energy and Utilities",
+            "metric_type": "Proven gas reserves (if applicable)",
+            "metric_src_pdf_page": [
+                98,
+                105,
+                106
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                7,
+                8
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                8,
+                10,
+                15
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                20,
+                21
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                20,
+                21
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                20,
+                21
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                20,
+                21
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                31,
+                35
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                39,
+                40
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                35,
+                36
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                35
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                56,
+                58,
+                60,
+                62,
+                64,
+                66,
+                68,
+                70
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                60,
+                62,
+                64,
+                66,
+                68,
+                70
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                56,
+                58,
+                60,
+                62,
+                64,
+                66,
+                68,
+                70
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                56,
+                58,
+                60,
+                62,
+                64,
+                66,
+                68,
+                70
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                60,
+                62,
+                64,
+                66,
+                68,
+                70
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                60,
+                62,
+                64,
+                66,
+                68,
+                70
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                60,
+                62,
+                64,
+                66,
+                68,
+                70
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                94,
+                96
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                91,
+                89
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                94,
+                96
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                99,
+                100
+            ]
+        }
+    ]
+}

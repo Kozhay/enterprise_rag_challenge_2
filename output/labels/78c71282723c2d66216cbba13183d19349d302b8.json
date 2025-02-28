@@ -1,0 +1,368 @@
+{
+    "company_name": "Ritchie Bros. Auctioneers Incorporated",
+    "file_name": "78c71282723c2d66216cbba13183d19349d302b8",
+    "data_points": [
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vessels) at year-end",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                14
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                11
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Global route coverage (countries served)",
+            "metric_src_pdf_page": [
+                47
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                41
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                49,
+                50,
+                53,
+                65
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                53,
+                65,
+                66
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                52,
+                65,
+                66
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Year-end logistics staff headcount",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                53
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (cubic ft.)",
+            "metric_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "CO₂ emissions from operations (ton/year)",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (liters/year)",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fuel consumption rate (per mile)",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Final-period on-time delivery rate",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Infrastructure investments completed in the period",
+            "metric_src_pdf_page": [
+                66
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                76,
+                78,
+                80
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Number of distribution hubs",
+            "metric_src_pdf_page": [
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (TEU)",
+            "metric_src_pdf_page": [
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros. Auctioneers Incorporated",
+            "industry": "Transport & Logistics",
+            "metric_type": "Freight volume capacity (tons)",
+            "metric_src_pdf_page": [
+                76,
+                80
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Fleet size (vehicles) at year-end",
+            "metric_src_pdf_page": [
+                101,
+                106,
+                110,
+                114,
+                115
+            ]
+        },
+        {
+            "company_name": "Ritchie Bros.",
+            "industry": "Transport & Logistics",
+            "metric_type": "Warehouse capacity (sq. ft.)",
+            "metric_src_pdf_page": [
+                114
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                8
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                7,
+                8,
+                21
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                55,
+                56,
+                70,
+                71
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                55,
+                70
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                70
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                72,
+                73,
+                74,
+                75,
+                81,
+                86,
+                96
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                74,
+                81,
+                92,
+                94
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                72,
+                73,
+                94,
+                95
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                72,
+                73,
+                82,
+                96
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                29,
+                127
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                114,
+                127
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                29,
+                127
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                131,
+                134
+            ]
+        }
+    ]
+}

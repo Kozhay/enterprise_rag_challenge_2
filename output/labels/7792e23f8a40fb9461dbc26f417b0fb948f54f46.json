@@ -1,0 +1,99 @@
+{
+    "company_name": "MongoDB, Inc.",
+    "file_name": "7792e23f8a40fb9461dbc26f417b0fb948f54f46",
+    "data_points": [
+        {
+            "company_name": "",
+            "industry": "Technology",
+            "metric_type": "Annual recurring revenue (ARR)",
+            "metric_src_pdf_page": [
+                39,
+                40,
+                48,
+                49,
+                50,
+                51
+            ]
+        },
+        {
+            "company_name": "Sample Tech Company",
+            "industry": "Technology",
+            "metric_type": "Total capitalized R&D expenditure",
+            "metric_src_pdf_page": [
+                167,
+                168,
+                169
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                34,
+                29,
+                36
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                36,
+                33,
+                31
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                36,
+                31
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                39,
+                45,
+                46,
+                49,
+                53
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                76,
+                77,
+                78,
+                79,
+                80,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                118
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                147,
+                149
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                179
+            ]
+        }
+    ]
+}

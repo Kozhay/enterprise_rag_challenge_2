@@ -1,0 +1,369 @@
+{
+    "company_name": "NuCana plc",
+    "file_name": "9b7fdb871fc4d4a8babc25448257ae0b81a6442d",
+    "data_points": [
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "company_name": "NuCana Plc",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                62
+            ]
+        },
+        {
+            "company_name": "NuCana Plc",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                62
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                64,
+                65,
+                66,
+                68,
+                70,
+                72,
+                74,
+                75,
+                76,
+                79,
+                80,
+                82
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                66,
+                68,
+                70,
+                75,
+                76,
+                80,
+                82
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Biotechnology",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Biotechnology",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                104
+            ]
+        },
+        {
+            "company_name": "NuCana",
+            "industry": "Biotechnology",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                109,
+                110,
+                111,
+                114,
+                115,
+                116,
+                120,
+                121,
+                123,
+                125,
+                126,
+                129,
+                130
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                109,
+                110,
+                111,
+                114,
+                115,
+                116,
+                120,
+                121,
+                123,
+                125,
+                126,
+                129,
+                130
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                110,
+                111,
+                115,
+                116,
+                120,
+                121,
+                130
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Biopharmaceutical",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                171,
+                180,
+                182
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199
+            ]
+        },
+        {
+            "company_name": "NuCana plc",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                19
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                20
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                20
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                25,
+                26,
+                27,
+                32
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                68,
+                70,
+                74,
+                75,
+                76,
+                79,
+                81,
+                85
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                102,
+                101,
+                100,
+                95
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                112,
+                113,
+                114,
+                123
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                112,
+                113,
+                114,
+                115,
+                121
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                119
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                134
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                136
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                139
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                137
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                171,
+                182
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                188,
+                200,
+                201
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                201,
+                202
+            ]
+        }
+    ]
+}

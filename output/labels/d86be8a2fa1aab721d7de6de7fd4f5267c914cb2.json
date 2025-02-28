@@ -1,0 +1,345 @@
+{
+    "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+    "file_name": "d86be8a2fa1aab721d7de6de7fd4f5267c914cb2",
+    "data_points": [
+        {
+            "company_name": "Swiss Water Decaffeinated Coffee Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                4,
+                10,
+                20
+            ]
+        },
+        {
+            "company_name": "Swiss Water Decaffeinated Coffee Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                12,
+                20
+            ]
+        },
+        {
+            "company_name": "Swiss Water Decaffeinated Coffee Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Food safety certifications (sites certified)",
+            "metric_src_pdf_page": [
+                12,
+                20,
+                21
+            ]
+        },
+        {
+            "company_name": "Swiss Water Decaffeinated Coffee Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                9,
+                20
+            ]
+        },
+        {
+            "company_name": "Swiss Water Decaffeinated Coffee Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                16,
+                20
+            ]
+        },
+        {
+            "company_name": "Swiss Water Decaffeinated Coffee Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of company-owned outlets",
+            "metric_src_pdf_page": [
+                16,
+                20
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                24,
+                25,
+                26
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                25,
+                26,
+                27
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Inventory of raw materials at year-end",
+            "metric_src_pdf_page": [
+                68,
+                67,
+                66,
+                65,
+                64,
+                63,
+                62,
+                61,
+                60,
+                59,
+                55,
+                56,
+                57
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Production capacity (e.g., bottling liters/hour)",
+            "metric_src_pdf_page": [
+                66,
+                65,
+                64,
+                63,
+                62,
+                61,
+                60,
+                59,
+                58
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                66,
+                65,
+                64,
+                63,
+                62,
+                61
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of warehouses in distribution network",
+            "metric_src_pdf_page": [
+                66,
+                65,
+                64,
+                63,
+                62,
+                61
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of company-owned outlets",
+            "metric_src_pdf_page": [
+                66,
+                65,
+                64,
+                63,
+                62,
+                61
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Year-end market share (by product category)",
+            "metric_src_pdf_page": [
+                66,
+                65,
+                64,
+                63,
+                62,
+                61,
+                60
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "Brand portfolio size (distinct brands at year-end)",
+            "metric_src_pdf_page": [
+                66,
+                65,
+                64,
+                63,
+                62,
+                61
+            ]
+        },
+        {
+            "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+            "industry": "Food & Beverage",
+            "metric_type": "SKU count in portfolio",
+            "metric_src_pdf_page": [
+                66,
+                65,
+                64,
+                63,
+                62,
+                61
+            ]
+        },
+        {
+            "company_name": "Swiss Water Decaffeinated Coffee Inc.",
+            "industry": "Food & Beverage",
+            "metric_type": "Number of manufacturing plants",
+            "metric_src_pdf_page": [
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                4,
+                5,
+                10,
+                18,
+                22
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                5,
+                8,
+                14,
+                20,
+                22
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                4,
+                10,
+                16,
+                19,
+                21
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                6,
+                9,
+                19
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                6,
+                17,
+                20
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                6,
+                8,
+                19
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                37,
+                38,
+                39
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                70,
+                79
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                70,
+                79
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                72,
+                73
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                85
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                83
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                96
+            ]
+        }
+    ]
+}

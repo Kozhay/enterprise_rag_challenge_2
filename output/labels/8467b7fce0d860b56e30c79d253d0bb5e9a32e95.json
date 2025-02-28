@@ -1,0 +1,662 @@
+{
+    "company_name": "Bridgewater Bancshares, Inc.",
+    "file_name": "8467b7fce0d860b56e30c79d253d0bb5e9a32e95",
+    "data_points": [
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                2,
+                3,
+                9,
+                12,
+                13
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                2,
+                4
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": []
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bank",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bank",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                27
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bank",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                28
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bank",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                28
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                58,
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                68
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                65
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                80,
+                81
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                81
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                87,
+                91
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                94,
+                95,
+                96,
+                98,
+                99,
+                100,
+                101,
+                102,
+                106,
+                107,
+                108,
+                109
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                96,
+                101,
+                102,
+                107,
+                108
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                113
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                117,
+                118
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                111,
+                112,
+                118
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                129,
+                138
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Total deposits at year-end",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Loans outstanding at year-end",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Assets under management (AUM)",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Number of customer accounts at year-end",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Branch count at year-end",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "metric_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "company_name": "Bridgewater Bancshares, Inc.",
+            "industry": "Financial Services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "metric_src_pdf_page": [
+                157
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": []
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                36,
+                37,
+                38,
+                39,
+                44
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                49
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                70
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                69
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                80,
+                81,
+                84
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                94,
+                95,
+                96,
+                106
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                115,
+                119,
+                121,
+                125
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                127,
+                128
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                140
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                157
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                157
+            ]
+        }
+    ]
+}
