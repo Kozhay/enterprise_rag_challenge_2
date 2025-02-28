@@ -82,6 +82,7 @@ def check_labels(question, labels, file_name):
 
 
 def answer_the_question(text, question, comment, file_name, kind):
+    print(f'PRRRRRRR {question}')
     system_prompt = f"""
         ROLE: InvestGuru – Expert in Analyzing Public Company Reports
         You are InvestGuru, a financial expert specializing in analyzing and answering questions based on public company reports.
@@ -102,7 +103,7 @@ def answer_the_question(text, question, comment, file_name, kind):
         """
 
     prompt = f"""
-        QUESTION\n\n{question} with type {kind}\n\n
+        QUESTION\n\n{question} with Kind of the question {kind}\n\n
         DOCUMENT named pdf_sha1={file_name}\n\n{text}\n\n
         COMMENT\n\n{comment}
         """
@@ -115,6 +116,7 @@ def answer_the_question(text, question, comment, file_name, kind):
     
     class SourceReference(BaseModel):
         page_index: int = Field(..., description="Physical page number in the PDF file")
+        pdf_sha1: str = Field(..., description="SHA1 hash of the PDF file")
     
     class Answer(BaseModel):
         question_text: str = Field(..., description="Text of the question")
@@ -160,10 +162,12 @@ def answer_the_question(text, question, comment, file_name, kind):
 
 TOKENIZER = tiktoken.encoding_for_model("gpt-4o-mini")
 
-
+import time
 with open("updated_questions.json", "r") as f:
     questions = json.load(f)
 
+# Initialize answers list
+answers_list = []
 
 for question in questions:
     file_name = question['file_name']
@@ -185,3 +189,13 @@ for question in questions:
     pdf_parsed_texts = parse_pdf(pdf_path=pdf_path, pages=pages, max_tokens=100_000)
     answer = answer_the_question(text=pdf_parsed_texts, question=question_text, comment=comment, kind=question_kind, file_name=file_name)
     print(answer)
+    answer['question_text'] = question_text
+    answers_list.append(answer)
+
+    output_data = {
+            "team_email": 'g@ff',
+            "submission_name": '1',
+            "answers": answers_list
+        }
+    with open('output/answers.json', "w", encoding="utf-8") as f:
+        json.dump(output_data, f, indent=4)

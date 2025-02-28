@@ -165,6 +165,13 @@ def main():
             file_name = company['sha1']
             company_name = company['company_name']
             major_industry = company['major_industry']
+            output_file_path = f"output/labels/{file_name}.json"
+            
+            # Check if the output file already exists
+            if os.path.exists(output_file_path):
+                logging.info(f"Skipping {company_name} with SHA1: {file_name} as output file already exists.")
+                continue
+            
             logging.info(f"Processing company: {company_name} with SHA1: {file_name} and industry: {major_industry}")
 
             # Set tokenizer model (e.g., "gpt-4" or "gpt-3.5-turbo")
@@ -176,9 +183,9 @@ def main():
             pages_to_parse = list(range(0, 5))  # End number is exclusive
             logging.info(f"Pages to parse: {pages_to_parse}")
 
-            pdf_parsed_texts = parse_pdf(pdf_path, max_tokens=100_000)
+            pdf_parsed_texts = parse_pdf(pdf_path, max_tokens=20_000)
             logging.info(f"Parsed {len(pdf_parsed_texts)} pages from the PDF.")
-
+            import time
             # Extract structured data
             structured_datas = []
             for pdf_text in pdf_parsed_texts:
