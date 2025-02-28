@@ -1,0 +1,95 @@
+{
+    "company_name": "0279901b645e568591ad95dac2c2bf939ef0c00d",
+    "data_points": [
+        {
+            "industry": "financial_services",
+            "metric_type": "Total assets on balance sheet at year-end",
+            "src_pdf_page": [
+                3,
+                4,
+                10,
+                11
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "Total deposits at year-end",
+            "src_pdf_page": [
+                3,
+                4,
+                9,
+                11
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "Loans outstanding at year-end",
+            "src_pdf_page": [
+                3,
+                4,
+                11
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "Assets under management (AUM)",
+            "src_pdf_page": [
+                3,
+                4,
+                10,
+                11
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "Non-performing loan ratio (NPL) at year-end",
+            "src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "Tier 1 capital ratio at year-end",
+            "src_pdf_page": [
+                3,
+                4,
+                11
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "Number of customer accounts at year-end",
+            "src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "Branch count at year-end",
+            "src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "End-of-year net interest margin (NIM)",
+            "src_pdf_page": [
+                3,
+                4,
+                10
+            ]
+        },
+        {
+            "industry": "financial_services",
+            "metric_type": "Return on equity (ROE) at year-end",
+            "src_pdf_page": [
+                3,
+                4,
+                11
+            ]
+        }
+    ]
+}

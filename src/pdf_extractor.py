@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from typing import Optional
+from typing import Optional, Union, Literal
 from enum import Enum
 import pymupdf4llm
 import tiktoken
@@ -8,9 +8,45 @@ import re
 import json
 import os
 from litellm import completion
+import litellm
+from pydantic import validator
 
+
+#litellm._turn_on_debug()
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
+
+class IndustryMetrics:
+    """Base class for industry-specific metrics"""
+    pass
+
+class FinancialServicesMetrics(IndustryMetrics, str, Enum):
+    """Metrics specific to the financial services industry"""
+    total_assets = "Total assets on balance sheet at year-end"
+    total_deposits = "Total deposits at year-end"
+    loans_outstanding = "Loans outstanding at year-end"
+    assets_under_management = "Assets under management (AUM)"
+    non_performing_loan_ratio = "Non-performing loan ratio (NPL) at year-end"
+    tier1_capital_ratio = "Tier 1 capital ratio at year-end"
+    customer_accounts = "Number of customer accounts at year-end"
+    branch_count = "Branch count at year-end"
+    net_interest_margin = "End-of-year net interest margin (NIM)"
+    return_on_equity = "Return on equity (ROE) at year-end"
+
+class TechnologyMetrics(IndustryMetrics, str, Enum):
+    """Metrics specific to the technology industry"""
+    r_and_d_spending = "Research and Development spending"
+    patent_count = "Number of patents"
+    software_revenue = "Software revenue"
+    # ... other tech metrics ...
+
+class HealthcareMetrics(IndustryMetrics, str, Enum):
+    """Metrics specific to the healthcare industry"""
+    patient_count = "Number of patients"
+    bed_capacity = "Hospital bed capacity"
+    clinical_trials = "Number of clinical trials"
+    # ... other healthcare metrics ...
 
 class Metric(str, Enum):
     rad_expenses = "research and development expenses"
@@ -44,27 +80,31 @@ class Currency(str, Enum):
     australian_dollar = "AUD"
     other = "OTHER"
 
-class Industry(str, Enum):
-    technology = "Technology", 
-    financial_services = "Financial Services", 
-    healthcare = "Healthcare", 
-    automotive = "Automotive",
-    retail = "Retail", 
-    energy_and_utilities = "Energy and Utilities", 
-    hospitality = "Hospitality",
-    telecommunications = "Telecommunications",
-    media_entertainment = "Media & Entertainment", 
-    pharmaceuticals = "Pharmaceuticals", 
-    aerospace_defense = "Aerospace & Defense",
-    transport_logistics = "Transport & Logistics",
-    food_beverage = "Food & Beverage"
 
 class DocumentDataPoint(BaseModel):
-    metric_type: Metric
-    value: float
-    currency: Optional[Currency]
-    point_in_time_as_iso_date: str
-    src_pdf_page: int
+    industry: Literal["financial_services", "technology", "healthcare"]  # Add more industries as needed
+    metric_type: Union[
+        FinancialServicesMetrics,
+        TechnologyMetrics,
+        HealthcareMetrics,
+        Metric  # Keep the general metrics as fallback
+    ]
+    src_pdf_page: list[int]
+
+    # Validate that metrics match the industry
+    @validator('metric_type')
+    def validate_metric_type(cls, v, values):
+        industry_to_metrics = {
+            "financial_services": FinancialServicesMetrics,
+            "technology": TechnologyMetrics,
+            "healthcare": HealthcareMetrics
+        }
+        
+        if 'industry' in values:
+            expected_metric_class = industry_to_metrics.get(values['industry'])
+            if expected_metric_class and not isinstance(v, (expected_metric_class, Metric)):
+                raise ValueError(f"Metric type must be from {expected_metric_class.__name__} for {values['industry']} industry")
+        return v
 
 
 class DocumentContent(BaseModel):
@@ -127,49 +167,66 @@ def parse_pdf(pdf_path, pages=None, max_tokens=500):
 
 
 
-def extract_document_content(text):
-    system_prompt = ("You are an assistant with the task of extracting precise information from long documents. "
-                     "You will be prompted with the contents of a document. Your task is to extract various metrics "
-#                     "as well as company role assignments "
-                     "from this document. With each metric, supply the point in "
-                     "time when the metric was measured according to the document,"
-                     "as well as the currency (if applicable). "
-                     "If the metric is an amount, extract the exact amount (e.g. "
-                     "if the amount in the document is given as '100 (in thousands)' "
-                     "or '100k', extract the value '100000')."
-                     "on every page you can find src_pdf_page as int, extract it"
-#                     "With each role assignment, supply when the role assignment started and ended, if possible."
-                     "\n\n"
-                     "Do your best to include as many metrics for as many points in time as possible!")                     
-    
-    
+import json
 
-    
+def extract_document_content(text, industry_type='financial_services'):
+    system_prompt = f"""
+        You are an assistant with access to a long document and a list of searchable items.
+        You are analyzing a document from the {industry_type} industry.
+        Your task is to identify the relevant pages in the document that potentially contain answers to the given queries (src_pdf_page).
+        Each item may correspond to multiple pages, and pages may be duplicated across different items.
+        If uncertain, err on the side of inclusion rather than exclusion.
+        You will receive a $100 bonus for accurately completing your task.
+        """
+
     messages = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": text},
-      ]
-    
+    ]
+
     response = completion(
-        model='gpt-4o-mini', #"ollama_chat/deepseek-r1:8b",
+        model='groq/llama-3.3-70b-versatile', #'gpt-4o-mini',
         messages=messages,
         response_format=DocumentContent,
-        #api_base="https://ollama-euw1.bwt-chatbwt-l3ke.avossuite.dev/"
-        )
+    )
 
+    # Extract token usage details
+    usage = response.usage
+    prompt_tokens = usage.prompt_tokens
+    completion_tokens = usage.completion_tokens
+    total_tokens = usage.total_tokens
+    #cached_tokens = usage.prompt_tokens_details.cached_tokens  # Extract cached tokens
+
+    logging.info(f"🔹 Token Usage - Prompt: {prompt_tokens}, Completion: {completion_tokens}, Total: {total_tokens}")
+
+    # Parse response content
     response_dict = json.loads(response.choices[0].message.content)
     return response_dict
+
+    # return {
+    #     "data": response_dict,
+    #     "token_usage": {
+    #         "prompt_tokens": prompt_tokens,
+    #         "completion_tokens": completion_tokens,
+    #         "total_tokens": total_tokens,
+    #         "cached_tokens": cached_tokens  # Include cached tokens in return
+    #     }
+    # }
+
 
 
 
  # Set tokenizer model (e.g., "gpt-4" or "gpt-3.5-turbo")
 TOKENIZER = tiktoken.encoding_for_model("gpt-4o-mini")
-name='0a61a353b1ea9fd9b8f63b60239634ca3007d58f'
+name='0279901b645e568591ad95dac2c2bf939ef0c00d' #0279901b645e568591ad95dac2c2bf939ef0c00d ACRES Commercial Realty Corp. Financial Services
 
 pdf_path = f"examples/pdfs/{name}.pdf"
 
 # Parse PDF
-pdf_parsed_texts = parse_pdf(pdf_path, max_tokens=100_000)
+# Generate list of pages to parse from 14 to 15
+pages_to_parse = list(range(0, 11))  # End number is exclusive
+
+pdf_parsed_texts = parse_pdf(pdf_path, pages_to_parse, max_tokens=100_000)
 
 # Extract structured data
 structured_datas = []
