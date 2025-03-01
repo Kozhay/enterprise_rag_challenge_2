@@ -8,43 +8,9 @@
             "metric_type": "Number of hospital beds at year-end",
             "metric_src_pdf_page": [
                 3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Active patient count (registered patients)",
-            "metric_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Value of medical equipment (balance sheet)",
-            "metric_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "End-of-year bed occupancy rate",
-            "metric_src_pdf_page": [
-                4,
+                10,
+                11,
                 24
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Number of healthcare professionals on staff",
-            "metric_src_pdf_page": [
-                3,
-                4
             ]
         },
         {
@@ -53,7 +19,8 @@
             "metric_type": "Number of owned clinics at year-end",
             "metric_src_pdf_page": [
                 3,
-                4
+                4,
+                10
             ]
         },
         {
@@ -61,8 +28,45 @@
             "industry": "Healthcare",
             "metric_type": "Number of managed clinics at year-end",
             "metric_src_pdf_page": [
+                4,
+                5,
+                11
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
                 3,
                 4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                4,
+                11
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                24
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                13,
+                14,
+                24
             ]
         },
         {
@@ -70,17 +74,9 @@
             "industry": "Healthcare",
             "metric_type": "Healthcare plan memberships (if applicable)",
             "metric_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "R&D pipeline (number of therapies in phases)",
-            "metric_src_pdf_page": [
-                3,
-                4
+                13,
+                14,
+                24
             ]
         },
         {
@@ -88,60 +84,9 @@
             "industry": "Healthcare",
             "metric_type": "Outstanding insurance claims (if applicable)",
             "metric_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Number of laboratories at year-end",
-            "metric_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Number of diagnostic centers at year-end",
-            "metric_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Number of healthcare professionals on staff",
-            "metric_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Active patient count (registered patients)",
-            "metric_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "End-of-year bed occupancy rate",
-            "metric_src_pdf_page": [
-                4
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Number of owned clinics at year-end",
-            "metric_src_pdf_page": [
-                4
+                12,
+                13,
+                24
             ]
         },
         {
@@ -149,79 +94,57 @@
             "industry": "Healthcare",
             "metric_type": "R&D pipeline (number of therapies in phases)",
             "metric_src_pdf_page": [
-                4
+                5,
+                6
             ]
         },
         {
-            "company_name": "HCA Healthcare",
+            "company_name": "Unknown",
             "industry": "Healthcare",
-            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_type": "Number of healthcare professionals on staff",
             "metric_src_pdf_page": [
-                4
+                25,
+                27
             ]
         },
         {
-            "company_name": "Healthcare Company",
+            "company_name": "Unknown",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                27,
+                29
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Healthcare",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                27,
+                29
+            ]
+        },
+        {
+            "company_name": "Unknown",
             "industry": "Healthcare",
             "metric_type": "Number of hospital beds at year-end",
             "metric_src_pdf_page": [
                 25,
-                26,
-                34
+                27
             ]
         },
         {
-            "company_name": "Healthcare Company",
-            "industry": "Healthcare",
-            "metric_type": "Active patient count (registered patients)",
-            "metric_src_pdf_page": [
-                25,
-                26,
-                34
-            ]
-        },
-        {
-            "company_name": "Healthcare Company",
-            "industry": "Healthcare",
-            "metric_type": "Healthcare plan memberships (if applicable)",
-            "metric_src_pdf_page": [
-                25,
-                26,
-                34
-            ]
-        },
-        {
-            "company_name": "Healthcare Company",
-            "industry": "Healthcare",
-            "metric_type": "Number of healthcare professionals on staff",
-            "metric_src_pdf_page": [
-                25,
-                26,
-                34
-            ]
-        },
-        {
-            "company_name": "Healthcare Company",
-            "industry": "Healthcare",
-            "metric_type": "End-of-year bed occupancy rate",
-            "metric_src_pdf_page": [
-                25,
-                26,
-                34
-            ]
-        },
-        {
-            "company_name": "Healthcare Company",
+            "company_name": "Unknown",
             "industry": "Healthcare",
             "metric_type": "R&D pipeline (number of therapies in phases)",
             "metric_src_pdf_page": [
-                25,
-                26,
-                34
+                29,
+                33
             ]
         },
         {
-            "company_name": "HCA Healthcare, Inc.",
+            "company_name": "Company A",
             "industry": "Healthcare",
             "metric_type": "Number of hospital beds at year-end",
             "metric_src_pdf_page": [
@@ -229,6 +152,56 @@
             ]
         },
         {
+            "company_name": "Company A",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "company_name": "Company A",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                60
+            ]
+        },
+        {
+            "company_name": "Company A",
+            "industry": "Healthcare",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                60
+            ]
+        },
+        {
+            "company_name": "Company A",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "company_name": "Company A",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                44,
+                47
+            ]
+        },
+        {
+            "company_name": "Company A",
+            "industry": "Healthcare",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                44,
+                45
+            ]
+        },
+        {
             "company_name": "HCA Healthcare, Inc.",
             "industry": "Healthcare",
             "metric_type": "Number of hospital beds at year-end",
@@ -247,9 +220,91 @@
         {
             "company_name": "HCA Healthcare, Inc.",
             "industry": "Healthcare",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
             "metric_type": "Active patient count (registered patients)",
             "metric_src_pdf_page": [
                 72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                63,
+                66,
+                68
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                82
             ]
         },
         {
@@ -257,34 +312,7 @@
             "industry": "Healthcare",
             "metric_type": "R&D pipeline (number of therapies in phases)",
             "metric_src_pdf_page": [
-                72
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Number of hospital beds at year-end",
-            "metric_src_pdf_page": [
-                101,
-                102,
-                103
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Active patient count (registered patients)",
-            "metric_src_pdf_page": [
-                99,
-                100
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Number of hospital beds at year-end",
-            "metric_src_pdf_page": [
-                106
+                82
             ]
         },
         {
@@ -306,49 +334,10 @@
         {
             "company_name": "HCA Healthcare, Inc.",
             "industry": "Healthcare",
-            "metric_type": "Active patient count (registered patients)",
+            "metric_type": "Outstanding insurance claims (if applicable)",
             "metric_src_pdf_page": [
-                106
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Value of medical equipment (balance sheet)",
-            "metric_src_pdf_page": [
-                106
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "End-of-year bed occupancy rate",
-            "metric_src_pdf_page": [
-                106
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Number of healthcare professionals on staff",
-            "metric_src_pdf_page": [
-                106
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Number of laboratories at year-end",
-            "metric_src_pdf_page": [
-                106
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare, Inc.",
-            "industry": "Healthcare",
-            "metric_type": "Number of diagnostic centers at year-end",
-            "metric_src_pdf_page": [
-                106
+                110,
+                111
             ]
         },
         {
@@ -356,13 +345,14 @@
             "industry": "Healthcare",
             "metric_type": "Healthcare plan memberships (if applicable)",
             "metric_src_pdf_page": [
-                106
+                107,
+                108
             ]
         },
         {
             "company_name": "HCA Healthcare, Inc.",
             "industry": "Healthcare",
-            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_type": "Number of healthcare professionals on staff",
             "metric_src_pdf_page": [
                 106
             ]
@@ -372,25 +362,16 @@
             "industry": "Healthcare",
             "metric_type": "R&D pipeline (number of therapies in phases)",
             "metric_src_pdf_page": [
-                106
+                108
             ]
         },
         {
-            "company_name": "HCA Healthcare",
+            "company_name": "HCA Healthcare, Inc.",
             "industry": "Healthcare",
-            "metric_type": "Number of hospital beds at year-end",
+            "metric_type": "Value of medical equipment (balance sheet)",
             "metric_src_pdf_page": [
-                131,
-                132
-            ]
-        },
-        {
-            "company_name": "HCA Healthcare",
-            "industry": "Healthcare",
-            "metric_type": "Active patient count (registered patients)",
-            "metric_src_pdf_page": [
-                131,
-                132
+                114,
+                115
             ]
         },
         {
@@ -398,8 +379,7 @@
             "industry": "Healthcare",
             "metric_type": "Number of healthcare professionals on staff",
             "metric_src_pdf_page": [
-                131,
-                132
+                131
             ]
         }
     ],
@@ -408,328 +388,881 @@
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
                 5,
+                6
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                5,
+                6,
                 7
             ]
         },
         {
-            "event_type": "has_regulatory_or_litigation_issues",
+            "event_type": "has_dividend_policy_changes",
             "events_src_pdf_page": [
-                6,
-                9
-            ]
-        },
-        {
-            "event_type": "has_leadership_changes",
-            "events_src_pdf_page": [
-                5
-            ]
-        },
-        {
-            "event_type": "mentions_new_risk_factors",
-            "events_src_pdf_page": [
-                6,
-                10
-            ]
-        },
-        {
-            "event_type": "has_new_product_launches",
-            "events_src_pdf_page": [
-                25,
-                27,
-                32
-            ]
-        },
-        {
-            "event_type": "has_leadership_changes",
-            "events_src_pdf_page": [
-                25,
-                38,
-                39
-            ]
-        },
-        {
-            "event_type": "has_esg_initiatives",
-            "events_src_pdf_page": [
-                25,
-                28,
-                35
+                3
             ]
         },
         {
             "event_type": "has_capital_expenditures",
             "events_src_pdf_page": [
-                47,
-                48
+                4,
+                5
             ]
         },
         {
-            "event_type": "has_share_buyback_plans",
+            "event_type": "has_regulatory_or_litigation_issues",
             "events_src_pdf_page": [
-                61,
-                75
+                12,
+                13
             ]
         },
         {
-            "event_type": "has_dividend_policy_changes",
+            "event_type": "has_strategic_restructuring",
             "events_src_pdf_page": [
-                61,
-                75
+                7
             ]
         },
         {
-            "event_type": "has_executive_compensation",
+            "event_type": "has_supply_chain_disruptions",
             "events_src_pdf_page": [
-                81
+                12,
+                13
             ]
         },
         {
-            "event_type": "has_executive_compensation",
+            "event_type": "has_esg_initiatives",
             "events_src_pdf_page": [
-                82,
-                83
+                6,
+                7
             ]
         },
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "mentions_new_risk_factors",
             "events_src_pdf_page": [
-                82
-            ]
-        },
-        {
-            "event_type": "has_executive_compensation",
-            "events_src_pdf_page": [
-                112
-            ]
-        },
-        {
-            "event_type": "has_dividend_policy_changes",
-            "events_src_pdf_page": [
-                132
+                13,
+                14,
+                15
             ]
         },
         {
             "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                132
+                13,
+                14
             ]
         },
         {
             "event_type": "has_share_buyback_plans",
             "events_src_pdf_page": [
-                132
+                3
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                7
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                6
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                6
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                25
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                29,
+                31,
+                33
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                31,
+                35
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                30,
+                34,
+                35,
+                36
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                31,
+                37
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                43,
+                47,
+                51,
+                58
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                45,
+                56
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                49,
+                52
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                55
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                50
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                56,
+                57
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                61
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                61,
+                75
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                63,
+                64,
+                72,
+                73
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                83
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                83
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                83
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                121,
+                122
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                122
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                128
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                128
             ]
         }
     ],
     "fin_metrics": [
         {
-            "fin_metric_type": "total revenue",
-            "fin_metrics_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "fin_metric_type": "net income",
-            "fin_metrics_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "fin_metric_type": "operating income",
-            "fin_metrics_src_pdf_page": [
-                3,
-                4
-            ]
-        },
-        {
-            "fin_metric_type": "total assets",
-            "fin_metrics_src_pdf_page": [
-                8,
-                14
-            ]
-        },
-        {
             "fin_metric_type": "total liabilities",
             "fin_metrics_src_pdf_page": [
-                8,
-                14
+                12,
+                13
             ]
         },
         {
-            "fin_metric_type": "gross profit margin",
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
             "fin_metrics_src_pdf_page": [
                 3,
-                4
-            ]
-        },
-        {
-            "fin_metric_type": "total assets",
-            "fin_metrics_src_pdf_page": [
-                25,
-                30,
-                34
-            ]
-        },
-        {
-            "fin_metric_type": "total revenue",
-            "fin_metrics_src_pdf_page": [
-                25,
-                30,
-                34
-            ]
-        },
-        {
-            "fin_metric_type": "net income",
-            "fin_metrics_src_pdf_page": [
-                25,
-                30,
-                34
+                4,
+                11
             ]
         },
         {
             "fin_metric_type": "operating income",
             "fin_metrics_src_pdf_page": [
-                25,
-                30,
-                34
-            ]
-        },
-        {
-            "fin_metric_type": "long-term debt",
-            "fin_metrics_src_pdf_page": [
-                25,
-                30,
-                34
-            ]
-        },
-        {
-            "fin_metric_type": "total assets",
-            "fin_metrics_src_pdf_page": [
-                60
-            ]
-        },
-        {
-            "fin_metric_type": "total liabilities",
-            "fin_metrics_src_pdf_page": [
-                60
+                3,
+                4,
+                11
             ]
         },
         {
             "fin_metric_type": "net income",
             "fin_metrics_src_pdf_page": [
-                60
-            ]
-        },
-        {
-            "fin_metric_type": "total revenue",
-            "fin_metrics_src_pdf_page": [
-                60
-            ]
-        },
-        {
-            "fin_metric_type": "earnings per share (EPS)",
-            "fin_metrics_src_pdf_page": [
-                60
-            ]
-        },
-        {
-            "fin_metric_type": "dividend per share",
-            "fin_metrics_src_pdf_page": [
-                59
-            ]
-        },
-        {
-            "fin_metric_type": "net profit margin",
-            "fin_metrics_src_pdf_page": [
-                73
-            ]
-        },
-        {
-            "fin_metric_type": "total revenue",
-            "fin_metrics_src_pdf_page": [
-                73
-            ]
-        },
-        {
-            "fin_metric_type": "earnings per share (EPS)",
-            "fin_metrics_src_pdf_page": [
-                73
-            ]
-        },
-        {
-            "fin_metric_type": "operating income",
-            "fin_metrics_src_pdf_page": [
-                73
+                3,
+                4,
+                11
             ]
         },
         {
             "fin_metric_type": "operating margin",
             "fin_metrics_src_pdf_page": [
-                73
+                12,
+                13,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "gross margin",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                3,
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                4,
+                5
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                3,
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                3,
+                11
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                3,
+                12
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "accounts receivable",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "risk management spending",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                3
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                18
+            ]
+        },
+        {
+            "fin_metric_type": "customer acquisition spending",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "marketing spending",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "acquisition costs",
+            "fin_metrics_src_pdf_page": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "fin_metric_type": "intangible assets",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "quick ratio",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13
+            ]
+        },
+        {
+            "fin_metric_type": "inventory",
+            "fin_metrics_src_pdf_page": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "sustainability initiatives spending",
+            "fin_metrics_src_pdf_page": [
+                6,
+                7
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                30,
+                32
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                28,
+                32
+            ]
+        },
+        {
+            "fin_metric_type": "marketing spending",
+            "fin_metrics_src_pdf_page": [
+                33
             ]
         },
         {
             "fin_metric_type": "total assets",
             "fin_metrics_src_pdf_page": [
+                29,
+                31
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                30,
+                32
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                30,
+                34
+            ]
+        },
+        {
+            "fin_metric_type": "accounts receivable",
+            "fin_metrics_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                59,
+                60
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                43,
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                64,
+                69,
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                64,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                74
+            ]
+        },
+        {
+            "fin_metric_type": "accounts receivable",
+            "fin_metrics_src_pdf_page": [
+                69,
+                74
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                63,
+                74,
+                75
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                74,
                 76
+            ]
+        },
+        {
+            "fin_metric_type": "marketing spending",
+            "fin_metrics_src_pdf_page": [
+                63
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                74
+            ]
+        },
+        {
+            "fin_metric_type": "gross margin",
+            "fin_metrics_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                64
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                64,
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                84,
+                85
             ]
         },
         {
             "fin_metric_type": "total revenue",
             "fin_metrics_src_pdf_page": [
                 100,
-                101,
-                102,
-                103
-            ]
-        },
-        {
-            "fin_metric_type": "return on assets (ROA)",
-            "fin_metrics_src_pdf_page": [
-                107
-            ]
-        },
-        {
-            "fin_metric_type": "operating margin",
-            "fin_metrics_src_pdf_page": [
-                107
+                101
             ]
         },
         {
             "fin_metric_type": "net income",
             "fin_metrics_src_pdf_page": [
-                110
+                101,
+                102
             ]
         },
         {
-            "fin_metric_type": "total revenue",
+            "fin_metric_type": "operating margin",
             "fin_metrics_src_pdf_page": [
-                110
+                98,
+                99
             ]
         },
         {
-            "fin_metric_type": "cash flow from operations",
+            "fin_metric_type": "return on assets (ROA)",
             "fin_metrics_src_pdf_page": [
-                108
+                101,
+                102
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                105,
+                106
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                101,
+                102
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                103,
+                104
             ]
         },
         {
             "fin_metric_type": "total assets",
             "fin_metrics_src_pdf_page": [
-                110
+                103,
+                104
+            ]
+        },
+        {
+            "fin_metric_type": "intangible assets",
+            "fin_metrics_src_pdf_page": [
+                104,
+                105
+            ]
+        },
+        {
+            "fin_metric_type": "marketing spending",
+            "fin_metrics_src_pdf_page": [
+                105,
+                106
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                104,
+                105
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                105,
+                106
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                105,
+                106
             ]
         },
         {
             "fin_metric_type": "dividend per share",
             "fin_metrics_src_pdf_page": [
-                132
+                105,
+                106
             ]
         },
         {
-            "fin_metric_type": "market capitalization",
+            "fin_metric_type": "net income",
             "fin_metrics_src_pdf_page": [
-                132
+                105
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                105,
+                110
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                123
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                128
             ]
         }
     ]

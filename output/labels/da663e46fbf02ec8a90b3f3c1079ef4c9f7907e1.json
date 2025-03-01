@@ -5,25 +5,9 @@
         {
             "company_name": "Albany International Corp.",
             "industry": "Aerospace & Defense",
-            "metric_type": "Number of employees with security clearance",
+            "metric_type": "Order backlog (value) at year-end",
             "metric_src_pdf_page": [
-                2
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Facilities footprint (number of sites)",
-            "metric_src_pdf_page": [
-                2
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Year-end patent portfolio (aerospace tech)",
-            "metric_src_pdf_page": [
-                16
+                14
             ]
         },
         {
@@ -37,81 +21,9 @@
         {
             "company_name": "Albany International Corp.",
             "industry": "Aerospace & Defense",
-            "metric_type": "Order backlog (value) at year-end",
+            "metric_type": "Number of employees with security clearance",
             "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Order backlog (units) at year-end",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Production capacity (aircraft/year)",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Production capacity (units/year)",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Military products in service (units)",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Satellite capacity in orbit",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Spacecraft capacity in orbit",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Partnerships with government agencies at year-end",
-            "metric_src_pdf_page": [
-                16
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Number of defense contracts active",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Number of government contracts active",
-            "metric_src_pdf_page": [
-                3
+                17
             ]
         },
         {
@@ -119,80 +31,56 @@
             "industry": "Aerospace & Defense",
             "metric_type": "Facilities footprint (sq. ft.)",
             "metric_src_pdf_page": [
-                3
+                8,
+                15
             ]
         },
         {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Defense products in service (units)",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Production capacity (units/year)",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Production capacity (aircraft/year)",
-            "metric_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Number of employees with security clearance",
-            "metric_src_pdf_page": [
-                2
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "R&D spending on advanced programs",
-            "metric_src_pdf_page": [
-                16
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
+            "company_name": "Unnamed Company",
             "industry": "Aerospace & Defense",
             "metric_type": "Order backlog (value) at year-end",
             "metric_src_pdf_page": [
-                38,
-                30,
-                29,
-                35
+                21,
+                22,
+                23,
+                24
             ]
         },
         {
-            "company_name": "Albany International Corp.",
+            "company_name": "Unnamed Company",
             "industry": "Aerospace & Defense",
-            "metric_type": "Production capacity (aircraft/year)",
+            "metric_type": "Number of defense contracts active",
             "metric_src_pdf_page": [
-                30,
-                32,
-                37,
+                22,
+                23,
+                24
+            ]
+        },
+        {
+            "company_name": "Albany International",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Facilities footprint (sq. ft.)",
+            "metric_src_pdf_page": [
+                32
+            ]
+        },
+        {
+            "company_name": "Albany International",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (value) at year-end",
+            "metric_src_pdf_page": [
                 38
             ]
         },
         {
             "company_name": "Albany International Corp.",
             "industry": "Aerospace & Defense",
-            "metric_type": "Number of defense contracts active",
+            "metric_type": "Order backlog (value) at year-end",
             "metric_src_pdf_page": [
-                30,
-                31,
-                35,
-                36
+                43,
+                44,
+                45,
+                46
             ]
         },
         {
@@ -200,42 +88,8 @@
             "industry": "Aerospace & Defense",
             "metric_type": "R&D spending on advanced programs",
             "metric_src_pdf_page": [
-                38,
-                39,
-                40,
-                54
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Number of defense contracts active",
-            "metric_src_pdf_page": [
-                55,
-                56,
-                60,
-                74
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Number of government contracts active",
-            "metric_src_pdf_page": [
-                55,
-                56,
-                60,
-                74
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "R&D spending on advanced programs",
-            "metric_src_pdf_page": [
-                55,
-                60,
-                74
+                43,
+                45
             ]
         },
         {
@@ -243,36 +97,8 @@
             "industry": "Aerospace & Defense",
             "metric_type": "Production capacity (units/year)",
             "metric_src_pdf_page": [
-                55,
-                60
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Order backlog (value) at year-end",
-            "metric_src_pdf_page": [
-                55,
-                60
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Order backlog (units) at year-end",
-            "metric_src_pdf_page": [
-                55,
-                60
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Number of employees with security clearance",
-            "metric_src_pdf_page": [
-                55,
-                56,
-                60
+                43,
+                44
             ]
         },
         {
@@ -280,56 +106,7 @@
             "industry": "Aerospace & Defense",
             "metric_type": "Military products in service (units)",
             "metric_src_pdf_page": [
-                55,
-                60
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Defense products in service (units)",
-            "metric_src_pdf_page": [
-                55,
-                60
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Satellite capacity in orbit",
-            "metric_src_pdf_page": [
-                55
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Spacecraft capacity in orbit",
-            "metric_src_pdf_page": [
-                55,
-                60
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Order backlog (value) at year-end",
-            "metric_src_pdf_page": [
-                94,
-                96,
-                105,
-                107,
-                109
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Production capacity (aircraft/year)",
-            "metric_src_pdf_page": [
-                118,
-                120,
-                122
+                43
             ]
         },
         {
@@ -337,9 +114,9 @@
             "industry": "Aerospace & Defense",
             "metric_type": "R&D spending on advanced programs",
             "metric_src_pdf_page": [
-                140,
-                142,
-                144
+                62,
+                63,
+                65
             ]
         },
         {
@@ -347,248 +124,639 @@
             "industry": "Aerospace & Defense",
             "metric_type": "Number of defense contracts active",
             "metric_src_pdf_page": [
-                150,
-                152,
-                154
+                60
             ]
         },
         {
             "company_name": "Albany International Corp.",
             "industry": "Aerospace & Defense",
-            "metric_type": "Number of employees with security clearance",
+            "metric_type": "Number of government contracts active",
             "metric_src_pdf_page": [
-                160,
-                162,
-                164
+                60
             ]
         },
         {
-            "company_name": "Albany International Corp.",
+            "company_name": "Albany International",
             "industry": "Aerospace & Defense",
-            "metric_type": "Military products in service (units)",
+            "metric_type": "Number of government contracts active",
             "metric_src_pdf_page": [
-                170,
-                172,
-                174
+                73
             ]
         },
         {
-            "company_name": "Albany International Corp.",
+            "company_name": "Albany International",
             "industry": "Aerospace & Defense",
-            "metric_type": "Defense products in service (units)",
+            "metric_type": "Number of defense contracts active",
             "metric_src_pdf_page": [
-                180,
-                182,
-                184
+                73
             ]
         },
         {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Facilities footprint (sq. ft.)",
-            "metric_src_pdf_page": [
-                190,
-                192,
-                194
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Facilities footprint (number of sites)",
-            "metric_src_pdf_page": [
-                200,
-                202,
-                204
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
-            "industry": "Aerospace & Defense",
-            "metric_type": "Partnerships with government agencies at year-end",
-            "metric_src_pdf_page": [
-                210,
-                212,
-                214
-            ]
-        },
-        {
-            "company_name": "Albany International Corp.",
+            "company_name": "Albany International",
             "industry": "Aerospace & Defense",
             "metric_type": "Order backlog (value) at year-end",
             "metric_src_pdf_page": [
-                119,
-                120
+                72,
+                73
             ]
         },
         {
-            "company_name": "Albany International Corp.",
+            "company_name": "Albany International",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (units) at year-end",
+            "metric_src_pdf_page": [
+                72,
+                73
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (value) at year-end",
+            "metric_src_pdf_page": [
+                79
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Production capacity (units/year)",
+            "metric_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Aerospace & Defense",
+            "metric_type": "R&D spending on advanced programs",
+            "metric_src_pdf_page": [
+                81
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of employees with security clearance",
+            "metric_src_pdf_page": [
+                84
+            ]
+        },
+        {
+            "company_name": "Unknown",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Military products in service (units)",
+            "metric_src_pdf_page": [
+                79
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (value) at year-end",
+            "metric_src_pdf_page": [
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Order backlog (units) at year-end",
+            "metric_src_pdf_page": [
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
             "industry": "Aerospace & Defense",
             "metric_type": "Production capacity (aircraft/year)",
             "metric_src_pdf_page": [
-                114,
-                115
+                94,
+                95,
+                96
             ]
         },
         {
-            "company_name": "Albany International Corp.",
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Production capacity (units/year)",
+            "metric_src_pdf_page": [
+                94,
+                95,
+                96
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
             "industry": "Aerospace & Defense",
             "metric_type": "Number of defense contracts active",
             "metric_src_pdf_page": [
-                114,
-                115
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of government contracts active",
+            "metric_src_pdf_page": [
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "R&D spending on advanced programs",
+            "metric_src_pdf_page": [
+                95,
+                96,
+                97
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Number of employees with security clearance",
+            "metric_src_pdf_page": [
+                97,
+                98,
+                99
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Military products in service (units)",
+            "metric_src_pdf_page": [
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Defense products in service (units)",
+            "metric_src_pdf_page": [
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Satellite capacity in orbit",
+            "metric_src_pdf_page": [
+                98,
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Spacecraft capacity in orbit",
+            "metric_src_pdf_page": [
+                98,
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Facilities footprint (sq. ft.)",
+            "metric_src_pdf_page": [
+                95,
+                96,
+                97
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Facilities footprint (number of sites)",
+            "metric_src_pdf_page": [
+                95,
+                96,
+                97
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Year-end patent portfolio (aerospace tech)",
+            "metric_src_pdf_page": [
+                98,
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "Sikorsky",
+            "industry": "Aerospace & Defense",
+            "metric_type": "Partnerships with government agencies at year-end",
+            "metric_src_pdf_page": [
+                100,
+                101,
+                102
             ]
         }
     ],
     "events": [
         {
-            "event_type": "has_supply_chain_disruptions",
+            "event_type": "mentions_new_risk_factors",
             "events_src_pdf_page": [
-                20,
-                25
-            ]
-        },
-        {
-            "event_type": "has_rnd_investment_numbers",
-            "events_src_pdf_page": [
+                13,
+                14,
+                15,
                 16
             ]
         },
         {
-            "event_type": "has_strategic_restructuring",
+            "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                21
+                14,
+                15,
+                16
             ]
         },
         {
-            "event_type": "has_financial_performance_indicators",
+            "event_type": "has_supply_chain_disruptions",
             "events_src_pdf_page": [
-                3,
-                4
+                15,
+                16
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                7,
+                17
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                18
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                22,
+                23
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                25
             ]
         },
         {
             "event_type": "mentions_new_risk_factors",
             "events_src_pdf_page": [
                 20,
-                25
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                28
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                39
             ]
         },
         {
             "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                20
+                37
             ]
         },
         {
-            "event_type": "has_regulatory_or_litigation_issues",
+            "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                20
+                41,
+                44,
+                47,
+                48
             ]
         },
         {
-            "event_type": "has_executive_compensation",
+            "event_type": "has_supply_chain_disruptions",
             "events_src_pdf_page": [
-                32,
-                33,
-                36
+                41,
+                42,
+                43
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                47
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                62,
+                63,
+                65
             ]
         },
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                60,
-                64,
+                74
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                75,
+                76,
+                77
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                74
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                74
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                76,
+                77
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                73,
                 74
             ]
         },
         {
             "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
-                60,
-                64,
-                74
+                74,
+                75
             ]
         },
         {
-            "event_type": "has_new_product_launches",
+            "event_type": "has_guidance_updates",
             "events_src_pdf_page": [
-                60,
-                74
-            ]
-        },
-        {
-            "event_type": "has_supply_chain_disruptions",
-            "events_src_pdf_page": [
-                60,
-                74
-            ]
-        },
-        {
-            "event_type": "has_leadership_changes",
-            "events_src_pdf_page": [
-                234,
-                236,
-                238
-            ]
-        },
-        {
-            "event_type": "has_new_product_launches",
-            "events_src_pdf_page": [
-                250,
-                252,
-                254
-            ]
-        },
-        {
-            "event_type": "has_supply_chain_disruptions",
-            "events_src_pdf_page": [
-                270,
-                272,
-                274
+                74,
+                75
             ]
         },
         {
             "event_type": "has_dividend_policy_changes",
             "events_src_pdf_page": [
-                300,
-                302,
-                304
+                74
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                76
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                72,
+                73,
+                74,
+                75
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                85
             ]
         },
         {
             "event_type": "has_leadership_changes",
             "events_src_pdf_page": [
-                110,
-                111
+                84,
+                89
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                90
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                84
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                88
             ]
         },
         {
             "event_type": "has_rnd_investment_numbers",
             "events_src_pdf_page": [
-                114,
-                115
+                81
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                84
+            ]
+        },
+        {
+            "event_type": "Mentions recent mergers and acquisitions",
+            "events_src_pdf_page": [
+                105,
+                106
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "event_type": "has_layoffs",
+            "events_src_pdf_page": [
+                94,
+                95
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                105,
+                106
+            ]
+        },
+        {
+            "event_type": "has_rnd_investment_numbers",
+            "events_src_pdf_page": [
+                95,
+                96
             ]
         },
         {
             "event_type": "has_new_product_launches",
             "events_src_pdf_page": [
-                110,
-                111
+                100,
+                101
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                95,
+                96
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                97,
+                98
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                101,
+                102
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                105,
+                106
+            ]
+        },
+        {
+            "event_type": "has_capital_structure_changes",
+            "events_src_pdf_page": [
+                103,
+                104
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                98,
+                99
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                105,
+                106
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                104,
+                105
+            ]
+        },
+        {
+            "event_type": "has_strategic_restructuring",
+            "events_src_pdf_page": [
+                95,
+                96
+            ]
+        },
+        {
+            "event_type": "has_supply_chain_disruptions",
+            "events_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                101,
+                102
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                107,
+                109
+            ]
+        },
+        {
+            "event_type": "has_financial_performance_indicators",
+            "events_src_pdf_page": [
+                125,
+                126,
+                127
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                125,
+                126,
+                127
             ]
         }
     ],
     "fin_metrics": [
         {
-            "fin_metric_type": "total revenue",
+            "fin_metric_type": "research and development expenses",
             "fin_metrics_src_pdf_page": [
-                3
-            ]
-        },
-        {
-            "fin_metric_type": "net income",
-            "fin_metrics_src_pdf_page": [
-                3
+                16
             ]
         },
         {
@@ -598,75 +766,171 @@
             ]
         },
         {
-            "fin_metric_type": "operating margin",
+            "fin_metric_type": "net profit margin",
             "fin_metrics_src_pdf_page": [
                 3
             ]
         },
         {
-            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metric_type": "total liabilities",
             "fin_metrics_src_pdf_page": [
                 3
-            ]
-        },
-        {
-            "fin_metric_type": "net income",
-            "fin_metrics_src_pdf_page": [
-                36,
-                44,
-                49,
-                50,
-                51
             ]
         },
         {
             "fin_metric_type": "total assets",
             "fin_metrics_src_pdf_page": [
-                35,
-                36,
-                44,
-                50,
-                51
+                3
+            ]
+        },
+        {
+            "fin_metric_type": "marketing spending",
+            "fin_metrics_src_pdf_page": [
+                16
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                2
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                3
             ]
         },
         {
             "fin_metric_type": "long-term debt",
             "fin_metrics_src_pdf_page": [
-                35,
-                36,
-                44,
-                50,
-                51
-            ]
-        },
-        {
-            "fin_metric_type": "earnings per share (EPS)",
-            "fin_metrics_src_pdf_page": [
-                36,
-                44,
-                49,
-                51
+                3
             ]
         },
         {
             "fin_metric_type": "net income",
             "fin_metrics_src_pdf_page": [
-                58,
-                61,
-                74
+                3
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                25
             ]
         },
         {
             "fin_metric_type": "total revenue",
             "fin_metrics_src_pdf_page": [
-                58,
-                59,
-                60,
-                74
+                20,
+                21
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                22,
+                24
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                23,
+                24
+            ]
+        },
+        {
+            "fin_metric_type": "risk management spending",
+            "fin_metrics_src_pdf_page": [
+                23,
+                24
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                21,
+                22,
+                23,
+                24
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                29
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                35
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                38
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                44,
+                45
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                48,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                44
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                44,
+                45,
+                46,
+                47
             ]
         },
         {
             "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                42,
+                48,
+                49
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                52
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
             "fin_metrics_src_pdf_page": [
                 58
             ]
@@ -674,96 +938,341 @@
         {
             "fin_metric_type": "operating income",
             "fin_metrics_src_pdf_page": [
-                58,
-                61,
-                74
-            ]
-        },
-        {
-            "fin_metric_type": "gross profit margin",
-            "fin_metrics_src_pdf_page": [
                 58
-            ]
-        },
-        {
-            "fin_metric_type": "total assets",
-            "fin_metrics_src_pdf_page": [
-                60,
-                74
-            ]
-        },
-        {
-            "fin_metric_type": "total liabilities",
-            "fin_metrics_src_pdf_page": [
-                60,
-                74
-            ]
-        },
-        {
-            "fin_metric_type": "cash flow from operations",
-            "fin_metrics_src_pdf_page": [
-                61,
-                74
-            ]
-        },
-        {
-            "fin_metric_type": "shareholders' equity",
-            "fin_metrics_src_pdf_page": [
-                60,
-                74
-            ]
-        },
-        {
-            "fin_metric_type": "total revenue",
-            "fin_metrics_src_pdf_page": [
-                86,
-                87,
-                88
-            ]
-        },
-        {
-            "fin_metric_type": "net income",
-            "fin_metrics_src_pdf_page": [
-                94,
-                96,
-                98
             ]
         },
         {
             "fin_metric_type": "earnings per share (EPS)",
             "fin_metrics_src_pdf_page": [
-                81,
-                82,
-                83
+                58
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                58
             ]
         },
         {
             "fin_metric_type": "capital expenditures",
             "fin_metrics_src_pdf_page": [
-                84,
-                85,
-                86
+                72,
+                73,
+                74,
+                75
             ]
         },
         {
-            "fin_metric_type": "net income",
+            "fin_metric_type": "total liabilities",
             "fin_metrics_src_pdf_page": [
-                118,
-                119
+                67,
+                70,
+                73,
+                76
             ]
         },
         {
             "fin_metric_type": "total assets",
             "fin_metrics_src_pdf_page": [
-                114,
-                115
+                73,
+                76
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                72,
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                72,
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                73,
+                75
             ]
         },
         {
             "fin_metric_type": "total revenue",
             "fin_metrics_src_pdf_page": [
-                114,
-                115
+                72,
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                68,
+                69,
+                70,
+                71
+            ]
+        },
+        {
+            "fin_metric_type": "inventory",
+            "fin_metrics_src_pdf_page": [
+                75
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                74,
+                75
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                78,
+                83,
+                87
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                87,
+                88,
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                78,
+                81,
+                84
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                85
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                85
+            ]
+        },
+        {
+            "fin_metric_type": "accounts receivable",
+            "fin_metrics_src_pdf_page": [
+                79,
+                82,
+                91,
+                92
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                84,
+                87
+            ]
+        },
+        {
+            "fin_metric_type": "gross margin",
+            "fin_metrics_src_pdf_page": [
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "operating cash flow",
+            "fin_metrics_src_pdf_page": [
+                79
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                84,
+                86
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "free cash flow",
+            "fin_metrics_src_pdf_page": [
+                80
+            ]
+        },
+        {
+            "fin_metric_type": "quick ratio",
+            "fin_metrics_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                83
+            ]
+        },
+        {
+            "fin_metric_type": "EBITDA",
+            "fin_metrics_src_pdf_page": [
+                84
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                83,
+                88
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                85
+            ]
+        },
+        {
+            "fin_metric_type": "inventory",
+            "fin_metrics_src_pdf_page": [
+                86,
+                87
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                87
+            ]
+        },
+        {
+            "fin_metric_type": "acquisition costs",
+            "fin_metrics_src_pdf_page": [
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                84
+            ]
+        },
+        {
+            "fin_metric_type": "marketing spending",
+            "fin_metrics_src_pdf_page": [
+                88,
+                89
+            ]
+        },
+        {
+            "fin_metric_type": "accounts receivable",
+            "fin_metrics_src_pdf_page": [
+                93,
+                94
+            ]
+        },
+        {
+            "fin_metric_type": "inventory",
+            "fin_metrics_src_pdf_page": [
+                94,
+                95
+            ]
+        },
+        {
+            "fin_metric_type": "capital expenditures",
+            "fin_metrics_src_pdf_page": [
+                95,
+                96
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                97,
+                98
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                101,
+                102
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                103,
+                104
+            ]
+        },
+        {
+            "fin_metric_type": "research and development expenses",
+            "fin_metrics_src_pdf_page": [
+                95,
+                96
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                106,
+                107
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                104,
+                105
+            ]
+        },
+        {
+            "fin_metric_type": "shareholders' equity",
+            "fin_metrics_src_pdf_page": [
+                107,
+                108,
+                109
             ]
         }
     ]

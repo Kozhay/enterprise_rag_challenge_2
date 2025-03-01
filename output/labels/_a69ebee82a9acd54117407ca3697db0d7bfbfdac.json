@@ -1,0 +1,736 @@
+{
+    "company_name": "HCA Healthcare, Inc.",
+    "file_name": "a69ebee82a9acd54117407ca3697db0d7bfbfdac",
+    "data_points": [
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                4,
+                24
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                4
+            ]
+        },
+        {
+            "company_name": "Healthcare Company",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                25,
+                26,
+                34
+            ]
+        },
+        {
+            "company_name": "Healthcare Company",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                25,
+                26,
+                34
+            ]
+        },
+        {
+            "company_name": "Healthcare Company",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                25,
+                26,
+                34
+            ]
+        },
+        {
+            "company_name": "Healthcare Company",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                25,
+                26,
+                34
+            ]
+        },
+        {
+            "company_name": "Healthcare Company",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                25,
+                26,
+                34
+            ]
+        },
+        {
+            "company_name": "Healthcare Company",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                25,
+                26,
+                34
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                60
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                72
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                101,
+                102,
+                103
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                99,
+                100
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of owned clinics at year-end",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of managed clinics at year-end",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Value of medical equipment (balance sheet)",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "End-of-year bed occupancy rate",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of laboratories at year-end",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Number of diagnostic centers at year-end",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Healthcare plan memberships (if applicable)",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "Outstanding insurance claims (if applicable)",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare, Inc.",
+            "industry": "Healthcare",
+            "metric_type": "R&D pipeline (number of therapies in phases)",
+            "metric_src_pdf_page": [
+                106
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of hospital beds at year-end",
+            "metric_src_pdf_page": [
+                131,
+                132
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Active patient count (registered patients)",
+            "metric_src_pdf_page": [
+                131,
+                132
+            ]
+        },
+        {
+            "company_name": "HCA Healthcare",
+            "industry": "Healthcare",
+            "metric_type": "Number of healthcare professionals on staff",
+            "metric_src_pdf_page": [
+                131,
+                132
+            ]
+        }
+    ],
+    "events": [
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                5,
+                7
+            ]
+        },
+        {
+            "event_type": "has_regulatory_or_litigation_issues",
+            "events_src_pdf_page": [
+                6,
+                9
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                5
+            ]
+        },
+        {
+            "event_type": "mentions_new_risk_factors",
+            "events_src_pdf_page": [
+                6,
+                10
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                25,
+                27,
+                32
+            ]
+        },
+        {
+            "event_type": "has_leadership_changes",
+            "events_src_pdf_page": [
+                25,
+                38,
+                39
+            ]
+        },
+        {
+            "event_type": "has_esg_initiatives",
+            "events_src_pdf_page": [
+                25,
+                28,
+                35
+            ]
+        },
+        {
+            "event_type": "has_capital_expenditures",
+            "events_src_pdf_page": [
+                47,
+                48
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                61,
+                75
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                61,
+                75
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                81
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                82,
+                83
+            ]
+        },
+        {
+            "event_type": "has_new_product_launches",
+            "events_src_pdf_page": [
+                82
+            ]
+        },
+        {
+            "event_type": "has_executive_compensation",
+            "events_src_pdf_page": [
+                112
+            ]
+        },
+        {
+            "event_type": "has_dividend_policy_changes",
+            "events_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "event_type": "has_guidance_updates",
+            "events_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "event_type": "has_share_buyback_plans",
+            "events_src_pdf_page": [
+                132
+            ]
+        }
+    ],
+    "fin_metrics": [
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                8,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                8,
+                14
+            ]
+        },
+        {
+            "fin_metric_type": "gross profit margin",
+            "fin_metrics_src_pdf_page": [
+                3,
+                4
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                25,
+                30,
+                34
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                25,
+                30,
+                34
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                25,
+                30,
+                34
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                25,
+                30,
+                34
+            ]
+        },
+        {
+            "fin_metric_type": "long-term debt",
+            "fin_metrics_src_pdf_page": [
+                25,
+                30,
+                34
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                60
+            ]
+        },
+        {
+            "fin_metric_type": "total liabilities",
+            "fin_metrics_src_pdf_page": [
+                60
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                60
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                60
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                60
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                59
+            ]
+        },
+        {
+            "fin_metric_type": "net profit margin",
+            "fin_metrics_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "earnings per share (EPS)",
+            "fin_metrics_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "operating income",
+            "fin_metrics_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                73
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                76
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                100,
+                101,
+                102,
+                103
+            ]
+        },
+        {
+            "fin_metric_type": "return on assets (ROA)",
+            "fin_metrics_src_pdf_page": [
+                107
+            ]
+        },
+        {
+            "fin_metric_type": "operating margin",
+            "fin_metrics_src_pdf_page": [
+                107
+            ]
+        },
+        {
+            "fin_metric_type": "net income",
+            "fin_metrics_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "fin_metric_type": "total revenue",
+            "fin_metrics_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "fin_metric_type": "cash flow from operations",
+            "fin_metrics_src_pdf_page": [
+                108
+            ]
+        },
+        {
+            "fin_metric_type": "total assets",
+            "fin_metrics_src_pdf_page": [
+                110
+            ]
+        },
+        {
+            "fin_metric_type": "dividend per share",
+            "fin_metrics_src_pdf_page": [
+                132
+            ]
+        },
+        {
+            "fin_metric_type": "market capitalization",
+            "fin_metrics_src_pdf_page": [
+                132
+            ]
+        }
+    ]
+}

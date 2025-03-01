@@ -225,3 +225,40 @@ class FoodAndBeverageMetrics(str, Enum):
     year_end_market_share_by_product_category = "Year-end market share (by product category)"
     food_safety_certifications = "Food safety certifications (sites certified)"
     brand_portfolio_size = "Brand portfolio size (distinct brands at year-end)"
+
+
+class FinMetric(str, Enum):
+    RAD_EXPENSES = "research and development expenses"
+    RISK_MANAGEMENT_SPENDING = "risk management spending"
+    RETURN_ON_ASSETS = "return on assets (ROA)"
+    CUSTOMER_ACQUISITION_SPENDING = "customer acquisition spending"
+    OPERATING_MARGIN = "operating margin"
+    MARKET_CAPITALIZATION = "market capitalization"
+    SUSTAINABILITY_INITIATIVES_SPENDING = "sustainability initiatives spending"
+    GROSS_PROFIT_MARGIN = "gross profit margin"
+    NET_PROFIT_MARGIN = "net profit margin"
+    TOTAL_LIABILITIES = "total liabilities"
+    TOTAL_ASSETS = "total assets"
+    INTANGIBLE_ASSETS = "intangible assets"
+    MARKETING_SPENDING = "marketing spending"
+    FREE_CASH_FLOW = "free cash flow"
+    EARNINGS_PER_SHARE = "earnings per share (EPS)"
+    ACCOUNTS_RECEIVABLE = "accounts receivable"
+    ACQUISITION_COSTS = "acquisition costs"
+    SHAREHOLDERS_EQUITY = "shareholders' equity"
+    OPERATING_CASH_FLOW = "operating cash flow"
+    QUICK_RATIO = "quick ratio"
+    NET_INCOME = "net income"
+    INVENTORY = "inventory"
+    TOTAL_REVENUE = "total revenue"
+    OPERATING_INCOME = "operating income"
+    GROSS_MARGIN = "gross margin"
+    EBITDA = "EBITDA"
+    CAPITAL_EXPENDITURES = "capital expenditures"
+    CASH_FLOW_FROM_OPERATIONS = "cash flow from operations"
+    LONG_TERM_DEBT = "long-term debt"
+    DIVIDEND_PER_SHARE = "dividend per share"
+
+class FinMetricData(BaseModel):
+    fin_metric_type: FinMetric
+    fin_metrics_src_pdf_page: list[int]

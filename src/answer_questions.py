@@ -24,9 +24,8 @@ def check_labels(question, labels, file_name):
         #ROLE: InvestGuru: Expert in Analyzing Public Company Reports
         You are InvestGuru, a financial expert specializing in analyzing and answering questions based on public company reports.
         Your assistant has already reviewed the reports and labeled the relevant pages.
-        #Main Task: Read the user’s QUESTION and the LABELS in the document.
-        Identify the specific pages that need to be reviewed again to accurately answer the question and commment why.
-        If you cannot answer the question based on the available data, return null to indicate this clearly.
+        #Main Task: Read the user's QUESTION and the LABELS in the document.
+        Based on the LABELS Identify the specific pages that need to be reviewed again to accurately answer the question and commment why.
         #Critical Consideration
         Your answer directly influences financial decisions, potentially leading to significant gains or losses for the user.
         If uncertain, err on the side of inclusion rather than exclusion.
@@ -35,7 +34,7 @@ def check_labels(question, labels, file_name):
 
     prompt = ("QUESTION\n\n"
               f"{question}\n\n"
-              "KNOWLEDGE DATABASE\n\n"
+              "LABELS\n\n"
               f"{labels}")
     
     messages = [
@@ -82,16 +81,16 @@ def check_labels(question, labels, file_name):
 
 
 def answer_the_question(text, question, comment, file_name, kind):
-    print(f'PRRRRRRR {question}')
     system_prompt = f"""
         ROLE: InvestGuru – Expert in Analyzing Public Company Reports
         You are InvestGuru, a financial expert specializing in analyzing and answering questions based on public company reports.
         #Main Task
         You already know which pages of the report are likely to contain the answer to the user’s question.
         Answer the user’s QUESTION using only the text from the DOCUMENT.
-        Additionally, you can refer to your own COMMENTS if they help in forming a precise answer.
+        Pay attentnito to fin metrics - extract them form the DOCUMET
         If the available data does not allow you to answer the question, return null to indicate this clearly.
-        If answer is found return the Physical page number in the PDF file that that is answer referencing to overwise null.
+        When answer is found return the Physical page number in the PDF file that that is answer referencing to overwise null.
+        (If there are multiple reference pages, try to chose only one that is most accurate)
         #Critical Considerations
         Your answer directly influences financial decisions, with potential significant gains or losses for the user.
         Accuracy is paramount—errors can have serious consequences.
@@ -105,7 +104,6 @@ def answer_the_question(text, question, comment, file_name, kind):
     prompt = f"""
         QUESTION\n\n{question} with Kind of the question {kind}\n\n
         DOCUMENT named pdf_sha1={file_name}\n\n{text}\n\n
-        COMMENT\n\n{comment}
         """
     
 
@@ -174,28 +172,134 @@ for question in questions:
     question_text = question['text']
     question_kind = question['kind']
     
-    logging.info(f'Start answer: {question_text}')
 
-    lables_json_file_path = f"output/labels/{file_name}.json"  # Replace with your actual JSON file path
-    labeled_pages_list = extract_pdf_pages_for_answer(lables_json_file_path)
-    labels_for_the_questions = check_labels(question=question_text, labels=labeled_pages_list, file_name=file_name)
-    pages = labels_for_the_questions['pages']
-    comment = labels_for_the_questions['comment']
-    logging.info(f'Pages for context: {pages}. Comment - {comment}')
-    
-    logging.info(f'Answering: {question_text}')
-    
-    pdf_path = f"examples/pdfs/{file_name}.pdf"
-    pdf_parsed_texts = parse_pdf(pdf_path=pdf_path, pages=pages, max_tokens=100_000)
-    answer = answer_the_question(text=pdf_parsed_texts, question=question_text, comment=comment, kind=question_kind, file_name=file_name)
-    print(answer)
-    answer['question_text'] = question_text
-    answers_list.append(answer)
+    if question_text.lower().startswith("which of the companies"):
+            # Comparative question handling: process multiple files
+            labels_for_comparasion = []
+            logging.info(f'Start answer WO: {question_text}')
+            for file in file_name:
+                lables_json_file_path = f"output/labels/{file}.json"  # Replace with your actual JSON file path
+                labeled_pages_list = extract_pdf_pages_for_answer(lables_json_file_path)
+                #labels_for_the_questions = check_labels(question=question_text, labels=labeled_pages_list, file_name=file)
+                labels_for_comparasion.append(labeled_pages_list)
+            print(labels_for_comparasion)
+            system_prompt = f"""
+                #ROLE: InvestGuru: Expert in Analyzing Public Company Reports
+                You are InvestGuru, a financial expert specializing in analyzing and answering questions based on public company reports.
+                Your assistant has already reviewed the reports and labeled the relevant pages.
+                #Main Task: 
+                This QUESTION asking to compare companies on some metric, so prepare 
+                list of specific pages to get info from each comapny PDF
+                #Critical Consideration
+                Your answer directly influences financial decisions, potentially leading to significant gains or losses for the user.
+                If uncertain, err on the side of inclusion rather than exclusion.
+                Accuracy is paramount—a mistake can have serious consequences.
+                """
 
-    output_data = {
-            "team_email": 'g@ff',
-            "submission_name": '1',
-            "answers": answers_list
-        }
-    with open('output/answers.json', "w", encoding="utf-8") as f:
-        json.dump(output_data, f, indent=4)
+            prompt = ("QUESTION\n\n"
+                    f"{question_text}\n\n"
+                    "LABELS\n\n"
+                    f"{labels_for_comparasion}")
+    
+            messages = [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": prompt},
+            ]
+
+    
+            class PagesForReviewItem(BaseModel):
+                company_name: str
+                file_name: str
+                pages: list[int]
+            
+            class PagesForReview(BaseModel):
+                companies: List[PagesForReviewItem]
+            
+            response = completion(
+                model='gpt-4o-mini',  #groq/llama-3.3-70b-versatile
+                messages=messages,
+                response_format=PagesForReview
+            )
+
+            response_dict = json.loads(response.choices[0].message.content)
+            metrics = []
+            for copany in response_dict['companies']:
+                print("CCCCCC", copany)
+                pdf_path = f"examples/pdfs/{copany['file_name']}.pdf"
+                pdf_parsed_texts = parse_pdf(pdf_path=pdf_path, pages=copany['pages'], max_tokens=30_000)
+                system_prompt = f"""
+                    #ROLE: InvestGuru: Expert in Analyzing Public Company Reports
+                    You are InvestGuru, a financial expert specializing in analyzing and answering questions based on public company reports.
+                    Your assistant has already reviewed the reports and labeled the relevant pages.
+                    #Main Task: 
+                    This QUESTION asking to compare companies on some metric, you work wit data for one comnpany extract for needed metirc
+                     "from this DOCUMENT. With each metric, supply the point in "
+                     "time when the metric was measured according to the document,"
+                     "as well as the currency (if applicable). "
+                     "If the metric is an amount, extract the exact amount (e.g. "
+                     "if the amount in the document is given as '100 (in thousands)' "
+                     "or '100k', extract the value '100000')."
+                """
+
+                prompt = f"""
+                    QUESTION\n\n{question_text} with Kind of the question {question_kind}\n\n
+                    DOCUMENT named {copany['file_name']}\n\n{pdf_parsed_texts}\n\n
+                    """
+        
+                messages = [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": prompt},
+                ]
+
+        
+                class PagesForReviewItem(BaseModel):
+                    company_name: str
+                    file_name: str
+                    metricValue: int
+                    pages: list[int]
+                
+                
+                
+                response = completion(
+                    model='gpt-4o-mini',  #groq/llama-3.3-70b-versatile
+                    messages=messages,
+                    response_format=PagesForReviewItem
+                )
+
+                response_dict = json.loads(response.choices[0].message.content)
+                metrics.append(response_dict)
+            print(metrics)
+            answer = answer_the_question(text=metrics, question=question_text, comment=None, kind=question_kind, file_name=None)
+            answer['question_text'] = question_text
+            answers_list.append(answer)
+            print(answers_list)
+    else:
+
+    
+    
+    
+        logging.info(f'Start answer: {question_text}')
+
+        lables_json_file_path = f"output/labels/{file_name}.json"  # Replace with your actual JSON file path
+        labeled_pages_list = extract_pdf_pages_for_answer(lables_json_file_path)
+        labels_for_the_questions = check_labels(question=question_text, labels=labeled_pages_list, file_name=file_name)
+        pages = labels_for_the_questions['pages']
+        comment = labels_for_the_questions['comment']
+        logging.info(f'Pages for context: {pages}. Comment - {comment}')
+        
+        logging.info(f'Answering: {question_text}')
+        
+        pdf_path = f"examples/pdfs/{file_name}.pdf"
+        pdf_parsed_texts = parse_pdf(pdf_path=pdf_path, pages=pages, max_tokens=30_000)
+        answer = answer_the_question(text=pdf_parsed_texts, question=question_text, comment=comment, kind=question_kind, file_name=file_name)
+        print(answer)
+        answer['question_text'] = question_text
+        answers_list.append(answer)
+
+        output_data = {
+                "team_email": 'g@ff',
+                "submission_name": '1',
+                "answers": answers_list
+            }
+        with open('output/answers.json', "w", encoding="utf-8") as f:
+            json.dump(output_data, f, indent=4)

@@ -76,12 +76,14 @@ def extract_document_content(text, industry_type, file_name):
     system_prompt = f"""
         You are an assistant with access to a long document and a list of searchable items.
         You are analyzing a document from the {industry_type} industry.
-        There are two types of searchable information:
+        There are three types of searchable information:
         - Metrics related to the industry.
         - Events that occurred during the year.
+        - Overall finance metrics
         Your task is to identify the relevant pages for each category:
-        - metrics_src_pdf_page for metrics-related information.
+        - metrics_src_pdf_page for industry related information.
         - events_src_pdf_page for event-related information.
+        - fin_metrics_src_pdf_page for financy metircs.
         Each item may correspond to multiple pages, and pages may be duplicated across different items.
         If uncertain, err on the side of inclusion rather than exclusion.
         You will receive a $100 bonus for accurately completing your task.
@@ -121,10 +123,11 @@ def extract_document_content(text, industry_type, file_name):
     class DocumentContent(BaseModel):
         data_points: list[DocumentDataPoint]
         events: list[models.AnnualEvents]
+        fin_metrics: list[models.FinMetricData]
     
     
     response = completion(
-        model='gpt-4o-mini',  #groq/llama-3.3-70b-versatile
+        model='gpt-4o',  #groq/llama-3.3-70b-versatile
         messages=messages,
         response_format=DocumentContent
     )
@@ -195,18 +198,21 @@ def main():
 
             merged_data_points = []
             merged_events = []
+            merged_fin_metrics = []
 
             # Iterate through structured_datas and merge the 'data_points'
             for data in structured_datas:
                 merged_data_points.extend(data['data_points'])
                 merged_events.extend(data['events'])
-                logging.info(f"Merged data points: {len(merged_data_points)}, Merged events: {len(merged_events)}")
+                merged_fin_metrics.extend(data['fin_metrics'])
+                logging.info(f"Merged data points: {len(merged_data_points)}, Merged events: {len(merged_events)},  Merged finmetrics: {len(merged_fin_metrics)}")
 
             final_output = {
                 'company_name': company_name,
                 'file_name': file_name,
                 'data_points': merged_data_points,
-                'events': merged_events
+                'events': merged_events,
+                'fin_metrics': merged_fin_metrics
             }
 
             # Print the final output
