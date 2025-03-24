@@ -23,3 +23,24 @@ Quick summary for the dry run:
 Next week run will be similar, but much slower, since we'll wait for the proper random seed from some block chain. Plus we'll have an awesome keynote!
 
 Huge thanks to everybody who came to the dry run today, asked questions and provided feedback!
+
+## Token Usage Monitoring
+
+The system tracks token usage across different stages:
+- Labeling
+- Filter labels
+- Answer generation
+
+Statistics are saved to `token_statistics.csv` for analysis.
+
+## Development
+
+The project uses a dev container configuration for consistent development environments. Required VS Code extensions are automatically installed when opening in the container.
+
+## Requirements
+
+- Python 3.12+
+- Docker (for dev container)
+- VS Code (recommended)
+
+See `requirements.txt` for Python package dependencies.
