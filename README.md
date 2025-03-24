@@ -1,28 +1,103 @@
-# TASK
-Question generator for the second round of RAG challenge is published!
+Here's a suggested README.md for your repository:
 
-Find it on Github in main.py. It uses an extended dataset of all PDFs in our database to generate better questions. This entire file is also published in the repository (dataset.json) so you can generate question lists locally.
+```markdown:README.md
+# Enterprise RAG Challenge Solution
 
-During the competition we will pick a random subset of PDFs from this entire dataset and share them for the ingestion. Afterwards we will generate and share questions for that subset.
+This repository contains a solution for the Enterprise RAG (Retrieval-Augmented Generation) Challenge, which focuses on extracting and analyzing information from company financial reports and answering questions about them with proper source references.
 
-For now, you can find a few samples of PDFs in samples and (round1/pdf)
+## Overview
 
-### Note: you need not only to extract the answers, but also reference pages from which they were extracted. This is the same work with references, sources and quotes that the enterprise segment likes for explainability.
+The system processes PDF documents through several stages:
+1. PDF extraction and labeling
+2. Question analysis and context retrieval 
+3. Answer generation with source references
 
-Next week we'll publish the submission API details and will do an optional dry run on Thursday.
+## Key Components
 
-# DRY RUN
+- `src/pdf_extractor.py` - Handles PDF parsing and initial data extraction
+- `src/models.py` - Contains data models for different industry metrics and events
+- `src/answer_questions.py` - Processes questions and generates answers with references
+- `src/read_src_data.py` - Utility for reading source data files
 
-Quick summary for the dry run:
+## Features
 
-(1) Data (questions, subset and PDFs) is available here: https://rag.timetoact.at/data/r2.0-test/
-(2) Challenge data next week will be places in exactly the same format in this folder: https://rag.timetoact.at/data/r2.0/ (but it will have more PDFs and data from the different seed)
-(3) You can already try running your RAG agents to answer the questions and upload them to the submission UI/API (preview): https://rag.timetoact.at/
-(4) Source code for the question generator is located here: https://github.com/trustbit/enterprise-rag-challenge You can study it and use it.
+- Industry-specific metric extraction (Financial Services, Technology, Healthcare, etc.)
+- Event detection in financial reports
+- Financial metric analysis
+- Source page reference tracking
+- Token usage monitoring
+- Support for comparative questions across multiple companies
 
-Next week run will be similar, but much slower, since we'll wait for the proper random seed from some block chain. Plus we'll have an awesome keynote!
+## Setup
 
-Huge thanks to everybody who came to the dry run today, asked questions and provided feedback!
+1. Clone the repository
+2. Set up the development container (requires Docker):
+```bash
+code .
+# Open in container when prompted
+```
+
+Or install dependencies manually:
+```bash
+pip install -r requirements.txt
+```
+
+3. Configure environment variables in `.devcontainer/.env`
+
+## Usage
+
+1. Place PDF files in `examples/pdfs/` directory
+
+2. Run the PDF extraction and labeling:
+```bash
+python src/pdf_extractor.py
+```
+
+3. Process questions and generate answers:
+```bash
+python src/answer_questions.py
+```
+
+The system will generate:
+- Labeled data in `output/labels/`
+- Answers with references in `output/answers.json`
+- Token usage statistics in `token_statistics.csv`
+
+## Data Models
+
+The system supports various industry-specific metrics including:
+- Financial Services
+- Technology
+- Healthcare
+- Automotive
+- Retail
+- Energy and Utilities
+- And more...
+
+Each industry has its own set of relevant metrics defined in `models.py`.
+
+## Output Format
+
+The answer output follows this structure:
+```json
+{
+    "team_email": "example@domain.com",
+    "submission_name": "submission_1",
+    "answers": [
+        {
+            "question_text": "...",
+            "kind": "number|name|boolean|names",
+            "value": "answer_value",
+            "references": [
+                {
+                    "page_index": 1,
+                    "pdf_sha1": "..."
+                }
+            ]
+        }
+    ]
+}
+```README.md
 
 ## Token Usage Monitoring
 
@@ -44,3 +119,4 @@ The project uses a dev container configuration for consistent development enviro
 - VS Code (recommended)
 
 See `requirements.txt` for Python package dependencies.
+```
